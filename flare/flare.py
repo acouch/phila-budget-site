@@ -9,12 +9,12 @@ NEST_KEYS = ['fund', 'department', 'class']
 
 INPUT_FILES = [
   {
-    'fiscal_year': '2018',
-    'path': '../proposed-ordinance/output/FY18-proposed.csv',
+    'fiscal_year': '2026',
+    'path': '../data/output/FY2026-estimated.csv',
   },
   {
-    'fiscal_year': '2019',
-    'path': '../proposed-ordinance/output/FY19-proposed.csv',
+    'fiscal_year': '2027',
+    'path': '../data/output/FY2027-proposed.csv',
   },
 ]
 

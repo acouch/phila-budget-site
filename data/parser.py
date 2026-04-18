@@ -4,7 +4,14 @@ import re
 import os
 
 PDF_PATH = "input/budget-in-brief-fy2027-proposed.pdf"
-OUTPUT_PATH = "output/general-fund-obligation-history.csv"
+OUTPUT_DIR = "output"
+
+FISCAL_YEARS = [
+    ("FY2025 Actual",    "FY2025-actual.csv",    0, "2025"),
+    ("FY2026 Adopted",   "FY2026-adopted.csv",   2, "2026"),
+    ("FY2026 Estimated", "FY2026-estimated.csv", 4, "2026"),
+    ("FY2027 Proposed",  "FY2027-proposed.csv",  6, "2027"),
+]
 
 # Pages 81-88 in the document are 0-indexed 80-87
 START_PAGE = 80
@@ -88,18 +95,14 @@ def parse_budget_pdf(pdf_path):
 
                     numbers = extract_numbers(stripped[len(matched_class):])
                     if len(numbers) >= 7:
-                        for fiscal_year, val in [
-                            ("FY2025 Actual", numbers[0]),
-                            ("FY2026 Adopted", numbers[2]),
-                            ("FY2026 Estimated", numbers[4]),
-                            ("FY2027 Proposed", numbers[6]),
-                        ]:
+                        for label, _, idx, year in FISCAL_YEARS:
                             rows.append({
-                                "fiscal_year": fiscal_year,
+                                "label": label,
+                                "fiscal_year": year,
                                 "fund": fund,
                                 "department": current_dept,
                                 "class": matched_class,
-                                "total": val,
+                                "total": numbers[idx],
                             })
                     continue
 
@@ -113,17 +116,21 @@ def parse_budget_pdf(pdf_path):
 
 
 def main():
-    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
     rows = parse_budget_pdf(PDF_PATH)
 
-    with open(OUTPUT_PATH, "w", newline="") as f:
-        writer = csv.DictWriter(
-            f, fieldnames=["fiscal_year", "fund", "department", "class", "total"]
-        )
-        writer.writeheader()
-        writer.writerows(rows)
-
-    print(f"Wrote {len(rows)} rows to {OUTPUT_PATH}")
+    fieldnames = ["fiscal_year", "fund", "department", "class", "total"]
+    for label, filename, _, _ in FISCAL_YEARS:
+        fy_rows = [
+            {k: v for k, v in r.items() if k != "label"}
+            for r in rows if r["label"] == label
+        ]
+        path = os.path.join(OUTPUT_DIR, filename)
+        with open(path, "w", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(fy_rows)
+        print(f"Wrote {len(fy_rows)} rows to {path}")
 
 
 if __name__ == "__main__":
