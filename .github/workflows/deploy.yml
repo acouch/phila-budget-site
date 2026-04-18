@@ -14,6 +14,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+          cache: npm
+          cache-dependency-path: website/package-lock.json
+
+      - name: Build
+        working-directory: website
+        run: |
+          npm install
+          npm run build
+
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
