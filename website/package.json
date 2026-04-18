@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "New developers, designers and ideator are welcome to join.",
   "scripts": {
-    "build": "parcel build src/index.html"
+    "build": "parcel build --public-url='.' src/index.html"
   },
   "staticFiles": {
     "staticPath": "src/data",
