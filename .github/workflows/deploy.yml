@@ -21,6 +21,9 @@ jobs:
           cache-dependency-path: website/package-lock.json
 
       - name: Build
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 8
         working-directory: website
         run: |
           npm install
