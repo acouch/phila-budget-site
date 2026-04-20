@@ -22,9 +22,8 @@ jobs:
 
       - name: Build
         working-directory: website/legacygulp
-        run: |
-          npm install
-          npm run build
+        run: npm install
+        run: npm run build
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
