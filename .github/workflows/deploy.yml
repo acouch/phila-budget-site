@@ -21,9 +21,13 @@ jobs:
           cache-dependency-path: website/legacygulp/package-lock.json
 
       - name: Build
-        working-directory: website/legacygulp
-        run: npm install
-        run: npm run build
+        defaults:
+          run:
+            shell: bash
+            working-directory: ./website/legacygulp
+        run: |
+          npm install
+          npm run build
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
