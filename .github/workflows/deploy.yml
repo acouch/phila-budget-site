@@ -27,6 +27,7 @@ jobs:
           ls
           npm install
           npm run build
+          pwd
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4

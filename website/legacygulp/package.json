@@ -2,7 +2,6 @@
   "name": "open-budget",
   "version": "0.0.0",
   "description": "New developers, designers and ideator are welcome to join.",
-  "main": "app/assets/javascripts/application.js",
   "scripts": {
     "build": "./node_modules/gulp/bin/gulp.js"
   },
