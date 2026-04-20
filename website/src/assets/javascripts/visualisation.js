@@ -269,6 +269,13 @@ $(function() {
             }
         };
 
+        var urlPath = [];
+
+        var updateUrlHash = function() {
+            var hash = urlPath.length > 0 ? '#' + urlPath.join('/') : window.location.pathname + window.location.search;
+            history.replaceState(null, null, hash);
+        };
+
         var level = {
             stack: [],
             all: [],
@@ -454,6 +461,8 @@ $(function() {
                     return;
                 }
                 OpenBudget.track('Visualisation', 'zoom in', d.id);
+                urlPath.push(d.id);
+                updateUrlHash();
 
                 headlines.focus(d, true);
 
@@ -597,6 +606,8 @@ $(function() {
                 headlines.focus(activeGroupD);
                 activeGroupD.computedRadius = activeGroupD.stuffedChildrenRadius;
                 OpenBudget.track('Visualisation', 'zoom out', activeGroupD.id);
+                urlPath.pop();
+                updateUrlHash();
 
                 newLevel.groups.filter(helpers.reject(activeGroupD)).selectAll('circle')
                     .transition().duration(hideSpeed)
@@ -669,6 +680,18 @@ $(function() {
 
                 // zoom out
                 svg.on('click', level.zoomOut);
+
+                var initialHash = window.location.hash.slice(1);
+                if (initialHash) {
+                    var idsToRestore = initialHash.split('/');
+                    idsToRestore.reduce(function(delay, nodeId) {
+                        setTimeout(function() {
+                            var circle = document.getElementById('c-' + nodeId);
+                            if (circle) d3.select(circle).each(level.zoomIn);
+                        }, delay);
+                        return delay + 900;
+                    }, 100);
+                }
                 //svg.on('touchend', level.zoomOut);
 
                 OpenBudget.track('Visualisation', 'initialized', undefined, undefined, true);
