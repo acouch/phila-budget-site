@@ -21,11 +21,10 @@ jobs:
           cache-dependency-path: website/legacygulp/package-lock.json
 
       - name: Build
-        defaults:
-          run:
-            shell: bash
-            working-directory: ./website/legacygulp
+        working-directory: ./website/legacygulp
         run: |
+          pwd
+          ls
           npm install
           npm run build
 
