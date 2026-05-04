@@ -3,14 +3,14 @@ import csv
 from collections import defaultdict
 import random
 
-SORT_BY = '2019'
+SORT_BY = '2026'
 
 NEST_KEYS = ['fund', 'department', 'class']
 
 INPUT_FILES = [
   {
     'fiscal_year': '2026',
-    'path': '../data/output/FY2026-estimated.csv',
+    'path': '../data/output/FY2026-adopted.csv',
   },
   {
     'fiscal_year': '2027',
