@@ -2,9 +2,46 @@ import pdfplumber
 import csv
 import re
 import os
+from pathlib import Path
 
 PDF_PATH = "input/budget-in-brief-fy2027-proposed.pdf"
 OUTPUT_FILE = "output/FY2027-proposed.csv"
+TAGGING_YML = Path(__file__).resolve().parent / "tagging.yml"
+DEFAULT_TAG = "Government Operations"
+
+
+def load_peoples_budget_tags(path):
+    # Minimal parser for the tagging.yml shape under `peoples_budget:`.
+    dept_to_tag = {}
+    current_tag = None
+    in_section = False
+    for raw in path.read_text().splitlines():
+        line = raw.split("#", 1)[0].rstrip()
+        if not line.strip():
+            continue
+        if not line.startswith(" "):
+            in_section = line.strip().rstrip(":") == "peoples_budget"
+            current_tag = None
+            continue
+        if not in_section:
+            continue
+        stripped = line.strip()
+        if line.startswith("    -"):
+            dept = stripped[1:].strip()
+            if dept and current_tag:
+                dept_to_tag[dept] = current_tag
+        elif line.startswith("  ") and stripped.endswith(":"):
+            current_tag = stripped[:-1].strip()
+        elif line.startswith("  ") and stripped.endswith("[]"):
+            current_tag = None
+    return dept_to_tag
+
+
+DEPT_TAGS = load_peoples_budget_tags(TAGGING_YML)
+
+
+def tag_for(dept):
+    return DEPT_TAGS.get(dept, DEFAULT_TAG)
 
 # 0-indexed page range for the other-funds appropriations ordinance (pages 102-116)
 START_PAGE = 101
@@ -207,10 +244,12 @@ def parse_budget_pdf(pdf_path):
                     if matched_class and current_dept:
                         amount = parse_amount(amount_str)
                         if amount is not None:
+                            dept = normalize_dept(current_dept)
                             rows.append({
                                 "fiscal_year": "2027",
                                 "fund": current_fund,
-                                "department": normalize_dept(current_dept),
+                                "department": dept,
+                                "tag_peoples_budget": tag_for(dept),
                                 "class": CLASS_NAME_MAP[matched_class],
                                 "total": amount,
                             })
@@ -222,7 +261,7 @@ def parse_budget_pdf(pdf_path):
 def main():
     rows = parse_budget_pdf(PDF_PATH)
 
-    fieldnames = ["fiscal_year", "fund", "department", "class", "total"]
+    fieldnames = ["fiscal_year", "fund", "department", "tag_peoples_budget", "class", "total"]
     with open(OUTPUT_FILE, "a", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writerows(rows)

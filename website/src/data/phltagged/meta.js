@@ -1,5 +1,5 @@
 window.OpenBudget = {"data":{"meta":{
-    "hierarchy": ["Funding category", "Category", "Department"],
+    "hierarchy": ["Funding category", "Category", "Fund"],
     "page_title": "City of Philadelphia Budget",
     "description": "",
     "h1": "City of Philadelphia",
