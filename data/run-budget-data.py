@@ -101,6 +101,12 @@ def create_pivot(input_csv, output_csv, dept_tags):
     print(f"\n=== Pivoting {input_csv.name} -> {output_csv.name} ===")
     cur, conn = load_csv(input_csv)
 
+    cur.execute("SELECT DISTINCT fiscal_year FROM rows ORDER BY fiscal_year")
+    fiscal_years = [r[0] for r in cur.fetchall()]
+    if len(fiscal_years) != 1:
+        print(f"  WARNING: expected 1 fiscal_year in {input_csv.name}, got {fiscal_years}")
+    fiscal_year = fiscal_years[0] if fiscal_years else ""
+
     cur.execute("SELECT DISTINCT fund FROM rows ORDER BY fund")
     funds = [r[0] for r in cur.fetchall()]
     print(f"Found {len(funds)} distinct funds:")
@@ -125,7 +131,7 @@ def create_pivot(input_csv, output_csv, dept_tags):
     rows = cur.fetchall()
 
     sql_header = [d[0] for d in cur.description]
-    out_header = sql_header[:1] + ["tag_peoples_budget"] + sql_header[1:]
+    out_header = ["fiscal_year", sql_header[0], "tag_peoples_budget"] + sql_header[1:]
 
     untagged = set()
     with output_csv.open("w", newline="") as f:
@@ -137,7 +143,7 @@ def create_pivot(input_csv, output_csv, dept_tags):
             if tag is None:
                 untagged.add(dept)
                 tag = DEFAULT_TAG
-            writer.writerow((dept, tag) + row[1:])
+            writer.writerow((fiscal_year, dept, tag) + row[1:])
 
     conn.close()
     print(f"Wrote {output_csv}")

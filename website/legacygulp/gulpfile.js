@@ -15,7 +15,7 @@ var dir = {
  * Main execution
  */
 gulp.task('default', ['clean'], function() {
-	gulp.start('index', '2018', 'images', 'data');
+	gulp.start('index', '2018', 'tagged', 'images', 'data');
 });
 
 /**
@@ -41,6 +41,23 @@ gulp.task('index', function() {
  */
 gulp.task('2018', function() {
 	return gulp.src(dir.dev + '2018.html')
+		.pipe(usemin({
+			css: [minifyCss(), 'concat'],
+			js_vendor: [uglify()],
+			js_app: [uglify()],
+			html: [minifyHtml({
+				conditionals: true
+			})]
+		}))
+		.pipe(gulp.dest(dir.prod));
+});
+
+/**
+ * tagged
+ * A multi-task - parses HTML docs and applies supplied functions to any defined JS/CSS blocks
+ */
+gulp.task('tagged', function() {
+	return gulp.src(dir.dev + 'tagged.html')
 		.pipe(usemin({
 			css: [minifyCss(), 'concat'],
 			js_vendor: [uglify()],

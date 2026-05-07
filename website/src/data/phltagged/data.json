@@ -1,0 +1,996 @@
+[
+  {
+    "children": [
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 1974368680,
+            "2027": 2054934645
+          }
+        },
+        "id": -7530320695758938739,
+        "name": "Finance-Employee Benefits"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 1136904633,
+            "2027": 1086019297
+          }
+        },
+        "id": 2536822778197888972,
+        "name": "Finance"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 852603035,
+            "2027": 915126642
+          }
+        },
+        "id": -2801781045776562506,
+        "name": "Sinking Fund Commission (Debt Service)"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 641434399,
+            "2027": 653808023
+          }
+        },
+        "id": -4197294034718985451,
+        "name": "Water"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 284029000,
+            "2027": 294479000
+          }
+        },
+        "id": -1631404040738079775,
+        "name": "Aviation"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 235026158,
+            "2027": 233919931
+          }
+        },
+        "id": -885910701198891875,
+        "name": "Office of Innovation and Technology"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 155756406,
+            "2027": 255892364
+          }
+        },
+        "id": -5084600489115620037,
+        "name": "Managing Director"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 107728922,
+            "2027": 112934741
+          }
+        },
+        "id": 3668700770045192997,
+        "name": "Public Property"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 101796019,
+            "2027": 39535856
+          }
+        },
+        "id": 169476330007609887,
+        "name": "Civil Service Commission"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 75832813,
+            "2027": 75502849
+          }
+        },
+        "id": 2705619305136742031,
+        "name": "Fleet Services"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 73452909,
+            "2027": 77099404
+          }
+        },
+        "id": -7092605688866602716,
+        "name": "Revenue"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 70258000,
+            "2027": 71790421
+          }
+        },
+        "id": -6953769448491933667,
+        "name": "Finance-Indemnities"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 58860100,
+            "2027": 52484100
+          }
+        },
+        "id": 3831346578690624002,
+        "name": "Finance-Budget Stabilization"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 57736320,
+            "2027": 63130838
+          }
+        },
+        "id": 3098886602289650309,
+        "name": "Public Property-Space Rentals"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 51878003,
+            "2027": 55959093
+          }
+        },
+        "id": -253260383501590173,
+        "name": "Public Property-Utilities"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 47481629,
+            "2027": 51952077
+          }
+        },
+        "id": 4355098385323524623,
+        "name": "Licenses & Inspection"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 43625012,
+            "2027": 44909884
+          }
+        },
+        "id": -2348278138071307058,
+        "name": "Law"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 37829078,
+            "2027": 35588158
+          }
+        },
+        "id": 766931058534449773,
+        "name": "City Commissioners"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 26664653,
+            "2027": 26961721
+          }
+        },
+        "id": 2826486914474952234,
+        "name": "City Council"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 19967369,
+            "2027": 21925820
+          }
+        },
+        "id": -6168799279336209133,
+        "name": "Office of Property Assessment"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 19359245,
+            "2027": 18359245
+          }
+        },
+        "id": 3509672697212281353,
+        "name": "Fleet Services -Vehicle Lease/Purch."
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 18359074,
+            "2027": 22966434
+          }
+        },
+        "id": -1852544010641860908,
+        "name": "Office of Human Resources"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 13816574,
+            "2027": 13720371
+          }
+        },
+        "id": -2661599825872449434,
+        "name": "Mayor's Office"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 12200000,
+            "2027": 8000000
+          }
+        },
+        "id": -6427307511371537055,
+        "name": "Finance-Reg #32"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 12056134,
+            "2027": 12592040
+          }
+        },
+        "id": 4488612413518215634,
+        "name": "Auditing (City Controller)"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 11934400,
+            "2027": 13599931
+          }
+        },
+        "id": 5167779803317233916,
+        "name": "Office of the Chief Administrative Officer"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 8011799,
+            "2027": 8034350
+          }
+        },
+        "id": 3396354760331604226,
+        "name": "City Treasurer"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 7068094,
+            "2027": 6879471
+          }
+        },
+        "id": -2040229163064201560,
+        "name": "Register of Wills"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 7020158,
+            "2027": 8016951
+          }
+        },
+        "id": -8581288786925668528,
+        "name": "Procurement"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 6016176,
+            "2027": 6487464
+          }
+        },
+        "id": 717468726288039285,
+        "name": "Office of Sustainability"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 5747325,
+            "2027": 5365160
+          }
+        },
+        "id": -473937813087375421,
+        "name": "Labor"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 4746573,
+            "2027": 4883640
+          }
+        },
+        "id": -5577889827103835188,
+        "name": "Records"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 3242182,
+            "2027": 3440992
+          }
+        },
+        "id": 7919601224123941375,
+        "name": "City Representative"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 3017417,
+            "2027": 2956677
+          }
+        },
+        "id": 134384395113208256,
+        "name": "Office of the Inspector General"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 2920858,
+            "2027": 3209942
+          }
+        },
+        "id": 4397279899826435604,
+        "name": "Human Relations Commission"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 1427043,
+            "2027": 1511997
+          }
+        },
+        "id": -2722954569323535949,
+        "name": "Board of Ethics"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 1252626,
+            "2027": 1251282
+          }
+        },
+        "id": -1046179779224100447,
+        "name": "Board of Revision of Taxes"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 260094,
+            "2027": 260094
+          }
+        },
+        "id": -2909003448405157896,
+        "name": "Finance-Witness Fees"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 250000,
+            "2027": 250000
+          }
+        },
+        "id": 5151748091637176938,
+        "name": "Finance-Refunds"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 187369,
+            "2027": 194770
+          }
+        },
+        "id": 5766035928756218321,
+        "name": "L&I-Board of L&I Review"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 90074,
+            "2027": 94904
+          }
+        },
+        "id": -4953521102246654314,
+        "name": "L&I-Board of Building Standards"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2026": 6192216353,
+        "2027": 6366030579
+      }
+    },
+    "id": 4036647675814133323,
+    "name": "Government Operations"
+  },
+  {
+    "children": [
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 1866572143,
+            "2027": 1873237213
+          }
+        },
+        "id": 2136175253968610577,
+        "name": "Office of Behavioral Health and Intellectual disAbility"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2026": 1866572143,
+        "2027": 1873237213
+      }
+    },
+    "id": 50808461138440561,
+    "name": "Mental Health & Substance Use Services"
+  },
+  {
+    "children": [
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 974916709,
+            "2027": 1002090054
+          }
+        },
+        "id": 581596769978615599,
+        "name": "Human Services"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2026": 974916709,
+        "2027": 1002090054
+      }
+    },
+    "id": 5393692456896832676,
+    "name": "Youth Services"
+  },
+  {
+    "children": [
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 943394603,
+            "2027": 997240266
+          }
+        },
+        "id": 6037112544365753443,
+        "name": "Police"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 3106032,
+            "2027": 3141623
+          }
+        },
+        "id": 9106511111618583320,
+        "name": "Citizens Police Oversight Commission"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 0,
+            "2027": 0
+          }
+        },
+        "id": -967817391899825881,
+        "name": "Managing Director-Citizens Police Oversight Commission"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2026": 946500635,
+        "2027": 1000381889
+      }
+    },
+    "id": 1591319350445916933,
+    "name": "Police"
+  },
+  {
+    "children": [
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 310245944,
+            "2027": 317688239
+          }
+        },
+        "id": 5029889723206104734,
+        "name": "Prisons"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 187135424,
+            "2027": 195023896
+          }
+        },
+        "id": 579911176396272188,
+        "name": "First Judicial District"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 79979826,
+            "2027": 75567972
+          }
+        },
+        "id": -9015587493342894881,
+        "name": "District Attorney"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 79450778,
+            "2027": 74833446
+          }
+        },
+        "id": 7172045275257971124,
+        "name": "Office of Public Safety"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 69047780,
+            "2027": 69047780
+          }
+        },
+        "id": -436378477426738235,
+        "name": "Managing Director-Defenders Association"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 35484813,
+            "2027": 35657690
+          }
+        },
+        "id": 8668619282831465700,
+        "name": "Sheriff"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 1398107,
+            "2027": 1429597
+          }
+        },
+        "id": 1113386316427979354,
+        "name": "Office of Public Safety- Office of Prison Oversight"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 0,
+            "2027": 0
+          }
+        },
+        "id": 5052789037942745896,
+        "name": "Managing Director-Public Safety"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2026": 762742672,
+        "2027": 769248620
+      }
+    },
+    "id": 5046462956847585257,
+    "name": "Courts & the Justice System"
+  },
+  {
+    "children": [
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 740882199,
+            "2027": 668112913
+          }
+        },
+        "id": 1190227830841618019,
+        "name": "Public Health"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2026": 740882199,
+        "2027": 668112913
+      }
+    },
+    "id": -8284930100176949781,
+    "name": "Public Health Centers"
+  },
+  {
+    "children": [
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 485178710,
+            "2027": 503929133
+          }
+        },
+        "id": 6415295525628849335,
+        "name": "Fire"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 41624234,
+            "2027": 27414227
+          }
+        },
+        "id": -3815232038781052086,
+        "name": "Office of Innovation and Technology-911"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2026": 526802944,
+        "2027": 531343360
+      }
+    },
+    "id": -105552682899960627,
+    "name": "Emergency Services"
+  },
+  {
+    "children": [
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 353891436,
+            "2027": 297962893
+          }
+        },
+        "id": -6721557621290443102,
+        "name": "Planning and Development"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 128689200,
+            "2027": 156401288
+          }
+        },
+        "id": -7194596388115482450,
+        "name": "Office of Homeless Services"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 34044031,
+            "2027": 34668215
+          }
+        },
+        "id": 1294541364420108031,
+        "name": "Finance-Payment to Housing Trust Fund"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 3309604,
+            "2027": 4479420
+          }
+        },
+        "id": 7588213985929226404,
+        "name": "Neighborhood Community Action Centers"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2026": 519934271,
+        "2027": 493511816
+      }
+    },
+    "id": -4590873334792122062,
+    "name": "Housing & Homeless Services"
+  },
+  {
+    "children": [
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 284052590,
+            "2027": 284052590
+          }
+        },
+        "id": 7066441437671764299,
+        "name": "Finance-School District Contribution"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 54003181,
+            "2027": 55853181
+          }
+        },
+        "id": -553938337713382724,
+        "name": "Finance-Community College Subsidy"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 12502181,
+            "2027": 13154844
+          }
+        },
+        "id": 2088800582062836174,
+        "name": "Office of Education"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 150000,
+            "2027": 150000
+          }
+        },
+        "id": -3011509294660724001,
+        "name": "Finance-Hero Scholarship Awards"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2026": 350707952,
+        "2027": 353210615
+      }
+    },
+    "id": -1643418684565027129,
+    "name": "Schools & Early Childhood Education"
+  },
+  {
+    "children": [
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 146618150,
+            "2027": 140688734
+          }
+        },
+        "id": -3503343248179027813,
+        "name": "Commerce"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 101365294,
+            "2027": 90415294
+          }
+        },
+        "id": -2271709692818725802,
+        "name": "Commerce-Economic Stimulus"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 15000000,
+            "2027": 15000000
+          }
+        },
+        "id": 9078302303305680162,
+        "name": "Commerce-Convention Center Subsidy"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2026": 262983444,
+        "2027": 246104028
+      }
+    },
+    "id": 4827922675770313798,
+    "name": "Commercial Corridors & Small Businesses"
+  },
+  {
+    "children": [
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 128684977,
+            "2027": 136943256
+          }
+        },
+        "id": -8919586042213519968,
+        "name": "Sanitation"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 63238164,
+            "2027": 65275823
+          }
+        },
+        "id": 4829880005178425389,
+        "name": "Sanitation-Disposal"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2026": 191923141,
+        "2027": 202219079
+      }
+    },
+    "id": 969065266081069665,
+    "name": "Trash & Sanitation"
+  },
+  {
+    "children": [
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 134989000,
+            "2027": 134989000
+          }
+        },
+        "id": 8134623382262122404,
+        "name": "Public Property-SEPTA Subsidy"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2026": 134989000,
+        "2027": 134989000
+      }
+    },
+    "id": 5730695905060970674,
+    "name": "Public Transit"
+  },
+  {
+    "children": [
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 131026112,
+            "2027": 111710712
+          }
+        },
+        "id": -59272120794888893,
+        "name": "Streets"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2026": 131026112,
+        "2027": 111710712
+      }
+    },
+    "id": 5266767322794380021,
+    "name": "Streets"
+  },
+  {
+    "children": [
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 106041828,
+            "2027": 104359460
+          }
+        },
+        "id": -8871259935456220872,
+        "name": "Parks and Recreation"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 0,
+            "2027": 0
+          }
+        },
+        "id": -5858239064899562094,
+        "name": "Managing Director-Clean & Green"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2026": 106041828,
+        "2027": 104359460
+      }
+    },
+    "id": -7437146798807923049,
+    "name": "Parks & Recreation"
+  },
+  {
+    "children": [
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 86893779,
+            "2027": 91473317
+          }
+        },
+        "id": 7945582456382692686,
+        "name": "Free Library"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2026": 86893779,
+        "2027": 91473317
+      }
+    },
+    "id": 4470939609005910004,
+    "name": "Libraries"
+  },
+  {
+    "children": [
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 44168931,
+            "2027": 47859253
+          }
+        },
+        "id": 33959179867949116,
+        "name": "Office of Community Empowerment and Opportunity"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2026": 44168931,
+        "2027": 47859253
+      }
+    },
+    "id": -6775603686947439978,
+    "name": "Immigration Services"
+  },
+  {
+    "children": [
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 9780601,
+            "2027": 9071003
+          }
+        },
+        "id": -6629127577733026784,
+        "name": "Office of Arts and Culture and the Creative Economy"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 5107386,
+            "2027": 3720189
+          }
+        },
+        "id": 8402188089522490627,
+        "name": "Mural Arts Program"
+      },
+      {
+        "gross_cost": {
+          "accounts": {
+            "2026": 2342000,
+            "2027": 2142000
+          }
+        },
+        "id": -880990298361238257,
+        "name": "Art Museum"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2026": 17229987,
+        "2027": 14933192
+      }
+    },
+    "id": -1939113755589811564,
+    "name": "Arts & Culture"
+  }
+]
