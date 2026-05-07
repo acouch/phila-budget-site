@@ -15,15 +15,32 @@ var dir = {
  * Main execution
  */
 gulp.task('default', ['clean'], function() {
-	gulp.start('usemin', 'images', 'data');
+	gulp.start('index', '2018', 'images', 'data');
 });
 
 /**
- * Usemin
+ * index
  * A multi-task - parses HTML docs and applies supplied functions to any defined JS/CSS blocks
  */
-gulp.task('usemin', function() {
-	return gulp.src(dir.dev + '*.html')
+gulp.task('index', function() {
+	return gulp.src(dir.dev + 'index.html')
+		.pipe(usemin({
+			css: [minifyCss(), 'concat'],
+			js_vendor: [uglify()],
+			js_app: [uglify()],
+			html: [minifyHtml({
+				conditionals: true
+			})]
+		}))
+		.pipe(gulp.dest(dir.prod));
+});
+
+/**
+ * 2018
+ * A multi-task - parses HTML docs and applies supplied functions to any defined JS/CSS blocks
+ */
+gulp.task('2018', function() {
+	return gulp.src(dir.dev + '2018.html')
 		.pipe(usemin({
 			css: [minifyCss(), 'concat'],
 			js_vendor: [uglify()],
