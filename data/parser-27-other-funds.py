@@ -59,6 +59,66 @@ AMOUNT_RE = re.compile(r"^(.+?)\s*[.]{4,}\s*\$?\s*([\d,]+)\s*$")
 PAGE_NUM_RE = re.compile(r"^\d{1,3}$")
 
 
+def title_case_dept(name):
+    return " ".join(
+        w if w.lower() == "of" else w.capitalize()
+        for w in name.split()
+    )
+
+
+# Aligns the appropriations-ordinance ("Department Of X") names with the names
+# the general-fund parser emits, so the same department in different funds
+# collapses to one row in downstream pivots.
+DEPT_ALIASES = {
+    "Auditing Department": "Auditing (City Controller)",
+    "Board Of Pensions And Retirement": "Sinking Fund Commission (Debt Service)",
+    "Board Of Trustees Of The Free Library Of Philadelphia": "Free Library",
+    "Department Of Aviation": "Aviation",
+    "Department Of Fleet Services": "Fleet Services",
+    "Department Of Fleet Services - Vehicle Purchase": "Fleet Services -Vehicle Lease/Purch.",
+    "Department Of Human Services": "Human Services",
+    "Department Of Human Services - Office Of Homeless Services": "Office of Homeless Services",
+    "Department Of Licenses And Inspections": "Licenses & Inspection",
+    "Department Of Parks And Recreation": "Parks and Recreation",
+    "Department Of Planning And Development": "Planning and Development",
+    "Department Of Public Health": "Public Health",
+    "Department Of Public Health - Office Of Behavioral Health And Intellectual Disability": "Office of Behavioral Health and Intellectual disAbility",
+    "Department Of Public Health - State Payment": "Public Health",
+    "Department Of Public Property": "Public Property",
+    "Department Of Public Property - Utilities": "Public Property-Utilities",
+    "Department Of Revenue": "Revenue",
+    "Department Of Revenue - Sinking Fund Commission": "Sinking Fund Commission (Debt Service)",
+    "Department Of Streets": "Streets",
+    "Department Of Streets - Sanitation": "Sanitation",
+    "Director Of Commerce": "Commerce",
+    "Director Of Finance": "Finance",
+    "Director Of Finance - Budget Stabilization": "Finance-Budget Stabilization",
+    "Director Of Finance - Community Development Block Grant - To Be Allocated": "Finance",
+    "Director Of Finance - Fringe Benefits": "Finance-Employee Benefits",
+    "Director Of Finance - Indemnities": "Finance-Indemnities",
+    "Director Of Finance - Provision For Other Grants": "Finance",
+    "Fire Department": "Fire",
+    "First Judicial District Of Pennsylvania": "First Judicial District",
+    "Law Department": "Law",
+    "Mayor - Office Of Arts, Culture And The Creative Economy": "Office of Arts and Culture and the Creative Economy",
+    "Mayor - Office Of Community Empowerment And Opportunity": "Office of Community Empowerment and Opportunity",
+    "Mayor - Office Of Education": "Office of Education",
+    "Mayor - Office Of Innovation And Technology": "Office of Innovation and Technology",
+    "Police Department": "Police",
+    "Procurement Department": "Procurement",
+    "Water Department": "Water",
+    "Water Department - Philadelphia Water, Sewer, And Stormwater Rate Board": "Water",
+    "Council - Veterans Advisory Commission": "City Council",
+}
+
+
+def normalize_dept(name):
+    # The PDF uses an en/em dash; collapse to ASCII hyphen so alias keys match.
+    name = name.replace("–", "-").replace("—", "-")
+    name = " ".join(name.split())
+    return DEPT_ALIASES.get(name, name)
+
+
 def parse_amount(s):
     try:
         return int(s.replace(",", ""))
@@ -99,7 +159,7 @@ def parse_budget_pdf(pdf_path):
                 # Detect item header "N.N TO THE ..."
                 m = ITEM_RE.match(stripped)
                 if m:
-                    current_dept = m.group(1).strip()
+                    current_dept = m.group(1).strip().title()
                     dept_lines = []
                     continue
 
@@ -109,7 +169,7 @@ def parse_budget_pdf(pdf_path):
                     # If it looks like a plain text continuation (no dots, no $)
                     if "." not in stripped and "$" not in stripped:
                         dept_lines.append(stripped)
-                        current_dept = current_dept + " " + " ".join(dept_lines)
+                        current_dept = (current_dept + " " + " ".join(dept_lines)).title()
                         dept_lines = []
                         continue
 
@@ -129,7 +189,7 @@ def parse_budget_pdf(pdf_path):
                             rows.append({
                                 "fiscal_year": "2027",
                                 "fund": current_fund,
-                                "department": current_dept,
+                                "department": normalize_dept(current_dept),
                                 "class": CLASS_NAME_MAP[matched_class],
                                 "total": amount,
                             })
