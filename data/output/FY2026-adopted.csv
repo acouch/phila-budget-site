@@ -248,8 +248,8 @@ fiscal_year,fund,department,class,total
 2026,Water Fund,Law,Personal Services,3891589
 2026,Water Fund,Law,Purchase of Services,800000
 2026,Water Fund,Law,"Materials, Supplies & Equip.",51050
-2026,Water Fund,Office Of Sustainability,Personal Services,135874
-2026,Water Fund,Office Of Sustainability,Purchase of Services,47000
+2026,Water Fund,Office of Sustainability,Personal Services,135874
+2026,Water Fund,Office of Sustainability,Purchase of Services,47000
 2026,Water Fund,Water,Personal Services,193492
 2026,Water Fund,Water,Purchase of Services,745700
 2026,Water Residual Fund,Water,Purchase of Services,8000000
@@ -263,8 +263,8 @@ fiscal_year,fund,department,class,total
 2026,Special Gasoline Tax Fund,Streets,Purchase of Services,16681717
 2026,Special Gasoline Tax Fund,Streets,"Materials, Supplies & Equip.",11675000
 2026,Special Gasoline Tax Fund,Streets,Payments to Other Funds,20000
-2026,Special Gasoline Tax Fund,Department Of Sanitation,Personal Services,2962488
-2026,Special Gasoline Tax Fund,Department Of Sanitation,Payments to Other Funds,10000
+2026,Special Gasoline Tax Fund,Sanitation,Personal Services,2962488
+2026,Special Gasoline Tax Fund,Sanitation,Payments to Other Funds,10000
 2026,Special Gasoline Tax Fund,Finance-Employee Benefits,Pers. Svcs.-Emp.Benefits,1000000
 2026,Healthchoices Behavioral Health Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Personal Services,502071
 2026,Healthchoices Behavioral Health Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Pers. Svcs.-Emp.Benefits,176816
@@ -285,7 +285,7 @@ fiscal_year,fund,department,class,total
 2026,Grants Revenue Fund,Office of Community Empowerment and Opportunity,Pers. Svcs.-Emp.Benefits,1444240
 2026,Grants Revenue Fund,Office of Community Empowerment and Opportunity,Purchase of Services,31744411
 2026,Grants Revenue Fund,Office of Community Empowerment and Opportunity,"Materials, Supplies & Equip.",93685
-2026,Grants Revenue Fund,Mayor - Office Of Arts Culture And The Creative Economy,Purchase of Services,50000
+2026,Grants Revenue Fund,Office of Arts and Culture and the Creative Economy,Purchase of Services,50000
 2026,Grants Revenue Fund,Office of Education,Personal Services,2103228
 2026,Grants Revenue Fund,Office of Education,Pers. Svcs.-Emp.Benefits,455000
 2026,Grants Revenue Fund,Office of Education,Purchase of Services,564063
@@ -331,13 +331,13 @@ fiscal_year,fund,department,class,total
 2026,Grants Revenue Fund,Finance,Advances and Other Misc. Payments,1000000292
 2026,Grants Revenue Fund,Revenue,Purchase of Services,22650000
 2026,Grants Revenue Fund,Commerce,Purchase of Services,12500000
-2026,Grants Revenue Fund,Office Of Sustainability,Personal Services,467112
-2026,Grants Revenue Fund,Office Of Sustainability,Purchase of Services,2000000
+2026,Grants Revenue Fund,Office of Sustainability,Personal Services,467112
+2026,Grants Revenue Fund,Office of Sustainability,Purchase of Services,2000000
 2026,Grants Revenue Fund,Free Library,Personal Services,1894856
 2026,Grants Revenue Fund,Free Library,Purchase of Services,2957944
 2026,Grants Revenue Fund,Free Library,"Materials, Supplies & Equip.",7376391
 2026,Grants Revenue Fund,Auditing (City Controller),Purchase of Services,300000
-2026,Grants Revenue Fund,Register Of Wills,Purchase of Services,850000
+2026,Grants Revenue Fund,Register of Wills,Purchase of Services,850000
 2026,Grants Revenue Fund,District Attorney,Personal Services,12163285
 2026,Grants Revenue Fund,District Attorney,Purchase of Services,7735077
 2026,Grants Revenue Fund,District Attorney,"Materials, Supplies & Equip.",769000
@@ -346,11 +346,11 @@ fiscal_year,fund,department,class,total
 2026,Grants Revenue Fund,City Commissioners,Personal Services,350000
 2026,Grants Revenue Fund,City Commissioners,Purchase of Services,6715000
 2026,Grants Revenue Fund,City Commissioners,"Materials, Supplies & Equip.",1650000
-2026,Grants Revenue Fund,Office Of Public Safety,Personal Services,711500
-2026,Grants Revenue Fund,Office Of Public Safety,Purchase of Services,11566032
-2026,Grants Revenue Fund,Department Of Sanitation,Personal Services,354500
-2026,Grants Revenue Fund,Department Of Sanitation,Purchase of Services,6758899
-2026,Grants Revenue Fund,Department Of Sanitation,"Materials, Supplies & Equip.",1823000
+2026,Grants Revenue Fund,Office of Public Safety,Personal Services,711500
+2026,Grants Revenue Fund,Office of Public Safety,Purchase of Services,11566032
+2026,Grants Revenue Fund,Sanitation,Personal Services,354500
+2026,Grants Revenue Fund,Sanitation,Purchase of Services,6758899
+2026,Grants Revenue Fund,Sanitation,"Materials, Supplies & Equip.",1823000
 2026,Grants Revenue Fund,First Judicial District,Personal Services,29441723
 2026,Grants Revenue Fund,First Judicial District,Pers. Svcs.-Emp.Benefits,14635453
 2026,Grants Revenue Fund,First Judicial District,Purchase of Services,4675624
@@ -362,7 +362,7 @@ fiscal_year,fund,department,class,total
 2026,Aviation Fund,Fleet Services,Personal Services,1809605
 2026,Aviation Fund,Fleet Services,Purchase of Services,592400
 2026,Aviation Fund,Fleet Services,"Materials, Supplies & Equip.",1660380
-2026,Aviation Fund,Department Of Fleet Services -Vehicle Purchase,"Materials, Supplies & Equip.",3000000
+2026,Aviation Fund,Fleet Services -Vehicle Lease/Purch.,"Materials, Supplies & Equip.",3000000
 2026,Aviation Fund,Police,Personal Services,21025008
 2026,Aviation Fund,Police,Purchase of Services,115200
 2026,Aviation Fund,Police,"Materials, Supplies & Equip.",99200
@@ -381,14 +381,14 @@ fiscal_year,fund,department,class,total
 2026,Aviation Fund,Aviation,"Contrib., Indemnities & Taxes",7800000
 2026,Aviation Fund,Aviation,Payments to Other Funds,38000000
 2026,Aviation Fund,Law,Personal Services,2006547
-2026,Aviation Fund,Office Of Sustainability,Personal Services,80873
-2026,Aviation Fund,Office Of Sustainability,Purchase of Services,30000
+2026,Aviation Fund,Office of Sustainability,Personal Services,80873
+2026,Aviation Fund,Office of Sustainability,Purchase of Services,30000
 2026,Community Development Fund,Planning and Development,Personal Services,6260114
 2026,Community Development Fund,Planning and Development,Purchase of Services,45065601
 2026,Community Development Fund,Planning and Development,"Materials, Supplies & Equip.",214000
 2026,Community Development Fund,Planning and Development,Payments to Other Funds,25000
 2026,Community Development Fund,Licenses & Inspection,Personal Services,490303
-2026,Community Development Fund,Director Of Finance-Fringe Benefits,Pers. Svcs.-Emp.Benefits,7096680
+2026,Community Development Fund,Finance-Employee Benefits,Pers. Svcs.-Emp.Benefits,7096680
 2026,Community Development Fund,Finance,Advances and Other Misc. Payments,20000000
 2026,Community Development Fund,Commerce,Personal Services,2176729
 2026,Community Development Fund,Commerce,Purchase of Services,18178000

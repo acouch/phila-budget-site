@@ -1,103 +1,82 @@
-# 2027 Department list:
-#   Art Museum
-#   Auditing (City Controller)
-#   Aviation
-#   Board of Ethics
-#   Board of Revision of Taxes
-#   Citizens Police Oversight Commission
-#   City Commissioners
-#   City Council
-#   City Representative
-#   City Treasurer
-#   Civil Service Commission
-#   Commerce
-#   Commerce-Convention Center Subsidy
-#   Commerce-Economic Stimulus
-#   District Attorney
-#   Finance
-#   Finance-Budget Stabilization
-#   Finance-Community College Subsidy
-#   Finance-Employee Benefits
-#   Finance-Hero Scholarship Awards
-#   Finance-Indemnities
-#   Finance-Payment to Housing Trust Fund
-#   Finance-Refunds
-#   Finance-Reg #32
-#   Finance-School District Contribution
-#   Finance-Witness Fees
-#   Fire
-#   First Judicial District
-#   Fleet Services
-#   Free Library
-#   Human Relations Commission
-#   Human Services
-#   L&I-Board of Building Standards
-#   L&I-Board of L&I Review
-#   Labor
-#   Law
-#   Licenses & Inspection
-#   Managing Director
-#   Managing Director-Citizens Police Oversight Commission
-#   Managing Director-Clean & Green
-#   Managing Director-Defenders Association
-#   Managing Director-Public Safety
-#   Mayor's Office
-#   Mural Arts Program
-#   Neighborhood Community Action Centers
-#   Office Of Public Safety
-#   Office Of Sustainability
-#   Office of Arts and Culture and the Creative Economy
-#   Office of Behavioral Health and Intellectual disAbility
-#   Office of Community Empowerment and Opportunity
-#   Office of Education
-#   Office of Homeless Services
-#   Office of Human Resources
-#   Office of Innovation and Technology
-#   Office of Innovation and Technology-911
-#   Office of Property Assessment
-#   Office of Public Safety
-#   Office of Public Safety- Office of Prison Oversight
-#   Office of Sustainability
-#   Office of the Chief Administrative Officer
-#   Office of the Inspector General
-#   Parks and Recreation
-#   Planning and Development
-#   Police
-#   Prisons
-#   Procurement
-#   Public Health
-#   Public Property
-#   Public Property-SEPTA Subsidy
-#   Public Property-Space Rentals
-#   Public Property-Utilities
-#   Records
-#   Register Of Wills
-#   Register of Wills
-#   Revenue
-#   Sanitation
-#   Sanitation-Disposal
-#   Sheriff
-#   Sinking Fund Commission (Debt Service)
-#   Streets
-#   Water
+# Maps city departments to People's Budget tags. Departments not listed here
+# are tagged "Government Operations" by run-budget-data.py.
+#
+# Tag list comes from the People's Budget; "Government Operations" is added
+# as the catch-all for governance/admin departments that don't fit the
+# 17 People's Budget categories.
 
-# People's bugdet tags
-#   Libraries
-#   Streets 
-#   Schools & Early Childhood Education
-#   Housing & Homeless Services
-#   Police
-#   Immigration Services
-#   Commercial Corridors & Small Businesses
-#   Public Health Centers
-#   Public Transit
-#   Parks & Recreation
-#   Youth Services
-#   Arts & Culture
-#   Courts & the Justice System
-#   Trash & Sanitation
-#   Mental Health & Substance Use Services
-#   Senior & Disability services
-#   Emergency Services
+peoples_budget:
+  Libraries:
+    - Free Library
 
+  Streets:
+    - Streets
 
+  Schools & Early Childhood Education:
+    - Office of Education
+    - Finance-Community College Subsidy
+    - Finance-Hero Scholarship Awards
+    - Finance-School District Contribution
+
+  Housing & Homeless Services:
+    - Office of Homeless Services
+    - Finance-Payment to Housing Trust Fund
+    - Planning and Development
+    - Neighborhood Community Action Centers
+
+  Police:
+    - Police
+    - Citizens Police Oversight Commission
+    - Managing Director-Citizens Police Oversight Commission
+
+  Immigration Services:
+    - Office of Community Empowerment and Opportunity
+
+  Commercial Corridors & Small Businesses:
+    - Commerce
+    - Commerce-Convention Center Subsidy
+    - Commerce-Economic Stimulus
+
+  Public Health Centers:
+    - Public Health
+
+  Public Transit:
+    - Public Property-SEPTA Subsidy
+
+  Parks & Recreation:
+    - Parks and Recreation
+    - Managing Director-Clean & Green
+
+  Youth Services:
+    - Human Services
+
+  Arts & Culture:
+    - Art Museum
+    - Mural Arts Program
+    - Office of Arts and Culture and the Creative Economy
+    - Mayor - Office Of Arts Culture And The Creative Economy
+
+  Courts & the Justice System:
+    - First Judicial District
+    - District Attorney
+    - Sheriff
+    - Prisons
+    - Office of Public Safety
+    - Office Of Public Safety
+    - Office of Public Safety- Office of Prison Oversight
+    - Managing Director-Defenders Association
+    - Managing Director-Public Safety
+
+  Trash & Sanitation:
+    - Sanitation
+    - Sanitation-Disposal
+    - Department Of Sanitation
+
+  Mental Health & Substance Use Services:
+    - Office of Behavioral Health and Intellectual disAbility
+
+  Senior & Disability services: []
+
+  Emergency Services:
+    - Fire
+    - Office of Innovation and Technology-911

@@ -19,6 +19,9 @@ PIVOTS = [
     (HERE / "output" / "FY2026-adopted.csv",  HERE / "output" / "FY2026-adopted-pivot.csv"),
 ]
 
+TAGGING_YML = HERE / "tagging.yml"
+DEFAULT_TAG = "Government Operations"
+
 
 def run_parsers():
     for script in SCRIPTS:
@@ -42,6 +45,44 @@ def load_csv(path):
     return cur, conn
 
 
+def load_peoples_budget_tags(path):
+    # Minimal parser for the tagging.yml shape:
+    #   peoples_budget:
+    #     Tag Name:
+    #       - Department A
+    #       - Department B
+    #     Empty Tag: []
+    # Returns dept -> tag dict.
+    dept_to_tag = {}
+    current_tag = None
+    in_section = False
+
+    for raw in path.read_text().splitlines():
+        line = raw.split("#", 1)[0].rstrip()
+        if not line.strip():
+            continue
+
+        if not line.startswith(" "):
+            in_section = line.strip().rstrip(":") == "peoples_budget"
+            current_tag = None
+            continue
+
+        if not in_section:
+            continue
+
+        stripped = line.strip()
+        if line.startswith("    -"):
+            dept = stripped[1:].strip()
+            if dept and current_tag:
+                dept_to_tag[dept] = current_tag
+        elif line.startswith("  ") and stripped.endswith(":"):
+            current_tag = stripped[:-1].strip()
+        elif line.startswith("  ") and stripped.endswith("[]"):
+            current_tag = None
+
+    return dept_to_tag
+
+
 def fund_column_name(fund):
     return (
         fund.lower()
@@ -56,7 +97,7 @@ def fund_column_name(fund):
     )
 
 
-def create_pivot(input_csv, output_csv):
+def create_pivot(input_csv, output_csv, dept_tags):
     print(f"\n=== Pivoting {input_csv.name} -> {output_csv.name} ===")
     cur, conn = load_csv(input_csv)
 
@@ -81,21 +122,37 @@ def create_pivot(input_csv, output_csv):
         ORDER BY department
     """
     cur.execute(query, [f for f, _ in fund_cols])
+    rows = cur.fetchall()
 
-    out_header = [d[0] for d in cur.description]
+    sql_header = [d[0] for d in cur.description]
+    out_header = sql_header[:1] + ["tag_peoples_budget"] + sql_header[1:]
+
+    untagged = set()
     with output_csv.open("w", newline="") as f:
         writer = csv.writer(f)
         writer.writerow(out_header)
-        writer.writerows(cur.fetchall())
+        for row in rows:
+            dept = row[0]
+            tag = dept_tags.get(dept)
+            if tag is None:
+                untagged.add(dept)
+                tag = DEFAULT_TAG
+            writer.writerow((dept, tag) + row[1:])
 
     conn.close()
     print(f"Wrote {output_csv}")
+    if untagged:
+        print(f"  {len(untagged)} departments fell through to '{DEFAULT_TAG}':")
+        for d in sorted(untagged):
+            print(f"    - {d}")
 
 
 def main():
     run_parsers()
+    dept_tags = load_peoples_budget_tags(TAGGING_YML)
+    print(f"\nLoaded {len(dept_tags)} department tags from {TAGGING_YML.name}")
     for input_csv, output_csv in PIVOTS:
-        create_pivot(input_csv, output_csv)
+        create_pivot(input_csv, output_csv, dept_tags)
 
 
 if __name__ == "__main__":

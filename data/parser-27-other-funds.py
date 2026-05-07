@@ -69,53 +69,74 @@ def title_case_dept(name):
 # Aligns the appropriations-ordinance ("Department Of X") names with the names
 # the general-fund parser emits, so the same department in different funds
 # collapses to one row in downstream pivots.
+# Keys are written in the canonical form produced by normalize_dept:
+# joining words ("of", "and", "the", "to", "for") lowercase, hyphens with
+# single-space padding on both sides, em/en dashes collapsed to "-".
 DEPT_ALIASES = {
     "Auditing Department": "Auditing (City Controller)",
-    "Board Of Pensions And Retirement": "Sinking Fund Commission (Debt Service)",
-    "Board Of Trustees Of The Free Library Of Philadelphia": "Free Library",
-    "Department Of Aviation": "Aviation",
-    "Department Of Fleet Services": "Fleet Services",
-    "Department Of Fleet Services - Vehicle Purchase": "Fleet Services -Vehicle Lease/Purch.",
-    "Department Of Human Services": "Human Services",
-    "Department Of Human Services - Office Of Homeless Services": "Office of Homeless Services",
-    "Department Of Licenses And Inspections": "Licenses & Inspection",
-    "Department Of Parks And Recreation": "Parks and Recreation",
-    "Department Of Planning And Development": "Planning and Development",
-    "Department Of Public Health": "Public Health",
-    "Department Of Public Health - Office Of Behavioral Health And Intellectual Disability": "Office of Behavioral Health and Intellectual disAbility",
-    "Department Of Public Health - State Payment": "Public Health",
-    "Department Of Public Property": "Public Property",
-    "Department Of Public Property - Utilities": "Public Property-Utilities",
-    "Department Of Revenue": "Revenue",
-    "Department Of Revenue - Sinking Fund Commission": "Sinking Fund Commission (Debt Service)",
-    "Department Of Streets": "Streets",
-    "Department Of Streets - Sanitation": "Sanitation",
-    "Director Of Commerce": "Commerce",
-    "Director Of Finance": "Finance",
-    "Director Of Finance - Budget Stabilization": "Finance-Budget Stabilization",
-    "Director Of Finance - Community Development Block Grant - To Be Allocated": "Finance",
-    "Director Of Finance - Fringe Benefits": "Finance-Employee Benefits",
-    "Director Of Finance - Indemnities": "Finance-Indemnities",
-    "Director Of Finance - Provision For Other Grants": "Finance",
+    "Board of Pensions and Retirement": "Sinking Fund Commission (Debt Service)",
+    "Board of Trustees of the Free Library of Philadelphia": "Free Library",
+    "Department of Aviation": "Aviation",
+    "Department of Fleet Services": "Fleet Services",
+    "Department of Fleet Services - Vehicle Purchase": "Fleet Services -Vehicle Lease/Purch.",
+    "Department of Human Services": "Human Services",
+    "Department of Human Services - Office of Homeless Services": "Office of Homeless Services",
+    "Department of Licenses and Inspections": "Licenses & Inspection",
+    "Department of Parks and Recreation": "Parks and Recreation",
+    "Department of Planning and Development": "Planning and Development",
+    "Department of Public Health": "Public Health",
+    "Department of Public Health - Office of Behavioral Health and Intellectual Disability": "Office of Behavioral Health and Intellectual disAbility",
+    "Department of Public Health - State Payment": "Public Health",
+    "Department of Public Property": "Public Property",
+    "Department of Public Property - Utilities": "Public Property-Utilities",
+    "Department of Revenue": "Revenue",
+    "Department of Revenue - Sinking Fund Commission": "Sinking Fund Commission (Debt Service)",
+    "Department of Sanitation": "Sanitation",
+    "Department of Streets": "Streets",
+    "Department of Streets - Sanitation": "Sanitation",
+    "Director of Commerce": "Commerce",
+    "Director of Finance": "Finance",
+    "Director of Finance - Budget Stabilization": "Finance-Budget Stabilization",
+    "Director of Finance - Community Development Block Grant - to Be Allocated": "Finance",
+    "Director of Finance - Fringe Benefits": "Finance-Employee Benefits",
+    "Director of Finance - Indemnities": "Finance-Indemnities",
+    "Director of Finance - Provision for Other Grants": "Finance",
     "Fire Department": "Fire",
-    "First Judicial District Of Pennsylvania": "First Judicial District",
+    "First Judicial District of Pennsylvania": "First Judicial District",
     "Law Department": "Law",
-    "Mayor - Office Of Arts, Culture And The Creative Economy": "Office of Arts and Culture and the Creative Economy",
-    "Mayor - Office Of Community Empowerment And Opportunity": "Office of Community Empowerment and Opportunity",
-    "Mayor - Office Of Education": "Office of Education",
-    "Mayor - Office Of Innovation And Technology": "Office of Innovation and Technology",
+    "Mayor - Office of Arts, Culture and the Creative Economy": "Office of Arts and Culture and the Creative Economy",
+    "Mayor - Office of Arts Culture and the Creative Economy": "Office of Arts and Culture and the Creative Economy",
+    "Mayor - Office of Community Empowerment and Opportunity": "Office of Community Empowerment and Opportunity",
+    "Mayor - Office of Education": "Office of Education",
+    "Mayor - Office of Innovation and Technology": "Office of Innovation and Technology",
+    "Office of Public Safety": "Office of Public Safety",
+    "Office of Sustainability": "Office of Sustainability",
+    "Register of Wills": "Register of Wills",
     "Police Department": "Police",
     "Procurement Department": "Procurement",
     "Water Department": "Water",
-    "Water Department - Philadelphia Water, Sewer, And Stormwater Rate Board": "Water",
+    "Water Department - Philadelphia Water, Sewer, and Stormwater Rate Board": "Water",
     "Council - Veterans Advisory Commission": "City Council",
 }
+
+
+_JOINER_WORDS = {"of", "and", "the", "to", "for"}
 
 
 def normalize_dept(name):
     # The PDF uses an en/em dash; collapse to ASCII hyphen so alias keys match.
     name = name.replace("–", "-").replace("—", "-")
+    # Canonicalize hyphen spacing so "X-Y", "X -Y", "X- Y", "X - Y" all match.
+    name = re.sub(r"\s*-\s*", " - ", name)
     name = " ".join(name.split())
+    # Lowercase common joining words so .title()'d names match the
+    # general-fund parser's "Office of Public Safety" style.
+    parts = name.split(" ")
+    parts = [
+        w if i == 0 or w.lower() not in _JOINER_WORDS else w.lower()
+        for i, w in enumerate(parts)
+    ]
+    name = " ".join(parts)
     return DEPT_ALIASES.get(name, name)
 
 
