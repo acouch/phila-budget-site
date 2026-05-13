@@ -1,16 +1,60 @@
 <html>
 <head>
-
+  <title>Philly Budget Data</title>
+  <meta name="description" content="Historical budget data for Philly.">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta property="og:title" content="Philly Budget Data"/>
+  <meta property="og:site_name" content="Philly Budget Data"/>
+  <meta property="og:description" content="Historical budget data for Philly." />
+  <link href="tailwind.css" rel="stylesheet">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
 </head>
 <body>
 
 <%- include('_menu') %>
+<main>
+   <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pt-20 pb-16 text-center lg:pt-32">
+      <h1 class="mx-auto italic max-w-4xl font-display text-5xl font-medium tracking-tight text-slate-900 sm:text-7xl">
+      Philly <span class="text-blue-800">Budget</span> Data
+      </h1>
+      <p class="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
+      This website provides both visualizations of the Philadelphia city budget as well as raw budget data from 2016 - 2026.</p>
+   </div>
+   <section class="bg-slate-50 py-20 sm:py-32">
+     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl md:text-center">
+        <h2 class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">Open Budget bubble charts</h2>
+        <p class="mt-4 text-lg tracking-tight text-slate-700">The following visualisations are built off the the City of Philadelphia's <a href="https://github.com/CityOfPhiladelphia/open-budget">open budget</a> implementation, based on a project by <a class="text-blue-800" href="https://github.com/tpreusse/open-budget">OpenData.ch</a>, the Swiss division of the <a class="text-blue-800" href="http://okfn.org/" rel="nofollow">Open Knowledge Foundation</a>.</p></div>
+        <div class="hidden lg:mt-20 lg:block">
+          <div class="grid grid-cols-3 gap-x-8" role="tablist" aria-orientation="horizontal">
+              <div class="relative">
+                <a href="charts/bubble/2027-tagged.html">
+                  <img src="assets/images/2027-proposed.jpg" />
+                  <h3 class="font-display mt-2 text-slate-900 text-xl">2027 Proposed Budget</h3>
+                </a>
+              </div>
+              <div class="relative opacity-75 hover:opacity-100">
+                <a href="charts/bubble/2027-by-fund.html">
+                  <img src="assets/images/2027-proposed-by-fund.jpg" />
+                  <h3 class="font-display mt-2 text-slate-900 text-xl">2027 Proposed Budget by Funding Source</h3>
+                </a>
+              </div>
+              <div class="relative opacity-75 hover:opacity-100">
+                <a href="charts/bubble/2018.html">
+                  <img src="assets/images/2018-proposed-by-fund.jpg" />
+                  <h3 class="font-display mt-2 text-slate-900 text-xl">2018 Proposed Budget by Funding Source</h3>
+                </a>
+              </div>              
+          </div>
+        </div>
+   </section>
+</main>
 
-<h1>Phila budget data project</h1>
 
-This website provides both visualizations of the Philadelphia city budget as well as raw budget data from 2016 - 2026.
 
-<h2>Open Budget “bubble” charts</h2>
+
 
 
 

@@ -3,11 +3,11 @@
   "version": "0.0.0",
   "description": "New developers, designers and ideator are welcome to join.",
   "scripts": {
-    "build": "parcel build --public-url='.' src/*.html"
+    "build": "parcel build --public-url='/' src/*.ejs src/charts/bubble/*.html"
   },
   "staticFiles": {
-    "staticPath": "src/data",
-    "distDir": "dist/data"
+    "staticPath": "src/charts/bubble/data",
+    "distDir": "dist/charts/bubble/data"
   },
   "repository": {
     "type": "git",
@@ -19,8 +19,11 @@
     "url": "https://github.com/phila-budget-site/open-budget/issues"
   },
   "devDependencies": {
+    "@parcel/transformer-webmanifest": "^2.16.4",
+    "@tailwindcss/postcss": "^4.3.0",
     "parcel": "^2.16.4",
     "parcel-reporter-static-files-copy": "^1.5.3",
-    "parcel-transformer-ejs": "^1.0.1"
+    "parcel-transformer-ejs": "^1.0.1",
+    "tailwindcss": "^4.3.0"
   }
 }
