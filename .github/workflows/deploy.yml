@@ -17,10 +17,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           cache: npm
-          cache-dependency-path: website/src/package-lock.json
+          cache-dependency-path: website/package-lock.json
 
       - name: Build
-        working-directory: ./website/src
+        working-directory: ./website
         run: |
           npm install
           npm run build
