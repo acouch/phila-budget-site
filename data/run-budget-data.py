@@ -4,12 +4,33 @@ import subprocess
 import sys
 from pathlib import Path
 
+from budget_lib import DEFAULT_TAG, TAGGING_YML, load_peoples_budget_tags
+
 HERE = Path(__file__).resolve().parent
 
 # General fund overwrites the FY*.csv files; other-funds parser appends to FY2027-proposed.csv.
 # Run general-fund first so the append starts from a fresh file.
 SCRIPTS = [
-    "parser-27-general-fund.py",
+    # General-fund parsers run first (in chronological order so later parsers
+    # overwrite earlier ones for shared years' adopted snapshots); the
+    # other-funds parsers then append non-General-Fund rows to the matching FY file.
+    "parser-18-general-fund.py",   # FY2016/2017/2018
+    "parser-19-general-fund.py",   # FY2017/2018/2019
+    "parser-20-general-fund.py",   # FY2018/2019/2020
+    "parser-21-general-fund.py",   # FY2019/2020/2021
+    "parser-22-general-fund.py",   # FY2020/2021/2022
+    "parser-23-general-fund.py",   # FY2021/2022/2023
+    "parser-24-general-fund.py",   # FY2022/2023/2024
+    "parser-25-general-fund.py",   # FY2023/2024/2025
+    "parser-27-general-fund.py",   # FY2025/2026/2027
+    "parser-18-other-funds.py",
+    "parser-19-other-funds.py",
+    "parser-20-other-funds.py",
+    "parser-21-other-funds.py",
+    "parser-22-other-funds.py",
+    "parser-23-other-funds.py",
+    "parser-24-other-funds.py",
+    "parser-25-other-funds.py",
     "parser-26-other-funds.py",
     "parser-27-other-funds.py",
 ]
@@ -17,10 +38,15 @@ SCRIPTS = [
 PIVOTS = [
     (HERE / "output" / "FY2027-proposed.csv", HERE / "output" / "FY2027-proposed-pivot.csv"),
     (HERE / "output" / "FY2026-adopted.csv",  HERE / "output" / "FY2026-adopted-pivot.csv"),
+    (HERE / "output" / "FY2025-adopted.csv",  HERE / "output" / "FY2025-adopted-pivot.csv"),
+    (HERE / "output" / "FY2024-adopted.csv",  HERE / "output" / "FY2024-adopted-pivot.csv"),
+    (HERE / "output" / "FY2023-adopted.csv",  HERE / "output" / "FY2023-adopted-pivot.csv"),
+    (HERE / "output" / "FY2022-adopted.csv",  HERE / "output" / "FY2022-adopted-pivot.csv"),
+    (HERE / "output" / "FY2021-adopted.csv",  HERE / "output" / "FY2021-adopted-pivot.csv"),
+    (HERE / "output" / "FY2020-adopted.csv",  HERE / "output" / "FY2020-adopted-pivot.csv"),
+    (HERE / "output" / "FY2019-adopted.csv",  HERE / "output" / "FY2019-adopted-pivot.csv"),
+    (HERE / "output" / "FY2018-adopted.csv",  HERE / "output" / "FY2018-adopted-pivot.csv"),
 ]
-
-TAGGING_YML = HERE / "tagging.yml"
-DEFAULT_TAG = "Government Operations"
 
 
 def run_parsers():
@@ -43,44 +69,6 @@ def load_csv(path):
         cur.execute(f"CREATE TABLE rows ({cols})")
         cur.executemany(f"INSERT INTO rows ({cols}) VALUES ({placeholders})", rows)
     return cur, conn
-
-
-def load_peoples_budget_tags(path):
-    # Minimal parser for the tagging.yml shape:
-    #   peoples_budget:
-    #     Tag Name:
-    #       - Department A
-    #       - Department B
-    #     Empty Tag: []
-    # Returns dept -> tag dict.
-    dept_to_tag = {}
-    current_tag = None
-    in_section = False
-
-    for raw in path.read_text().splitlines():
-        line = raw.split("#", 1)[0].rstrip()
-        if not line.strip():
-            continue
-
-        if not line.startswith(" "):
-            in_section = line.strip().rstrip(":") == "peoples_budget"
-            current_tag = None
-            continue
-
-        if not in_section:
-            continue
-
-        stripped = line.strip()
-        if line.startswith("    -"):
-            dept = stripped[1:].strip()
-            if dept and current_tag:
-                dept_to_tag[dept] = current_tag
-        elif line.startswith("  ") and stripped.endswith(":"):
-            current_tag = stripped[:-1].strip()
-        elif line.startswith("  ") and stripped.endswith("[]"):
-            current_tag = None
-
-    return dept_to_tag
 
 
 def fund_column_name(fund):

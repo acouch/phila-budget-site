@@ -1,0 +1,384 @@
+fiscal_year,fund,department,tag_peoples_budget,class,total
+2022,General Fund,Art Museum,Arts & Culture,"Contrib., Indemnities & Taxes",2040000
+2022,General Fund,Auditing (City Controller),Government Operations,Personal Services,9330839
+2022,General Fund,Auditing (City Controller),Government Operations,Purchase of Services,497450
+2022,General Fund,Auditing (City Controller),Government Operations,"Materials, Supplies & Equip.",25000
+2022,General Fund,Board of Ethics,Government Operations,Personal Services,915196
+2022,General Fund,Board of Ethics,Government Operations,Purchase of Services,52500
+2022,General Fund,Board of Ethics,Government Operations,"Materials, Supplies & Equip.",7500
+2022,General Fund,Board of Revision of Taxes,Government Operations,Personal Services,997835
+2022,General Fund,Board of Revision of Taxes,Government Operations,Purchase of Services,37900
+2022,General Fund,Board of Revision of Taxes,Government Operations,"Materials, Supplies & Equip.",17727
+2022,General Fund,City Commissioners,Government Operations,Personal Services,8413534
+2022,General Fund,City Commissioners,Government Operations,Purchase of Services,6862101
+2022,General Fund,City Commissioners,Government Operations,"Materials, Supplies & Equip.",2771217
+2022,General Fund,City Commissioners,Government Operations,"Contrib., Indemnities & Taxes",0
+2022,General Fund,City Council,Government Operations,Personal Services,15627138
+2022,General Fund,City Council,Government Operations,Purchase of Services,2521885
+2022,General Fund,City Council,Government Operations,"Materials, Supplies & Equip.",528650
+2022,General Fund,City Council,Government Operations,"Contrib., Indemnities & Taxes",100
+2022,General Fund,City Council,Government Operations,Payments to Other Funds,100
+2022,General Fund,City Council,Government Operations,Advances and Other Misc. Payments,100
+2022,General Fund,City Representative,Government Operations,Personal Services,0
+2022,General Fund,City Representative,Government Operations,Purchase of Services,0
+2022,General Fund,City Representative,Government Operations,"Materials, Supplies & Equip.",0
+2022,General Fund,City Treasurer,Government Operations,Personal Services,1395075
+2022,General Fund,City Treasurer,Government Operations,Purchase of Services,3323698
+2022,General Fund,City Treasurer,Government Operations,"Materials, Supplies & Equip.",22224
+2022,General Fund,Civil Service Commission,Government Operations,Personal Services,177148
+2022,General Fund,Civil Service Commission,Government Operations,Purchase of Services,29500
+2022,General Fund,Civil Service Commission,Government Operations,"Materials, Supplies & Equip.",1094
+2022,General Fund,Civil Service Commission,Government Operations,Advances and Other Misc. Payments,25000000
+2022,General Fund,Commerce,Commercial Corridors & Small Businesses,Personal Services,3614341
+2022,General Fund,Commerce,Commercial Corridors & Small Businesses,Purchase of Services,10499099
+2022,General Fund,Commerce,Commercial Corridors & Small Businesses,"Materials, Supplies & Equip.",26654
+2022,General Fund,Commerce,Commercial Corridors & Small Businesses,"Contrib., Indemnities & Taxes",500000
+2022,General Fund,Commerce-Convention Center Subsidy,Commercial Corridors & Small Businesses,Purchase of Services,15000000
+2022,General Fund,Commerce-Economic Stimulus,Commercial Corridors & Small Businesses,Purchase of Services,6015000
+2022,General Fund,District Attorney,Courts & the Justice System,Personal Services,36562904
+2022,General Fund,District Attorney,Courts & the Justice System,Purchase of Services,3343738
+2022,General Fund,District Attorney,Courts & the Justice System,"Materials, Supplies & Equip.",525017
+2022,General Fund,District Attorney,Courts & the Justice System,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Finance,Government Operations,Personal Services,10185891
+2022,General Fund,Finance,Government Operations,Purchase of Services,3475113
+2022,General Fund,Finance,Government Operations,"Materials, Supplies & Equip.",35616
+2022,General Fund,Finance,Government Operations,"Contrib., Indemnities & Taxes",16069700
+2022,General Fund,Finance,Government Operations,Payments to Other Funds,11360000
+2022,General Fund,Finance,Government Operations,Advances and Other Misc. Payments,75000000
+2022,General Fund,Finance-Budget Stabilization,Government Operations,Payments to Other Funds,0
+2022,General Fund,Finance-Community College Subsidy,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",48128075
+2022,General Fund,Finance-Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,1438592740
+2022,General Fund,Finance-Hero Scholarship Awards,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",25000
+2022,General Fund,Finance-Indemnities,Government Operations,"Contrib., Indemnities & Taxes",49246000
+2022,General Fund,Finance-Reg #32,Government Operations,Personal Services,2293165
+2022,General Fund,Finance-Refunds,Government Operations,"Contrib., Indemnities & Taxes",250000
+2022,General Fund,Finance-School District Contribution,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",255953201
+2022,General Fund,Finance-Witness Fees,Government Operations,Purchase of Services,171518
+2022,General Fund,Fire,Emergency Services,Personal Services,332992022
+2022,General Fund,Fire,Emergency Services,Purchase of Services,6728143
+2022,General Fund,Fire,Emergency Services,"Materials, Supplies & Equip.",11275064
+2022,General Fund,Fire,Emergency Services,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Fire,Emergency Services,Payments to Other Funds,10071000
+2022,General Fund,First Judicial District,Courts & the Justice System,Personal Services,105324122
+2022,General Fund,First Judicial District,Courts & the Justice System,Purchase of Services,8643039
+2022,General Fund,First Judicial District,Courts & the Justice System,"Materials, Supplies & Equip.",2231868
+2022,General Fund,First Judicial District,Courts & the Justice System,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Fleet Management,Government Operations,Personal Services,19260680
+2022,General Fund,Fleet Management,Government Operations,Purchase of Services,5401396
+2022,General Fund,Fleet Management,Government Operations,"Materials, Supplies & Equip.",20684642
+2022,General Fund,Fleet Management,Government Operations,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Fleet Management -Vehicle Lease/Purch.,Government Operations,"Materials, Supplies & Equip.",9745852
+2022,General Fund,Free Library,Libraries,Personal Services,38171857
+2022,General Fund,Free Library,Libraries,Purchase of Services,2772879
+2022,General Fund,Free Library,Libraries,"Materials, Supplies & Equip.",1842128
+2022,General Fund,Free Library,Libraries,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Human Relations Commission,Government Operations,Personal Services,2325040
+2022,General Fund,Human Relations Commission,Government Operations,Purchase of Services,34657
+2022,General Fund,Human Relations Commission,Government Operations,"Materials, Supplies & Equip.",28031
+2022,General Fund,Human Services,Youth Services,Personal Services,32182866
+2022,General Fund,Human Services,Youth Services,Purchase of Services,142585334
+2022,General Fund,Human Services,Youth Services,"Materials, Supplies & Equip.",2111970
+2022,General Fund,Human Services,Youth Services,"Contrib., Indemnities & Taxes",1393638
+2022,General Fund,Labor,Government Operations,Personal Services,2939422
+2022,General Fund,Labor,Government Operations,Purchase of Services,352817
+2022,General Fund,Labor,Government Operations,"Materials, Supplies & Equip.",21420
+2022,General Fund,Law,Government Operations,Personal Services,13329167
+2022,General Fund,Law,Government Operations,Purchase of Services,5433427
+2022,General Fund,Law,Government Operations,"Materials, Supplies & Equip.",184676
+2022,General Fund,Law,Government Operations,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Licenses & Inspection,Government Operations,Personal Services,24577968
+2022,General Fund,Licenses & Inspection,Government Operations,Purchase of Services,13522002
+2022,General Fund,Licenses & Inspection,Government Operations,"Materials, Supplies & Equip.",834475
+2022,General Fund,Licenses & Inspection,Government Operations,"Contrib., Indemnities & Taxes",0
+2022,General Fund,L&I-Board of Building Standards,Government Operations,Personal Services,82018
+2022,General Fund,L&I-Board of L&I Review,Government Operations,Personal Services,165635
+2022,General Fund,L&I-Board of L&I Review,Government Operations,Purchase of Services,10436
+2022,General Fund,Managing Director,Government Operations,Personal Services,43754013
+2022,General Fund,Managing Director,Government Operations,Purchase of Services,74021183
+2022,General Fund,Managing Director,Government Operations,"Materials, Supplies & Equip.",4509265
+2022,General Fund,Managing Director,Government Operations,"Contrib., Indemnities & Taxes",3300000
+2022,General Fund,Managing Director,Government Operations,Payments to Other Funds,0
+2022,General Fund,Managing Director-Legal Services,Government Operations,Purchase of Services,52404449
+2022,General Fund,Mayor's Office,Government Operations,Personal Services,5892600
+2022,General Fund,Mayor's Office,Government Operations,Purchase of Services,780260
+2022,General Fund,Mayor's Office,Government Operations,"Materials, Supplies & Equip.",41341
+2022,General Fund,Mayor's Office,Government Operations,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Mayor's Office - Scholarships,Government Operations,"Contrib., Indemnities & Taxes",100000
+2022,General Fund,Mural Arts Program,Arts & Culture,Personal Services,586569
+2022,General Fund,Mural Arts Program,Arts & Culture,Purchase of Services,2065610
+2022,General Fund,Office of Arts & Culture & the Creative Economy,Government Operations,Personal Services,0
+2022,General Fund,Office of Arts & Culture & the Creative Economy,Government Operations,Purchase of Services,0
+2022,General Fund,Office of Arts & Culture & the Creative Economy,Government Operations,"Materials, Supplies & Equip.",0
+2022,General Fund,Office of Arts & Culture & the Creative Economy,Government Operations,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,Personal Services,2980922
+2022,General Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,Purchase of Services,20522810
+2022,General Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,"Materials, Supplies & Equip.",43200
+2022,General Fund,Office of the Chief Administrative Officer,Government Operations,Personal Services,5062173
+2022,General Fund,Office of the Chief Administrative Officer,Government Operations,Purchase of Services,3865698
+2022,General Fund,Office of the Chief Administrative Officer,Government Operations,"Materials, Supplies & Equip.",2016665
+2022,General Fund,Office of Community Empowerment and Opportunity,Immigration Services,Personal Services,45000
+2022,General Fund,Office of Community Empowerment and Opportunity,Immigration Services,Purchase of Services,1464000
+2022,General Fund,Office of Community Empowerment and Opportunity,Immigration Services,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Office of Children and Families,Government Operations,Personal Services,442000
+2022,General Fund,Office of Children and Families,Government Operations,Purchase of Services,0
+2022,General Fund,Office of Children and Families,Government Operations,"Materials, Supplies & Equip.",0
+2022,General Fund,Office of Children and Families,Government Operations,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Office of Homeless Services,Housing & Homeless Services,Personal Services,9307467
+2022,General Fund,Office of Homeless Services,Housing & Homeless Services,Purchase of Services,45637327
+2022,General Fund,Office of Homeless Services,Housing & Homeless Services,"Materials, Supplies & Equip.",344127
+2022,General Fund,Office of Homeless Services,Housing & Homeless Services,"Contrib., Indemnities & Taxes",32421
+2022,General Fund,Office of Human Resources,Government Operations,Personal Services,5223802
+2022,General Fund,Office of Human Resources,Government Operations,Purchase of Services,1177570
+2022,General Fund,Office of Human Resources,Government Operations,"Materials, Supplies & Equip.",69432
+2022,General Fund,Office of Human Resources,Government Operations,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Office of Innovation and Technology,Government Operations,Personal Services,26789649
+2022,General Fund,Office of Innovation and Technology,Government Operations,Purchase of Services,48768639
+2022,General Fund,Office of Innovation and Technology,Government Operations,"Materials, Supplies & Equip.",3229295
+2022,General Fund,Office of Innovation and Technology,Government Operations,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Office of Innovation and Technology-911,Emergency Services,Personal Services,1341547
+2022,General Fund,Office of Innovation and Technology-911,Emergency Services,Purchase of Services,21928631
+2022,General Fund,Office of Innovation and Technology-911,Emergency Services,"Materials, Supplies & Equip.",8064399
+2022,General Fund,Office of the Inspector General,Government Operations,Personal Services,1504223
+2022,General Fund,Office of the Inspector General,Government Operations,Purchase of Services,97975
+2022,General Fund,Office of the Inspector General,Government Operations,"Materials, Supplies & Equip.",5225
+2022,General Fund,Office of Property Assessment,Government Operations,Personal Services,14395213
+2022,General Fund,Office of Property Assessment,Government Operations,Purchase of Services,2026020
+2022,General Fund,Office of Property Assessment,Government Operations,"Materials, Supplies & Equip.",362600
+2022,General Fund,Office of Sustainability,Government Operations,Personal Services,722621
+2022,General Fund,Office of Sustainability,Government Operations,Purchase of Services,675966
+2022,General Fund,Office of Sustainability,Government Operations,"Materials, Supplies & Equip.",1000
+2022,General Fund,Office of Sustainability,Government Operations,Payments to Other Funds,175000
+2022,General Fund,Parks and Recreation,Parks & Recreation,Personal Services,52352786
+2022,General Fund,Parks and Recreation,Parks & Recreation,Purchase of Services,5659542
+2022,General Fund,Parks and Recreation,Parks & Recreation,"Materials, Supplies & Equip.",2552225
+2022,General Fund,Parks and Recreation,Parks & Recreation,"Contrib., Indemnities & Taxes",2000000
+2022,General Fund,Parks and Recreation,Parks & Recreation,Payments to Other Funds,0
+2022,General Fund,Planning and Development,Housing & Homeless Services,Personal Services,4873604
+2022,General Fund,Planning and Development,Housing & Homeless Services,Purchase of Services,5619463
+2022,General Fund,Planning and Development,Housing & Homeless Services,"Materials, Supplies & Equip.",80761
+2022,General Fund,Planning and Development,Housing & Homeless Services,"Contrib., Indemnities & Taxes",6500000
+2022,General Fund,Police,Police,Personal Services,704349409
+2022,General Fund,Police,Police,Purchase of Services,10418373
+2022,General Fund,Police,Police,"Materials, Supplies & Equip.",14579952
+2022,General Fund,Police,Police,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Prisons,Courts & the Justice System,Personal Services,132739167
+2022,General Fund,Prisons,Courts & the Justice System,Purchase of Services,98210934
+2022,General Fund,Prisons,Courts & the Justice System,"Materials, Supplies & Equip.",5499455
+2022,General Fund,Prisons,Courts & the Justice System,"Contrib., Indemnities & Taxes",1201757
+2022,General Fund,Procurement,Government Operations,Personal Services,2648235
+2022,General Fund,Procurement,Government Operations,Purchase of Services,3395744
+2022,General Fund,Procurement,Government Operations,"Materials, Supplies & Equip.",12359
+2022,General Fund,Public Health,Public Health Centers,Personal Services,59267291
+2022,General Fund,Public Health,Public Health Centers,Purchase of Services,95447448
+2022,General Fund,Public Health,Public Health Centers,"Materials, Supplies & Equip.",7366053
+2022,General Fund,Public Health,Public Health Centers,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Public Health,Public Health Centers,Payments to Other Funds,923404
+2022,General Fund,Public Property,Government Operations,Personal Services,10098527
+2022,General Fund,Public Property,Government Operations,Purchase of Services,35725814
+2022,General Fund,Public Property,Government Operations,"Materials, Supplies & Equip.",1338535
+2022,General Fund,Public Property,Government Operations,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Public Property,Government Operations,Payments to Other Funds,26262470
+2022,General Fund,Public Property-SEPTA Subsidy,Public Transit,Purchase of Services,91214000
+2022,General Fund,Public Property-Space Rentals,Government Operations,Purchase of Services,30631626
+2022,General Fund,Public Property-Utilities,Government Operations,Purchase of Services,24875748
+2022,General Fund,Records,Government Operations,Personal Services,3009970
+2022,General Fund,Records,Government Operations,Purchase of Services,758985
+2022,General Fund,Records,Government Operations,"Materials, Supplies & Equip.",143758
+2022,General Fund,Records,Government Operations,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Register of Wills,Government Operations,Personal Services,3956193
+2022,General Fund,Register of Wills,Government Operations,Purchase of Services,185000
+2022,General Fund,Register of Wills,Government Operations,"Materials, Supplies & Equip.",140236
+2022,General Fund,Revenue,Government Operations,Personal Services,20380548
+2022,General Fund,Revenue,Government Operations,Purchase of Services,5787749
+2022,General Fund,Revenue,Government Operations,"Materials, Supplies & Equip.",774976
+2022,General Fund,Revenue,Government Operations,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Sheriff,Courts & the Justice System,Personal Services,25192450
+2022,General Fund,Sheriff,Courts & the Justice System,Purchase of Services,1105267
+2022,General Fund,Sheriff,Courts & the Justice System,"Materials, Supplies & Equip.",498157
+2022,General Fund,Sheriff,Courts & the Justice System,"Contrib., Indemnities & Taxes",0
+2022,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Purchase of Services,104560657
+2022,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Debt Service,192666858
+2022,General Fund,Streets-Disposal,Government Operations,Purchase of Services,59762580
+2022,General Fund,Streets,Streets,Personal Services,90986330
+2022,General Fund,Streets,Streets,Purchase of Services,8417345
+2022,General Fund,Streets,Streets,"Materials, Supplies & Equip.",14215207
+2022,General Fund,Streets,Streets,"Contrib., Indemnities & Taxes",53171
+2022,Water Fund,Office of Innovation and Technology,Government Operations,Personal Services,9045320
+2022,Water Fund,Office of Innovation and Technology,Government Operations,Purchase of Services,21594698
+2022,Water Fund,Mayor - Office of Innovation and Technology City of Philadelphia - 12 - City of Philadelphia,Government Operations,"Materials, Supplies & Equip.",1584850
+2022,Water Fund,Managing Director,Government Operations,Personal Services,138550
+2022,Water Fund,Managing Director - Office of Fleet Management,Government Operations,Personal Services,3365544
+2022,Water Fund,Managing Director - Office of Fleet Management,Government Operations,Purchase of Services,1489000
+2022,Water Fund,Managing Director - Office of Fleet Management,Government Operations,"Materials, Supplies & Equip.",4044640
+2022,Water Fund,Public Property,Government Operations,Purchase of Services,4495292
+2022,Water Fund,Water,Government Operations,Personal Services,139647960
+2022,Water Fund,Water,Government Operations,Purchase of Services,183009222
+2022,Water Fund,Water,Government Operations,"Materials, Supplies & Equip.",56280800
+2022,Water Fund,Water,Government Operations,"Contrib., Indemnities & Taxes",510000
+2022,Water Fund,Water,Government Operations,Payments to Other Funds,50030000
+2022,Water Fund,Finance-Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,126977257
+2022,Water Fund,Finance-Indemnities,Government Operations,"Contrib., Indemnities & Taxes",6000000
+2022,Water Fund,Revenue,Government Operations,Personal Services,10236598
+2022,Water Fund,Revenue,Government Operations,Purchase of Services,5165000
+2022,Water Fund,Revenue,Government Operations,"Materials, Supplies & Equip.",1434500
+2022,Water Fund,Sinking Fund Commission (Debt Service),Government Operations,Debt Service,201542300
+2022,Water Fund,Procurement,Government Operations,Personal Services,107411
+2022,Water Fund,Law,Government Operations,Personal Services,3198392
+2022,Water Fund,Law,Government Operations,Purchase of Services,691614
+2022,Water Fund,Law,Government Operations,"Materials, Supplies & Equip.",43010
+2022,Water Fund,Office of Sustainability,Government Operations,Personal Services,85874
+2022,Water Fund,Office of Sustainability,Government Operations,Purchase of Services,47000
+2022,Water Fund,Water,Government Operations,Personal Services,44968
+2022,Water Fund,Water,Government Operations,Purchase of Services,745200
+2022,Water Residual Fund,Water,Government Operations,Purchase of Services,8000000
+2022,Water Residual Fund,Water,Government Operations,"Materials, Supplies & Equip.",8000000
+2022,Water Residual Fund,Water,Government Operations,Payments to Other Funds,16994000
+2022,County Liquid Fuels Tax Fund,Streets,Streets,Personal Services,3734000
+2022,County Liquid Fuels Tax Fund,Streets,Streets,Purchase of Services,6920330
+2022,County Liquid Fuels Tax Fund,Streets,Streets,"Materials, Supplies & Equip.",200000
+2022,County Liquid Fuels Tax Fund,Streets,Streets,Payments to Other Funds,18670
+2022,Special Gasoline Tax Fund,Streets,Streets,Personal Services,11294283
+2022,Special Gasoline Tax Fund,Streets,Streets,Purchase of Services,16689495
+2022,Special Gasoline Tax Fund,Streets,Streets,"Materials, Supplies & Equip.",11886222
+2022,Special Gasoline Tax Fund,Streets,Streets,Payments to Other Funds,30000
+2022,Special Gasoline Tax Fund,Finance-Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,1000000
+2022,Healthchoices Behavioral Health Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,Personal Services,926116
+2022,Healthchoices Behavioral Health Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,Pers. Svcs.-Emp.Benefits,325673
+2022,Healthchoices Behavioral Health Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,Purchase of Services,1308648211
+2022,Healthchoices Behavioral Health Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,Payments to Other Funds,100000
+2022,Hotel Room Rental Tax Fund,Commerce,Commercial Corridors & Small Businesses,"Contrib., Indemnities & Taxes",50000000
+2022,Grants Revenue Fund,City Council,Government Operations,Personal Services,100000
+2022,Grants Revenue Fund,City Council,Government Operations,Purchase of Services,75000
+2022,Grants Revenue Fund,City Council,Government Operations,"Materials, Supplies & Equip.",30100
+2022,Grants Revenue Fund,City Council,Government Operations,"Contrib., Indemnities & Taxes",100
+2022,Grants Revenue Fund,City Council,Government Operations,Payments to Other Funds,100
+2022,Grants Revenue Fund,Office of Innovation and Technology,Government Operations,Personal Services,340009
+2022,Grants Revenue Fund,Office of Innovation and Technology,Government Operations,Purchase of Services,1427791
+2022,Grants Revenue Fund,Office of Innovation and Technology,Government Operations,"Materials, Supplies & Equip.",1672435
+2022,Grants Revenue Fund,Office of Innovation and Technology,Government Operations,Payments to Other Funds,49270284
+2022,Grants Revenue Fund,Mayor,Government Operations,Personal Services,175000
+2022,Grants Revenue Fund,Office of Community Empowerment and Opportunity,Immigration Services,Personal Services,3274478
+2022,Grants Revenue Fund,Office of Community Empowerment and Opportunity,Immigration Services,Pers. Svcs.-Emp.Benefits,567303
+2022,Grants Revenue Fund,Office of Community Empowerment and Opportunity,Immigration Services,Purchase of Services,37578804
+2022,Grants Revenue Fund,Office of Community Empowerment and Opportunity,Immigration Services,"Materials, Supplies & Equip.",654550
+2022,Grants Revenue Fund,Managing Director,Government Operations,Personal Services,55520732
+2022,Grants Revenue Fund,Managing Director,Government Operations,Pers. Svcs.-Emp.Benefits,543234
+2022,Grants Revenue Fund,Managing Director,Government Operations,Purchase of Services,99060305
+2022,Grants Revenue Fund,Managing Director,Government Operations,"Materials, Supplies & Equip.",42991865
+2022,Grants Revenue Fund,Police,Police,Personal Services,6340966
+2022,Grants Revenue Fund,Police,Police,Pers. Svcs.-Emp.Benefits,366700
+2022,Grants Revenue Fund,Police,Police,Purchase of Services,2365126
+2022,Grants Revenue Fund,Police,Police,"Materials, Supplies & Equip.",7902002
+2022,Grants Revenue Fund,Streets,Streets,Personal Services,1090000
+2022,Grants Revenue Fund,Streets,Streets,Purchase of Services,34400000
+2022,Grants Revenue Fund,Streets,Streets,"Materials, Supplies & Equip.",4917000
+2022,Grants Revenue Fund,Fire,Emergency Services,Personal Services,16448000
+2022,Grants Revenue Fund,Fire,Emergency Services,Pers. Svcs.-Emp.Benefits,2336500
+2022,Grants Revenue Fund,Fire,Emergency Services,Purchase of Services,7372000
+2022,Grants Revenue Fund,Fire,Emergency Services,"Materials, Supplies & Equip.",4932000
+2022,Grants Revenue Fund,Public Health,Public Health Centers,Personal Services,22510330
+2022,Grants Revenue Fund,Public Health,Public Health Centers,Pers. Svcs.-Emp.Benefits,5464322
+2022,Grants Revenue Fund,Public Health,Public Health Centers,Purchase of Services,175869859
+2022,Grants Revenue Fund,Public Health,Public Health Centers,"Materials, Supplies & Equip.",41569123
+2022,Grants Revenue Fund,Public Health,Public Health Centers,Payments to Other Funds,1555994
+2022,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,Personal Services,20361162
+2022,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,Pers. Svcs.-Emp.Benefits,9346166
+2022,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,Purchase of Services,274969368
+2022,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,"Materials, Supplies & Equip.",250000
+2022,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,Payments to Other Funds,101416
+2022,Grants Revenue Fund,Parks and Recreation,Parks & Recreation,Personal Services,3991005
+2022,Grants Revenue Fund,Parks and Recreation,Parks & Recreation,Pers. Svcs.-Emp.Benefits,176047
+2022,Grants Revenue Fund,Parks and Recreation,Parks & Recreation,Purchase of Services,2020559
+2022,Grants Revenue Fund,Parks and Recreation,Parks & Recreation,"Materials, Supplies & Equip.",7866257
+2022,Grants Revenue Fund,Human Services,Youth Services,Personal Services,89405490
+2022,Grants Revenue Fund,Human Services,Youth Services,Pers. Svcs.-Emp.Benefits,63748794
+2022,Grants Revenue Fund,Human Services,Youth Services,Purchase of Services,477468227
+2022,Grants Revenue Fund,Department of Human Services City of Philadelphia - 18 - City of Philadelphia,Government Operations,"Materials, Supplies & Equip.",3647242
+2022,Grants Revenue Fund,Department of Human Services City of Philadelphia - 18 - City of Philadelphia,Government Operations,Payments to Other Funds,8000000
+2022,Grants Revenue Fund,Office of Homeless Services,Housing & Homeless Services,Personal Services,3438207
+2022,Grants Revenue Fund,Office of Homeless Services,Housing & Homeless Services,Purchase of Services,88857479
+2022,Grants Revenue Fund,Office of Homeless Services,Housing & Homeless Services,"Materials, Supplies & Equip.",1452076
+2022,Grants Revenue Fund,Finance,Government Operations,Payments to Other Funds,575000000
+2022,Grants Revenue Fund,Finance,Government Operations,Advances and Other Misc. Payments,1000001195
+2022,Grants Revenue Fund,Revenue,Government Operations,Purchase of Services,19650000
+2022,Grants Revenue Fund,Commerce,Commercial Corridors & Small Businesses,Personal Services,297615
+2022,Grants Revenue Fund,Commerce,Commercial Corridors & Small Businesses,Purchase of Services,10000000
+2022,Grants Revenue Fund,Office of Sustainability,Government Operations,Personal Services,243356
+2022,Grants Revenue Fund,Office of Sustainability,Government Operations,Purchase of Services,195000
+2022,Grants Revenue Fund,Office of Sustainability,Government Operations,"Materials, Supplies & Equip.",50000
+2022,Grants Revenue Fund,Free Library,Libraries,Personal Services,1686554
+2022,Grants Revenue Fund,Free Library,Libraries,Purchase of Services,2818812
+2022,Grants Revenue Fund,Free Library,Libraries,"Materials, Supplies & Equip.",3918152
+2022,Grants Revenue Fund,Auditing (City Controller),Government Operations,Purchase of Services,400000
+2022,Grants Revenue Fund,Register of Wills,Government Operations,"Materials, Supplies & Equip.",200000
+2022,Grants Revenue Fund,District Attorney,Courts & the Justice System,Personal Services,10606780
+2022,Grants Revenue Fund,District Attorney,Courts & the Justice System,Pers. Svcs.-Emp.Benefits,845000
+2022,Grants Revenue Fund,District Attorney,Courts & the Justice System,Purchase of Services,7558360
+2022,Grants Revenue Fund,District Attorney,Courts & the Justice System,"Materials, Supplies & Equip.",1621300
+2022,Grants Revenue Fund,Planning and Development,Housing & Homeless Services,Personal Services,90000
+2022,Grants Revenue Fund,Planning and Development,Housing & Homeless Services,Purchase of Services,215273872
+2022,Grants Revenue Fund,City Commissioners,Government Operations,Personal Services,350000
+2022,Grants Revenue Fund,City Commissioners,Government Operations,Purchase of Services,2215000
+2022,Grants Revenue Fund,City Commissioners City of Philadelphia - 20 - City of Philadelphia,Government Operations,"Materials, Supplies & Equip.",200000
+2022,Grants Revenue Fund,First Judicial District,Courts & the Justice System,Personal Services,29332037
+2022,Grants Revenue Fund,First Judicial District,Courts & the Justice System,Pers. Svcs.-Emp.Benefits,14449189
+2022,Grants Revenue Fund,First Judicial District,Courts & the Justice System,Purchase of Services,4589500
+2022,Grants Revenue Fund,First Judicial District,Courts & the Justice System,"Materials, Supplies & Equip.",3148720
+2022,Grants Revenue Fund,First Judicial District,Courts & the Justice System,Payments to Other Funds,1433051
+2022,Aviation Fund,Office of Innovation and Technology,Government Operations,Personal Services,1110780
+2022,Aviation Fund,Office of Innovation and Technology,Government Operations,Purchase of Services,1628698
+2022,Aviation Fund,Managing Director - Office of Fleet Management,Government Operations,Personal Services,1420817
+2022,Aviation Fund,Managing Director - Office of Fleet Management,Government Operations,Purchase of Services,470400
+2022,Aviation Fund,Managing Director - Office of Fleet Management,Government Operations,"Materials, Supplies & Equip.",1194400
+2022,Aviation Fund,Managing Director - Office of Fleet Management - Vehicle Purchase,Government Operations,"Materials, Supplies & Equip.",500000
+2022,Aviation Fund,Police,Police,Personal Services,14670044
+2022,Aviation Fund,Police,Police,Purchase of Services,72460
+2022,Aviation Fund,Police,Police,"Materials, Supplies & Equip.",84600
+2022,Aviation Fund,Fire,Emergency Services,Personal Services,8796157
+2022,Aviation Fund,Fire,Emergency Services,Purchase of Services,15000
+2022,Aviation Fund,Fire,Emergency Services,"Materials, Supplies & Equip.",124720
+2022,Aviation Fund,Fire,Emergency Services,Payments to Other Funds,19000
+2022,Aviation Fund,Public Property-Utilities,Government Operations,Purchase of Services,14000000
+2022,Aviation Fund,Finance,Government Operations,Purchase of Services,3246000
+2022,Aviation Fund,Finance-Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,56855271
+2022,Aviation Fund,Finance-Indemnities,Government Operations,"Contrib., Indemnities & Taxes",2512000
+2022,Aviation Fund,Sinking Fund Commission (Debt Service),Government Operations,Debt Service,132003960
+2022,Aviation Fund,Director of Commerce City of Philadelphia - 22 - City of Philadelphia,Government Operations,Personal Services,45800000
+2022,Aviation Fund,Director of Commerce City of Philadelphia - 22 - City of Philadelphia,Government Operations,Purchase of Services,80500000
+2022,Aviation Fund,Director of Commerce City of Philadelphia - 22 - City of Philadelphia,Government Operations,"Materials, Supplies & Equip.",7000000
+2022,Aviation Fund,Director of Commerce City of Philadelphia - 22 - City of Philadelphia,Government Operations,"Contrib., Indemnities & Taxes",6300000
+2022,Aviation Fund,Director of Commerce City of Philadelphia - 22 - City of Philadelphia,Government Operations,Payments to Other Funds,11000000
+2022,Aviation Fund,Law,Government Operations,Personal Services,1584820
+2022,Aviation Fund,Office of Sustainability,Government Operations,Personal Services,80873
+2022,Aviation Fund,Office of Sustainability,Government Operations,Purchase of Services,30000
+2022,Community Development Fund,Planning and Development,Housing & Homeless Services,Personal Services,4802795
+2022,Community Development Fund,Planning and Development,Housing & Homeless Services,Purchase of Services,80146264
+2022,Community Development Fund,Planning and Development,Housing & Homeless Services,"Materials, Supplies & Equip.",252500
+2022,Community Development Fund,Planning and Development,Housing & Homeless Services,Payments to Other Funds,25000
+2022,Community Development Fund,Licenses & Inspection,Government Operations,Personal Services,490303
+2022,Community Development Fund,Finance-Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,5579693
+2022,Community Development Fund,Finance,Government Operations,Advances and Other Misc. Payments,20000000
+2022,Community Development Fund,Commerce,Commercial Corridors & Small Businesses,Personal Services,2060302
+2022,Community Development Fund,Commerce,Commercial Corridors & Small Businesses,Purchase of Services,15396570
+2022,Community Development Fund,Commerce,Commercial Corridors & Small Businesses,"Materials, Supplies & Equip.",3000
+2022,Community Development Fund,Law,Government Operations,Personal Services,195573
+2022,Car Rental Tax Fund,Sinking Fund Commission (Debt Service),Government Operations,Purchase of Services,7000000
+2022,Municipal Pension Fund,Sinking Fund Commission (Debt Service),Government Operations,Personal Services,4445000
+2022,Municipal Pension Fund,Sinking Fund Commission (Debt Service),Government Operations,Pers. Svcs.-Emp.Benefits,6186000
+2022,Municipal Pension Fund,Sinking Fund Commission (Debt Service),Government Operations,Purchase of Services,2517000
+2022,Municipal Pension Fund,Board of Pensions and Retirement City of Philadelphia - 24 - City of Philadelphia,Government Operations,"Materials, Supplies & Equip.",92000
+2022,Municipal Pension Fund,Board of Pensions and Retirement City of Philadelphia - 24 - City of Philadelphia,Government Operations,Payments to Other Funds,90000
+2022,Housing Trust Fund,Planning and Development,Housing & Homeless Services,Personal Services,2043664
+2022,Housing Trust Fund,Planning and Development,Housing & Homeless Services,Pers. Svcs.-Emp.Benefits,206336
+2022,Housing Trust Fund,Planning and Development,Housing & Homeless Services,Purchase of Services,75794000
+2022,Housing Trust Fund,Planning and Development,Housing & Homeless Services,"Materials, Supplies & Equip.",150000
+2022,Acute Care Hospital Fund,Public Health,Public Health Centers,Personal Services,9865400
+2022,Acute Care Hospital Fund,Public Health,Public Health Centers,Purchase of Services,6926320
+2022,Acute Care Hospital Fund,Public Health,Public Health Centers,"Materials, Supplies & Equip.",1150000
+2022,Acute Care Hospital Fund,Public Health,Public Health Centers,Payments to Other Funds,4500000
+2022,Acute Care Hospital Fund,Public Health,Public Health Centers,Purchase of Services,300000000
+2022,Acute Care Hospital Fund,Finance,Government Operations,Personal Services,75000
+2022,Acute Care Hospital Fund,Director of Finance - Fringe Benefits City of Philadelphia - 25 - City of Philadelphia,Government Operations,Pers. Svcs.-Emp.Benefits,269280
+2022,Acute Care Hospital Fund,Revenue,Government Operations,Personal Services,30000
+2022,Acute Care Hospital Fund,Revenue,Government Operations,"Materials, Supplies & Equip.",15000
+2022,Budget Stabilization Fund,Finance-Budget Stabilization,Government Operations,Payments to Other Funds,1000
