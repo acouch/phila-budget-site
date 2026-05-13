@@ -1,0 +1,11 @@
+/* Tailwind without preflight — for pages that already load a CSS framework
+ * (Foundation/phila-patterns) and would break under Tailwind's reset.
+ * Skips: preflight.css (browser reset).
+ * Includes: theme.css (CSS vars), utilities.css, plus custom @theme overrides. */
+@import url("https://fonts.googleapis.com/css2?family=Amaranth:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import "tailwindcss/theme.css";
+@import "tailwindcss/utilities.css";
+
+@theme {
+  --font-display: "Amaranth", system-ui, sans-serif;
+}

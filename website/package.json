@@ -3,11 +3,11 @@
   "version": "0.0.0",
   "description": "New developers, designers and ideator are welcome to join.",
   "scripts": {
-    "build": "parcel build --public-url='/' src/*.ejs src/charts/bubble/*.html"
+    "build": "parcel build --public-url='/' 'src/!(_*).ejs' 'src/charts/bubble/!(_*).ejs' src/openbudget/*.html"
   },
   "staticFiles": {
-    "staticPath": "src/charts/bubble/data",
-    "distDir": "dist/charts/bubble/data"
+    "staticPath": "src/openbudget/data",
+    "distDir": "dist/openbudget/data"
   },
   "repository": {
     "type": "git",

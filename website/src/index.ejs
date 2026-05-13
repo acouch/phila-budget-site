@@ -1,15 +1,7 @@
 <html>
 <head>
   <title>Philly Budget Data</title>
-  <meta name="description" content="Historical budget data for Philly.">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta property="og:title" content="Philly Budget Data"/>
-  <meta property="og:site_name" content="Philly Budget Data"/>
-  <meta property="og:description" content="Historical budget data for Philly." />
-  <link href="tailwind.css" rel="stylesheet">
-  <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+  <%- include('_meta', { basePath: '' }) %>
 </head>
 <body>
 
@@ -30,7 +22,7 @@
         <div class="hidden lg:mt-20 lg:block">
           <div class="grid grid-cols-3 gap-x-8" role="tablist" aria-orientation="horizontal">
               <div class="relative">
-                <a href="charts/bubble/2027-tagged.ejs">
+                <a href="charts/bubble/2027.ejs">
                   <img class="max-h-85" src="assets/images/2027-proposed.jpg" />
                   <h3 class="font-display mt-2 text-slate-900 text-xl">2027 Proposed Budget</h3>
                 </a>
@@ -42,7 +34,7 @@
                 </a>
               </div>
               <div class="relative opacity-75 hover:opacity-100">
-                <a href="charts/bubble/2018.ejs">
+                <a href="charts/bubble/2019.ejs">
                   <img class="max-h-85" src="assets/images/2018-proposed-by-fund.jpg" />
                   <h3 class="font-display mt-2 text-slate-900 text-xl">2018 Proposed Budget by Funding Source</h3>
                 </a>
@@ -50,13 +42,32 @@
           </div>
         </div>
    </section>
+   <section class="py-20 sm:py-32">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl md:text-center">
+        <h2 id="about" class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">About this website</h2>
+        <p>coming soon!</p>
+        <p><a href="https://thenounproject.com/icon/budget-7824210/">Budget icon from the noun project.</a></p>
+      </div>
+    </div>
+   </section>
+   <section class="bg-slate-50 py-20 sm:py-32">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl md:text-center">
+        <h2 id="budget" class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">About Philly's Budget</h2>
+        <p>coming soon!</p>
+      </div>
+    </div>
+   </section>
+   <section class="py-20 sm:py-32">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl md:text-center">
+        <h2 id="resources" class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">Resources</h2>
+        <p>coming soon!</p>
+        <p><a style="display: block; background-color: hsl(243.4, 52.2%, 13.1%); padding: 20px;" href="https://www.peoplesbudgetoffice.org/"><img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/67c20a8b415097680ba6a095/dda629c2-96fc-462b-a8cf-7ae4cdfacf98/PBO_Logo_White_Red.png?format=1500w" alt="People&amp;#39;s Budget Office " style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw"></a></p>
+      </div>
+    </div>
+   </section>
 </main>
-
-
-
-
-
-
-
 </body>
 </html>

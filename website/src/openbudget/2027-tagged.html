@@ -1,0 +1,99 @@
+<!--[if lt IE 10]>      <html id="OpenBudget" class="oldie"> <![endif]-->
+<!--[if gt IE 9]><!--> <html id="OpenBudget"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <title>2027 Philadelphia Proposed Budget</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="2027 Philadelphia Proposed Budget visualized">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta property="og:title" content="Open Budget | phila.gov"/>
+    <meta property="og:url" content="//www.phila.gov/openbudget"/>
+    <meta property="og:site_name" content="Open Budget"/>
+    <meta property="og:image" content="assets/images/budget-img.png"/>
+    <link rel="image_src" href="assets/images/budget-img.png"/>
+    <meta property="og:description" content="2027 Philadelphia Proposed Budget visualized in circles, playful and easy to use." />
+    <!-- build:css assets/stylesheets/main.min.css -->
+    <link href="assets/stylesheets/phila-patterns.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="assets/stylesheets/visualisation.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="assets/stylesheets/nprogress.css" media="all" rel="stylesheet" type="text/css" />
+    <!-- endbuild -->
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+
+<div id="page" class="app">
+    <div id="application" class="row small-collapse">
+        <div id="sidebar-parent" class="small-24 medium-11 medium-push-13 column">
+          <div id="sidebar">
+
+            <!--<div id="search">
+                <label for="search-field">
+                    <i class="icon-search"></i>
+                </label>
+                <input id="search-field" type="text" />
+            </div>-->
+
+            <ul class="breadcrumb"></ul>
+            <table id="table" class="table table-hover">
+
+                <thead>
+                    <tr class="overview">
+                        <th>Fund</th>
+                        <th style="text-align:right">Expenses</th>
+                        <!--<th style="text-align:right">Revenues</th>-->
+                    </tr>
+                    <tr class="compare">
+                        <th class="name"></th>
+                        <th class="value2 show-for-medium-up"><span data-tooltip data-options="append_to:table" aria-haspopup="true" class="has-tip tip-top" title="Fiscal Year 2026 (Adopted Budget)">FY 2026 Adopted Budget</span></th>
+                        <th class="diff show-for-large-up">Change</th>
+                        <th class="value"><span data-tooltip aria-haspopup="true" class="has-tip tip-top" title="Fiscal Year 2027 (Proposed Budget)">FY 2027 Proposed Budget</span></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="overview">
+                        <td></td>
+                        <td style="text-align:right"></td>
+                        <!--<td style="text-align:right"></td>-->
+                    </tr>
+                    <tr class="compare">
+                        <td class="name"></td>
+                        <td class="value2 show-for-medium-up"></td>
+                        <td class="diff show-for-large-up"></td>
+                        <td class="value"></td>
+                    </tr>
+                </tbody>
+            </table>
+          </div>
+        </div>
+        <div id="svg-parent" class="small-24 medium-13 medium-pull-11 column">
+            <svg id="canvas">
+                <defs>
+                </defs>
+            </svg>
+        </div>
+    </div>
+</div>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+    <!-- build:js_vendor assets/javascripts/vendor.min.js -->
+    <script src="assets/javascripts/vendor/d3.js"></script>
+    <script src="assets/javascripts/vendor/underscore.js"></script>
+    <script src="assets/javascripts/vendor/nprogress.js"></script>
+    <script src="assets/javascripts/vendor/foundation.js"></script>
+    <script src="assets/javascripts/vendor/foundation.tooltips.js"></script>
+    <script src="assets/javascripts/vendor/foundation.reveal.js"></script>
+    <!-- endbuild -->
+
+    <!-- build:js_app assets/tagged/javascripts/main.min.js -->
+    <script src="data/phltagged/meta.js"></script>
+    <script src="assets/javascripts/setup.js"></script>
+    <script src="assets/javascripts/table.js"></script>
+    <script src="assets/javascripts/nodes.js"></script>
+    <script src="assets/javascripts/visualisation.js"></script>
+    <script src="assets/javascripts/tooltip.js"></script>
+    <script src="assets/javascripts/init.js"></script>
+    <!-- endbuild -->
+</body>
+</html>
