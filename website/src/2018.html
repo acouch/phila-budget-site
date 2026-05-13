@@ -13,10 +13,10 @@
     <meta property="og:image" content="assets/images/budget-img.png"/>
     <link rel="image_src" href="assets/images/budget-img.png"/>
     <meta property="og:description" content="An Open Budget visualized in circles, playful and easy to use." />
-    <link href="//cityofphiladelphia.github.io/patterns/dist/0.1.1/css/patterns.css" media="all" rel="stylesheet" type="text/css" />
     <!-- build:css assets/stylesheets/main.min.css -->
+    <link href="assets/stylesheets/phila-patterns.css" media="all" rel="stylesheet" type="text/css" />
     <link href="assets/stylesheets/visualisation.css" media="all" rel="stylesheet" type="text/css" />
-    <link href="../legacygulp/node_modules/nprogress/nprogress.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="assets/stylesheets/nprogress.css" media="all" rel="stylesheet" type="text/css" />
     <!-- endbuild -->
     <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
   </head>
@@ -35,7 +35,7 @@
     <header class="site-header" role="banner">
       <div class="row">
         <div class="small-24 medium-10 column">
-          <a href="index.html">
+          <a href="index.ejs">
             <img src="assets/images/city-of-philadelphia-logo.png" class="logo show-for-large-up" alt="City of Philadelphia">
             <img src="assets/images/city-of-philadelphia-logo-small.png" class="logo hide-for-large-up" alt="City of Philadelphia">
           </a>
@@ -290,13 +290,13 @@ In his annual budget address held on Thursday, March 5th, 2015, Mayor Michael A.
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
-    <!-- build:js_vendor assets/2018/javascripts/vendor.min.js -->
-    <script src="../legacygulp/node_modules/underscore/underscore.js"></script>
-    <script src="../legacygulp/node_modules/d3/d3.js"></script>
-    <script src="../legacygulp/node_modules/nprogress/nprogress.js"></script>
-    <script src="../legacygulp/node_modules/foundation/js/foundation/foundation.js"></script>
-    <script src="../legacygulp/node_modules/foundation/js/foundation/foundation.tooltips.js"></script>
-    <script src="../legacygulp/node_modules/foundation/js/foundation/foundation.reveal.js"></script>
+    <!-- build:js_vendor assets/javascripts/vendor.min.js -->
+    <script src="assets/javascripts/vendor/underscore.js"></script>
+    <script src="assets/javascripts/vendor/d3.js"></script>
+    <script src="assets/javascripts/vendor/nprogress.js"></script>
+    <script src="assets/javascripts/vendor/foundation.js"></script>
+    <script src="assets/javascripts/vendor/foundation.tooltips.js"></script>
+    <script src="assets/javascripts/vendor/foundation.reveal.js"></script>
     <!-- endbuild -->
 
     <!-- build:js_app assets/2018/javascripts/main.min.js -->

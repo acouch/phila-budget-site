@@ -17,17 +17,13 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           cache: npm
-          node-version: 8
-          cache-dependency-path: website/legacygulp/package-lock.json
+          cache-dependency-path: website/src/package-lock.json
 
       - name: Build
-        working-directory: ./website/legacygulp
+        working-directory: ./website/src
         run: |
-          pwd
-          ls
           npm install
           npm run build
-          pwd
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4

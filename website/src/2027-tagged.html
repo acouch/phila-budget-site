@@ -13,10 +13,10 @@
     <meta property="og:image" content="assets/images/budget-img.png"/>
     <link rel="image_src" href="assets/images/budget-img.png"/>
     <meta property="og:description" content="2027 Philadelphia Proposed Budget visualized in circles, playful and easy to use." />
-    <link href="//cityofphiladelphia.github.io/patterns/dist/0.1.1/css/patterns.css" media="all" rel="stylesheet" type="text/css" />
     <!-- build:css assets/stylesheets/main.min.css -->
+    <link href="assets/stylesheets/phila-patterns.css" media="all" rel="stylesheet" type="text/css" />
     <link href="assets/stylesheets/visualisation.css" media="all" rel="stylesheet" type="text/css" />
-    <link href="../legacygulp/node_modules/nprogress/nprogress.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="assets/stylesheets/nprogress.css" media="all" rel="stylesheet" type="text/css" />
     <!-- endbuild -->
     <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
   </head>
@@ -214,23 +214,22 @@
   <a class="close-reveal-modal">&#215;</a>
 </div>
 <div class="reveal-modal small" id="feedback-form" tabindex="-1" role="dialog" aria-labelledby="Leave Feedback" aria-hidden="true" data-reveal>
-<script type="text/javascript" src="https://form.jotform.com/jsform/60114784323147"></script>
 <a class="close-reveal-modal">&#215;</a>
 </div>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
     <!-- build:js_vendor assets/javascripts/vendor.min.js -->
-    <script src="../legacygulp/node_modules/underscore/underscore.js"></script>
-    <script src="../legacygulp/node_modules/d3/d3.js"></script>
-    <script src="../legacygulp/node_modules/nprogress/nprogress.js"></script>
-    <script src="../legacygulp/node_modules/foundation/js/foundation/foundation.js"></script>
-    <script src="../legacygulp/node_modules/foundation/js/foundation/foundation.tooltips.js"></script>
-    <script src="../legacygulp/node_modules/foundation/js/foundation/foundation.reveal.js"></script>
+    <script src="assets/javascripts/vendor/d3.js"></script>
+    <script src="assets/javascripts/vendor/underscore.js"></script>
+    <script src="assets/javascripts/vendor/nprogress.js"></script>
+    <script src="assets/javascripts/vendor/foundation.js"></script>
+    <script src="assets/javascripts/vendor/foundation.tooltips.js"></script>
+    <script src="assets/javascripts/vendor/foundation.reveal.js"></script>
     <!-- endbuild -->
 
-    <!-- build:js_app assets/javascripts/main.min.js -->
-    <script src="data/phl/meta.js"></script>
+    <!-- build:js_app assets/tagged/javascripts/main.min.js -->
+    <script src="data/phltagged/meta.js"></script>
     <script src="assets/javascripts/setup.js"></script>
     <script src="assets/javascripts/table.js"></script>
     <script src="assets/javascripts/nodes.js"></script>

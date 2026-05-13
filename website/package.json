@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "New developers, designers and ideator are welcome to join.",
   "scripts": {
-    "build": "parcel build --public-url='.' src/index.html src/2018.html"
+    "build": "parcel build --public-url='.' src/*.html"
   },
   "staticFiles": {
     "staticPath": "src/data",
@@ -18,16 +18,9 @@
   "bugs": {
     "url": "https://github.com/phila-budget-site/open-budget/issues"
   },
-  "dependencies": {
-    "bootstrap": "~3.3.2",
-    "d3": "~3.5.5",
-    "foundation": "^4.2.1-1",
-    "jquery": "~2.1.3",
-    "nprogress": "~0.1.6",
-    "underscore": "~1.8.1"
-  },
   "devDependencies": {
     "parcel": "^2.16.4",
-    "parcel-reporter-static-files-copy": "^1.5.3"
+    "parcel-reporter-static-files-copy": "^1.5.3",
+    "parcel-transformer-ejs": "^1.0.1"
   }
 }
