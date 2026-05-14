@@ -25,6 +25,11 @@ jobs:
           npm install
           npm run build
 
+      - name: CNAME
+        working-directory: ./website/dist
+        run: |
+          echo "phillybudget.org" > CNAME
+
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
