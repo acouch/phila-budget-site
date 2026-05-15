@@ -1,5 +1,8 @@
 # flare
 
+
+> NOTE: This is copied from https://github.com/cityofphiladelphia/open-budget
+
 This Generates d3 flare.json used by [open-budget](https://github.com/cityofphiladelphia/open-budget)
 
  ## NOTE

@@ -1,0 +1,19 @@
+<html>
+<head>
+  <title>Philly Budget Data | 2026 adopted Budget</title>
+  <%- include('../../_meta', { basePath: '../../' }) %>
+</head>
+<body>
+
+<%- include('../../_menu') %>
+
+  <main>
+  <div class="lg:pt-8 lg:px-8 max-w-7xl mx-auto pb-10 pt-20 px-4 sm:px-6">
+  <h1 class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">2026 adopted budget</h1>
+  <p class="py-5">The following data is from the budget adopted by the Parker administration. The PDF that this was derived from is available here: <a class="text-blue-800 underline hover:text-blue-900" href="https://github.com/acouch/phila-budget-site/blob/main/data/input/budget-in-brief-FY2026-approved-2.pdf">budget-in-brief-fy2026-adopted.pdf</a>. This has been parsed into a CSV file (the city doesn't share machine-readable data) here: <a class="text-blue-800 underline hover:text-blue-900" href="https://github.com/acouch/phila-budget-site/blob/main/data/output/FY2026-adopted.csv">FY2026-adopted.csv</a>.</p>
+  </div>
+
+  <iframe src="../../openbudget/2026-tagged.html" title="2026 adopted budget" width="100%" height="100%"></iframe>
+  </main>
+</body>
+</html>
