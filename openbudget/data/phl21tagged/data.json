@@ -1,0 +1,2562 @@
+[
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 1411963002,
+                "2021": 1302161016
+              }
+            },
+            "id": 7844376312131970802,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 147439194,
+                "2021": 0
+              }
+            },
+            "id": -4051730960077768281,
+            "name": "Water Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 1000000,
+                "2021": 0
+              }
+            },
+            "id": -190711435469378837,
+            "name": "Special Gasoline Tax Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 66061224,
+                "2021": 0
+              }
+            },
+            "id": -8018138063065209217,
+            "name": "Aviation Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 5042638,
+                "2021": 0
+              }
+            },
+            "id": 1566290882971963684,
+            "name": "Community Development Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 267592,
+                "2021": 0
+              }
+            },
+            "id": -2338027900736987981,
+            "name": "Acute Care Hospital Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 1631773650,
+            "2021": 1302161016
+          }
+        },
+        "id": -3479281834852991938,
+        "name": "Finance-Employee Benefits"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 296705317,
+                "2021": 282632431
+              }
+            },
+            "id": 8068245816279501947,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 218105830,
+                "2021": 0
+              }
+            },
+            "id": -2854750556449639773,
+            "name": "Water Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 134825501,
+                "2021": 0
+              }
+            },
+            "id": 294074379856080471,
+            "name": "Aviation Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 7000000,
+                "2021": 0
+              }
+            },
+            "id": -642878980557408983,
+            "name": "Car Rental Tax Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 11943000,
+                "2021": 0
+              }
+            },
+            "id": 7434418639561589352,
+            "name": "Municipal Pension Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 668579648,
+            "2021": 282632431
+          }
+        },
+        "id": 7610695129052259057,
+        "name": "Sinking Fund Commission (Debt Service)"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 55779720,
+                "2021": 124001896
+              }
+            },
+            "id": -8294051655798014515,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 138550,
+                "2021": 0
+              }
+            },
+            "id": 2039283963827560682,
+            "name": "Water Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 10543322,
+                "2021": 0
+              }
+            },
+            "id": -3826267304296593619,
+            "name": "Grants Revenue Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 66461592,
+            "2021": 124001896
+          }
+        },
+        "id": 850964217672762415,
+        "name": "Managing Director"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 71198539,
+                "2021": 77317442
+              }
+            },
+            "id": 1758024170831850334,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 30850024,
+                "2021": 0
+              }
+            },
+            "id": -133517666548467166,
+            "name": "Water Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 103697973,
+                "2021": 0
+              }
+            },
+            "id": -8174603057265348815,
+            "name": "Grants Revenue Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 2998689,
+                "2021": 0
+              }
+            },
+            "id": 670258524575805915,
+            "name": "Aviation Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 208745225,
+            "2021": 77317442
+          }
+        },
+        "id": 1054997686200857815,
+        "name": "Office of Innovation and Technology"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 68691597,
+                "2021": 71130878
+              }
+            },
+            "id": 938076912168651548,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 68691597,
+            "2021": 71130878
+          }
+        },
+        "id": 4564943617419208667,
+        "name": "Public Property"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 100335334,
+                "2021": 61919029
+              }
+            },
+            "id": 7547723943633217106,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 220000939,
+                "2021": 0
+              }
+            },
+            "id": 158977041998723638,
+            "name": "Grants Revenue Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 4146000,
+                "2021": 0
+              }
+            },
+            "id": -8823162249689734415,
+            "name": "Aviation Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 20000000,
+                "2021": 0
+              }
+            },
+            "id": 5645865400341938993,
+            "name": "Community Development Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 75000,
+                "2021": 0
+              }
+            },
+            "id": 5076321047628200306,
+            "name": "Acute Care Hospital Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 344557273,
+            "2021": 61919029
+          }
+        },
+        "id": 1297290554453002339,
+        "name": "Finance"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 48340013,
+                "2021": 59762580
+              }
+            },
+            "id": 8538836985711233290,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 48340013,
+            "2021": 59762580
+          }
+        },
+        "id": 5615436662954078608,
+        "name": "Streets-Disposal"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 50439541,
+                "2021": 50535348
+              }
+            },
+            "id": -1739240225521532132,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 50439541,
+            "2021": 50535348
+          }
+        },
+        "id": -4518183042782571346,
+        "name": "Managing Director-Legal Services"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 49246000,
+                "2021": 49246000
+              }
+            },
+            "id": 2297597075302533619,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 7500000,
+                "2021": 0
+              }
+            },
+            "id": -3842513844579611138,
+            "name": "Water Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 2512000,
+                "2021": 0
+              }
+            },
+            "id": -4814280451807071004,
+            "name": "Aviation Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 59258000,
+            "2021": 49246000
+          }
+        },
+        "id": 6207524160926991003,
+        "name": "Finance-Indemnities"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 50114034,
+                "2021": 46803724
+              }
+            },
+            "id": -5927250277065189323,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 50114034,
+            "2021": 46803724
+          }
+        },
+        "id": -7183344638282836414,
+        "name": "Fleet Management"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 41282551,
+                "2021": 38251694
+              }
+            },
+            "id": 2398484363266495983,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 490303,
+                "2021": 0
+              }
+            },
+            "id": -5715090968072611081,
+            "name": "Community Development Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 41772854,
+            "2021": 38251694
+          }
+        },
+        "id": -7315954797564046243,
+        "name": "Licenses & Inspection"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 32879233,
+                "2021": 29649398
+              }
+            },
+            "id": -1452168413448272124,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 17472616,
+                "2021": 0
+              }
+            },
+            "id": 8189355635021510427,
+            "name": "Water Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 26425000,
+                "2021": 0
+              }
+            },
+            "id": 7097841557056557130,
+            "name": "Grants Revenue Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 45000,
+                "2021": 0
+              }
+            },
+            "id": -7977213902541207196,
+            "name": "Acute Care Hospital Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 76821849,
+            "2021": 29649398
+          }
+        },
+        "id": -2356354052974523016,
+        "name": "Revenue"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 26278677,
+                "2021": 25567715
+              }
+            },
+            "id": 6712277790388144316,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 26278677,
+            "2021": 25567715
+          }
+        },
+        "id": 5977263987422020004,
+        "name": "Public Property-Space Rentals"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 27393339,
+                "2021": 25447623
+              }
+            },
+            "id": 3208692178733071218,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 26900000,
+                "2021": 0
+              }
+            },
+            "id": -491340305531970838,
+            "name": "Aviation Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 54293339,
+            "2021": 25447623
+          }
+        },
+        "id": -4477331289565726645,
+        "name": "Public Property-Utilities"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 12216911,
+                "2021": 22044682
+              }
+            },
+            "id": -6773872774889868693,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 2625000,
+                "2021": 0
+              }
+            },
+            "id": -1477098084720868796,
+            "name": "Grants Revenue Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 14841911,
+            "2021": 22044682
+          }
+        },
+        "id": 5530014926889093349,
+        "name": "City Commissioners"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 17927973,
+                "2021": 17486973
+              }
+            },
+            "id": 5536790287000533700,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 205300,
+                "2021": 0
+              }
+            },
+            "id": 3825972183242711570,
+            "name": "Grants Revenue Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 18133273,
+            "2021": 17486973
+          }
+        },
+        "id": -6944705191994449786,
+        "name": "City Council"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 16085045,
+                "2021": 16414106
+              }
+            },
+            "id": 6676851116914111391,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 3304069,
+                "2021": 0
+              }
+            },
+            "id": 5822150014756048060,
+            "name": "Water Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 1607235,
+                "2021": 0
+              }
+            },
+            "id": 7770345433976329495,
+            "name": "Aviation Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 195573,
+                "2021": 0
+              }
+            },
+            "id": 5822690980993598283,
+            "name": "Community Development Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 21191922,
+            "2021": 16414106
+          }
+        },
+        "id": 1953510708487923569,
+        "name": "Law"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 17318408,
+                "2021": 16101293
+              }
+            },
+            "id": 4244685967421597546,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 17318408,
+            "2021": 16101293
+          }
+        },
+        "id": 8569783330006963608,
+        "name": "Office of Property Assessment"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 17286549,
+                "2021": 9797739
+              }
+            },
+            "id": -398986972979481991,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 17286549,
+            "2021": 9797739
+          }
+        },
+        "id": -4777788515193906985,
+        "name": "Fleet Management -Vehicle Lease/Purch."
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 9384550,
+                "2021": 9568289
+              }
+            },
+            "id": 6450780925093861991,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 397297,
+                "2021": 0
+              }
+            },
+            "id": 7531397223825928611,
+            "name": "Grants Revenue Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 9781847,
+            "2021": 9568289
+          }
+        },
+        "id": -3447271900748061652,
+        "name": "Auditing (City Controller)"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 5674563,
+                "2021": 7055104
+              }
+            },
+            "id": -7891580505845559144,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 105285,
+                "2021": 0
+              }
+            },
+            "id": 6665834350328274437,
+            "name": "Water Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 5779848,
+            "2021": 7055104
+          }
+        },
+        "id": -126182504134692029,
+        "name": "Procurement"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 6113633,
+                "2021": 6780092
+              }
+            },
+            "id": 8507655283046874156,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 6113633,
+            "2021": 6780092
+          }
+        },
+        "id": 5509452888306307719,
+        "name": "Mayor's Office"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 7438265,
+                "2021": 6333779
+              }
+            },
+            "id": 7906472775456890137,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 7438265,
+            "2021": 6333779
+          }
+        },
+        "id": -3214313522057578498,
+        "name": "Office of the Chief Administrative Officer"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 6874287,
+                "2021": 6037735
+              }
+            },
+            "id": -4211468328034006107,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 6874287,
+            "2021": 6037735
+          }
+        },
+        "id": -3610491207512215109,
+        "name": "Office of Human Resources"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 4551645,
+                "2021": 4358433
+              }
+            },
+            "id": -2678066637512294513,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 200000,
+                "2021": 0
+              }
+            },
+            "id": -1003048305420085035,
+            "name": "Grants Revenue Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 4751645,
+            "2021": 4358433
+          }
+        },
+        "id": -5342734030487699639,
+        "name": "Register of Wills"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 4910278,
+                "2021": 4004335
+              }
+            },
+            "id": 1562377288815885393,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 4910278,
+            "2021": 4004335
+          }
+        },
+        "id": 4429565346734670898,
+        "name": "Records"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 2454828,
+                "2021": 2749104
+              }
+            },
+            "id": -7468191673734778066,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 2454828,
+            "2021": 2749104
+          }
+        },
+        "id": 885754407936387473,
+        "name": "Labor"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 2650000,
+                "2021": 2650000
+              }
+            },
+            "id": -3728033549912410837,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 2650000,
+            "2021": 2650000
+          }
+        },
+        "id": 8349513494282589044,
+        "name": "Finance-Reg #32"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 2386402,
+                "2021": 2422973
+              }
+            },
+            "id": -5914931608028275828,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 2386402,
+            "2021": 2422973
+          }
+        },
+        "id": 2594921116899023190,
+        "name": "Human Relations Commission"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 1483167,
+                "2021": 1948938
+              }
+            },
+            "id": 3748238143894118116,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 1483167,
+            "2021": 1948938
+          }
+        },
+        "id": -7322326324879034232,
+        "name": "City Treasurer"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 1680441,
+                "2021": 1575681
+              }
+            },
+            "id": 4404947601384216945,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 1680441,
+            "2021": 1575681
+          }
+        },
+        "id": 4733741938764221802,
+        "name": "Office of the Inspector General"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 1213258,
+                "2021": 1279219
+              }
+            },
+            "id": -6213348001356459786,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 93874,
+                "2021": 0
+              }
+            },
+            "id": -4974919875240132715,
+            "name": "Water Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 90000,
+                "2021": 0
+              }
+            },
+            "id": -5594265149796605253,
+            "name": "Grants Revenue Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 1397132,
+            "2021": 1279219
+          }
+        },
+        "id": 4948489292200446711,
+        "name": "Office of Sustainability"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 1060791,
+                "2021": 1043214
+              }
+            },
+            "id": -5497796412208514171,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 1060791,
+            "2021": 1043214
+          }
+        },
+        "id": -7593191488523049499,
+        "name": "Board of Revision of Taxes"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 1101630,
+                "2021": 975196
+              }
+            },
+            "id": -4828399638643094674,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 1101630,
+            "2021": 975196
+          }
+        },
+        "id": -8098097217930600459,
+        "name": "Board of Ethics"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2021": 418820
+              }
+            },
+            "id": 7173928287276692707,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2021": 418820
+          }
+        },
+        "id": 6990595201043869405,
+        "name": "Office of Children and Families"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 250000,
+                "2021": 250000
+              }
+            },
+            "id": -7875695551495567443,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 250000,
+            "2021": 250000
+          }
+        },
+        "id": 4862562962605408142,
+        "name": "Finance-Refunds"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 204935,
+                "2021": 207742
+              }
+            },
+            "id": -1992805331561976427,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 204935,
+            "2021": 207742
+          }
+        },
+        "id": -4343187048361301684,
+        "name": "Civil Service Commission"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 200000,
+                "2021": 200000
+              }
+            },
+            "id": 541277631933674005,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 200000,
+            "2021": 200000
+          }
+        },
+        "id": -7455753016389535118,
+        "name": "Mayor's Office - Scholarships"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 173870,
+                "2021": 176071
+              }
+            },
+            "id": 4997208075664386599,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 173870,
+            "2021": 176071
+          }
+        },
+        "id": 2945116834373416302,
+        "name": "L&I-Board of L&I Review"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 171518,
+                "2021": 171518
+              }
+            },
+            "id": -2943375284540329163,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 171518,
+            "2021": 171518
+          }
+        },
+        "id": -2024903059936900160,
+        "name": "Finance-Witness Fees"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 80366,
+                "2021": 82018
+              }
+            },
+            "id": -2990967333962921229,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 80366,
+            "2021": 82018
+          }
+        },
+        "id": 4852824599134670083,
+        "name": "L&I-Board of Building Standards"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 0,
+                "2021": 0
+              }
+            },
+            "id": -7055254550206705589,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 0,
+            "2021": 0
+          }
+        },
+        "id": 2582726132622145904,
+        "name": "Atwater Kent Museum"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 1249695,
+                "2021": 0
+              }
+            },
+            "id": -7729396131178480751,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 1249695,
+            "2021": 0
+          }
+        },
+        "id": -8162730782838146046,
+        "name": "City Representative"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 34276000,
+                "2021": 0
+              }
+            },
+            "id": 7694097551937788990,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 100,
+                "2021": 0
+              }
+            },
+            "id": 5730678695747283290,
+            "name": "Budget Stabilization Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 34276100,
+            "2021": 0
+          }
+        },
+        "id": 5344259812186844066,
+        "name": "Finance-Budget Stabilization"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 4098002,
+                "2021": 0
+              }
+            },
+            "id": -5288634130431169088,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 4098002,
+            "2021": 0
+          }
+        },
+        "id": 5552500414024641734,
+        "name": "Office of Arts & Culture & the Creative Economy"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 8846754,
+                "2021": 0
+              }
+            },
+            "id": -5325982573118597553,
+            "name": "Water Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 3601109,
+                "2021": 0
+              }
+            },
+            "id": 8247974515208652104,
+            "name": "Aviation Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 12447863,
+            "2021": 0
+          }
+        },
+        "id": -7623202513069911757,
+        "name": "Managing Director - Office of Fleet Management"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 4270347,
+                "2021": 0
+              }
+            },
+            "id": 1550862465349901872,
+            "name": "Water Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 4270347,
+            "2021": 0
+          }
+        },
+        "id": 4114507079676600136,
+        "name": "Department of Public Property City of Philadelphia - 13 - City of Philadelphia"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 428420457,
+                "2021": 0
+              }
+            },
+            "id": -7083201169797218102,
+            "name": "Water Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 37000000,
+                "2021": 0
+              }
+            },
+            "id": 5274454229566846136,
+            "name": "Water Residual Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 465420457,
+            "2021": 0
+          }
+        },
+        "id": 1649519595955508006,
+        "name": "Water"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 7273000,
+                "2021": 0
+              }
+            },
+            "id": 6405744754105715884,
+            "name": "County Liquid Fuels Tax Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 7273000,
+            "2021": 0
+          }
+        },
+        "id": 3183478687040799398,
+        "name": "Department of Streets City of Philadelphia - 15 - City of Philadelphia"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 77562000,
+                "2021": 0
+              }
+            },
+            "id": 363111312425179883,
+            "name": "Hotel Room Rental Tax Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 77562000,
+            "2021": 0
+          }
+        },
+        "id": -4278413532777730669,
+        "name": "Director of Commerce City of Philadelphia - 16 - City of Philadelphia"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 915185,
+                "2021": 0
+              }
+            },
+            "id": 1864576988232198850,
+            "name": "Grants Revenue Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 915185,
+            "2021": 0
+          }
+        },
+        "id": -3006584934024139932,
+        "name": "Mayor"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 45429240,
+                "2021": 0
+              }
+            },
+            "id": 3513604475353062139,
+            "name": "Grants Revenue Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 45429240,
+            "2021": 0
+          }
+        },
+        "id": -5000269200824159999,
+        "name": "Department of Human Services - Office of Homeless Services City of Philadelphia - 19 - City of Philadelphia"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 4800000,
+                "2021": 0
+              }
+            },
+            "id": -8395810116150385221,
+            "name": "Aviation Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 4800000,
+            "2021": 0
+          }
+        },
+        "id": -7155824630130788498,
+        "name": "Managing Director - Office of Fleet Management - Vehicle Purchase"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 93873,
+                "2021": 0
+              }
+            },
+            "id": 4300450373481375213,
+            "name": "Aviation Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 93873,
+            "2021": 0
+          }
+        },
+        "id": 5874146243775459620,
+        "name": "Office of Sustainability City of Philadelphia - 23 - City of Philadelphia"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2020": 4203680000,
+        "2021": 2386559828
+      }
+    },
+    "id": -3446798667890264897,
+    "name": "Government Operations"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 741165097,
+                "2021": 727007734
+              }
+            },
+            "id": 2885620031089197793,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 14439985,
+                "2021": 0
+              }
+            },
+            "id": 799508178642062517,
+            "name": "Grants Revenue Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 18031895,
+                "2021": 0
+              }
+            },
+            "id": 5644745203295527018,
+            "name": "Aviation Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 773636977,
+            "2021": 727007734
+          }
+        },
+        "id": -3641238313906608283,
+        "name": "Police"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2020": 773636977,
+        "2021": 727007734
+      }
+    },
+    "id": -712574795830666804,
+    "name": "Police"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 238183523,
+                "2021": 222999025
+              }
+            },
+            "id": -1839202033343060368,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 238183523,
+            "2021": 222999025
+          }
+        },
+        "id": 390275358438914940,
+        "name": "Prisons"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 115503975,
+                "2021": 116036029
+              }
+            },
+            "id": -5850407487703971494,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 52578870,
+                "2021": 0
+              }
+            },
+            "id": -5352951790813635780,
+            "name": "Grants Revenue Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 168082845,
+            "2021": 116036029
+          }
+        },
+        "id": -1945176783322595512,
+        "name": "First Judicial District"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 38908536,
+                "2021": 40431659
+              }
+            },
+            "id": -2580246370536139566,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 15302606,
+                "2021": 0
+              }
+            },
+            "id": -2768556974999428161,
+            "name": "Grants Revenue Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 54211142,
+            "2021": 40431659
+          }
+        },
+        "id": -7614016426913566400,
+        "name": "District Attorney"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 27046961,
+                "2021": 26795874
+              }
+            },
+            "id": 1651589950228923395,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 27046961,
+            "2021": 26795874
+          }
+        },
+        "id": -675577860730474494,
+        "name": "Sheriff"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2020": 487524471,
+        "2021": 406262587
+      }
+    },
+    "id": 1510306552046447773,
+    "name": "Courts & the Justice System"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 298549278,
+                "2021": 339056258
+              }
+            },
+            "id": 5421723358457740925,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 26738515,
+                "2021": 0
+              }
+            },
+            "id": -6034350563126626708,
+            "name": "Grants Revenue Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 9320474,
+                "2021": 0
+              }
+            },
+            "id": 1188525332594151621,
+            "name": "Aviation Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 334608267,
+            "2021": 339056258
+          }
+        },
+        "id": -7972463492520681110,
+        "name": "Fire"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 41235086,
+                "2021": 53564955
+              }
+            },
+            "id": -6345464053520076485,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 41235086,
+            "2021": 53564955
+          }
+        },
+        "id": -4549262992141471462,
+        "name": "Office of Innovation and Technology-911"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2020": 375843353,
+        "2021": 392621213
+      }
+    },
+    "id": -4026786494232293483,
+    "name": "Emergency Services"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 222456410,
+                "2021": 252578558
+              }
+            },
+            "id": 4541279222612378479,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 222456410,
+            "2021": 252578558
+          }
+        },
+        "id": 269071106903363017,
+        "name": "Finance-School District Contribution"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 33759207,
+                "2021": 44110159
+              }
+            },
+            "id": 1273485878257126333,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 33759207,
+            "2021": 44110159
+          }
+        },
+        "id": -8045653430813365499,
+        "name": "Finance-Community College Subsidy"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 25000,
+                "2021": 25000
+              }
+            },
+            "id": -1194309631145981777,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 25000,
+            "2021": 25000
+          }
+        },
+        "id": -8621232257858980605,
+        "name": "Finance-Hero Scholarship Awards"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 45350014,
+                "2021": 0
+              }
+            },
+            "id": -3271170403185282638,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 396860,
+                "2021": 0
+              }
+            },
+            "id": 2944462304978153618,
+            "name": "Grants Revenue Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 45746874,
+            "2021": 0
+          }
+        },
+        "id": 743672509976090919,
+        "name": "Office of Education"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2020": 301987491,
+        "2021": 296713717
+      }
+    },
+    "id": -6709755988275039714,
+    "name": "Schools & Early Childhood Education"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 118965013,
+                "2021": 164544253
+              }
+            },
+            "id": 6491247356961875846,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 623013832,
+                "2021": 0
+              }
+            },
+            "id": 2020912275050952661,
+            "name": "Grants Revenue Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 741978845,
+            "2021": 164544253
+          }
+        },
+        "id": -3672472296332201555,
+        "name": "Human Services"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2020": 741978845,
+        "2021": 164544253
+      }
+    },
+    "id": -2014735811379433589,
+    "name": "Youth Services"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 160572140,
+                "2021": 162261794
+              }
+            },
+            "id": 6272207982634323608,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 167330965,
+                "2021": 0
+              }
+            },
+            "id": 3352886792544405427,
+            "name": "Grants Revenue Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 319153408,
+                "2021": 0
+              }
+            },
+            "id": -8043129549034628002,
+            "name": "Acute Care Hospital Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 647056513,
+            "2021": 162261794
+          }
+        },
+        "id": -6132806022614695061,
+        "name": "Public Health"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2020": 647056513,
+        "2021": 162261794
+      }
+    },
+    "id": 6806482569866860558,
+    "name": "Public Health Centers"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 108692919,
+                "2021": 103742783
+              }
+            },
+            "id": -7700294539273143141,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 35940000,
+                "2021": 0
+              }
+            },
+            "id": -3685765120673488851,
+            "name": "Special Gasoline Tax Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 29681000,
+                "2021": 0
+              }
+            },
+            "id": -8203928168521130358,
+            "name": "Grants Revenue Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 174313919,
+            "2021": 103742783
+          }
+        },
+        "id": -890843035397973986,
+        "name": "Streets"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2020": 174313919,
+        "2021": 103742783
+      }
+    },
+    "id": -6079402444249374071,
+    "name": "Streets"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 87556000,
+                "2021": 84608000
+              }
+            },
+            "id": -4299901197544607964,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 87556000,
+            "2021": 84608000
+          }
+        },
+        "id": 1085497277140156033,
+        "name": "Public Property-SEPTA Subsidy"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2020": 87556000,
+        "2021": 84608000
+      }
+    },
+    "id": -5191945503907224516,
+    "name": "Public Transit"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 59945719,
+                "2021": 45038587
+              }
+            },
+            "id": 5274729985068449807,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 59945719,
+            "2021": 45038587
+          }
+        },
+        "id": -891222994247258740,
+        "name": "Office of Homeless Services"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 11810746,
+                "2021": 14055183
+              }
+            },
+            "id": -5818999059133373558,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 61870058,
+                "2021": 0
+              }
+            },
+            "id": 5539176411094220995,
+            "name": "Grants Revenue Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 68260861,
+                "2021": 0
+              }
+            },
+            "id": 5224933969375746962,
+            "name": "Community Development Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 68416000,
+                "2021": 0
+              }
+            },
+            "id": -2651735178222510171,
+            "name": "Housing Trust Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 210357665,
+            "2021": 14055183
+          }
+        },
+        "id": 3176782450208965536,
+        "name": "Planning and Development"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2020": 270303384,
+        "2021": 59093770
+      }
+    },
+    "id": -6377572308945676579,
+    "name": "Housing & Homeless Services"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 65058055,
+                "2021": 55271008
+              }
+            },
+            "id": 1546654488660622646,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 13552824,
+                "2021": 0
+              }
+            },
+            "id": -7690907954692749453,
+            "name": "Grants Revenue Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 78610879,
+            "2021": 55271008
+          }
+        },
+        "id": 5889671048350676648,
+        "name": "Parks and Recreation"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2020": 78610879,
+        "2021": 55271008
+      }
+    },
+    "id": -8564428182804632237,
+    "name": "Parks & Recreation"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 45760383,
+                "2021": 39650733
+              }
+            },
+            "id": -3474183744537024531,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 8208510,
+                "2021": 0
+              }
+            },
+            "id": -7953324251946522645,
+            "name": "Grants Revenue Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 53968893,
+            "2021": 39650733
+          }
+        },
+        "id": 4241673283437939715,
+        "name": "Free Library"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2020": 53968893,
+        "2021": 39650733
+      }
+    },
+    "id": 12935191217894080,
+    "name": "Libraries"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 15000000,
+                "2021": 15000000
+              }
+            },
+            "id": -6428186176240711364,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 15000000,
+            "2021": 15000000
+          }
+        },
+        "id": -6554063366983209828,
+        "name": "Commerce-Convention Center Subsidy"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 9851361,
+                "2021": 3334826
+              }
+            },
+            "id": 5656535758810893064,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 10175000,
+                "2021": 0
+              }
+            },
+            "id": 1267057548891530448,
+            "name": "Grants Revenue Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 199188000,
+                "2021": 0
+              }
+            },
+            "id": -3787636608392742338,
+            "name": "Aviation Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 11152625,
+                "2021": 0
+              }
+            },
+            "id": 2800404659799895942,
+            "name": "Community Development Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 230366986,
+            "2021": 3334826
+          }
+        },
+        "id": -8237560147733318802,
+        "name": "Commerce"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 7671624,
+                "2021": 3015000
+              }
+            },
+            "id": -8847407208249719678,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 7671624,
+            "2021": 3015000
+          }
+        },
+        "id": 4601303421692739945,
+        "name": "Commerce-Economic Stimulus"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2020": 253038610,
+        "2021": 21349826
+      }
+    },
+    "id": -3589277454463230808,
+    "name": "Commercial Corridors & Small Businesses"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 15895444,
+                "2021": 15477402
+              }
+            },
+            "id": 6300088027600699966,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 1300000000,
+                "2021": 0
+              }
+            },
+            "id": 7694640147083339912,
+            "name": "Healthchoices Behavioral Health Revenue Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 285482859,
+                "2021": 0
+              }
+            },
+            "id": 7043951155495939436,
+            "name": "Grants Revenue Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 1601378303,
+            "2021": 15477402
+          }
+        },
+        "id": -173362918082662786,
+        "name": "Office of Behavioral Health and Intellectual disAbility"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2020": 1601378303,
+        "2021": 15477402
+      }
+    },
+    "id": 6058827192733572850,
+    "name": "Mental Health & Substance Use Services"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 2499602,
+                "2021": 2124562
+              }
+            },
+            "id": 8271705080797998666,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 2499602,
+            "2021": 2124562
+          }
+        },
+        "id": -228773663414209205,
+        "name": "Mural Arts Program"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 2550000,
+                "2021": 2040000
+              }
+            },
+            "id": -845691190680453750,
+            "name": "General Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 2550000,
+            "2021": 2040000
+          }
+        },
+        "id": -2454948542330149567,
+        "name": "Art Museum"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2020": 5049602,
+        "2021": 4164562
+      }
+    },
+    "id": 8038225225544729868,
+    "name": "Arts & Culture"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 90000,
+                "2021": 45000
+              }
+            },
+            "id": 2078769943312618514,
+            "name": "General Fund"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 18655860,
+                "2021": 0
+              }
+            },
+            "id": -6824385541004350429,
+            "name": "Grants Revenue Fund"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 18745860,
+            "2021": 45000
+          }
+        },
+        "id": 5715171131959283880,
+        "name": "Office of Community Empowerment and Opportunity"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2020": 18745860,
+        "2021": 45000
+      }
+    },
+    "id": -1366659258428075987,
+    "name": "Immigration Services"
+  }
+]

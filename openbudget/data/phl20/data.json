@@ -1,0 +1,5979 @@
+[
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1360238207,
+                "2020": 1348375045
+              }
+            },
+            "id": -6813626724190112257,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 1360238207,
+            "2020": 1348375045
+          }
+        },
+        "id": 2148931260485274074,
+        "name": "Finance-Employee Benefits"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 688759185,
+                "2020": 726496175
+              }
+            },
+            "id": -2444023566824606726,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 13270952,
+                "2020": 14386710
+              }
+            },
+            "id": -3068992897924669111,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 7462807,
+                "2020": 8169063
+              }
+            },
+            "id": 7349621518300352917,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 6076100448314945041,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 709492944,
+            "2020": 749051948
+          }
+        },
+        "id": 4874975850864467650,
+        "name": "Police"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 263307745,
+                "2020": 289014272
+              }
+            },
+            "id": -7824058122089832870,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 8259314,
+                "2020": 10081714
+              }
+            },
+            "id": 6669967723669982739,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 9235000
+              }
+            },
+            "id": 3965409346125780059,
+            "name": "Payments to Other Funds"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 6046121,
+                "2020": 6725272
+              }
+            },
+            "id": 8353491943630348268,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": -7224549274653740938,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 277613180,
+            "2020": 315056258
+          }
+        },
+        "id": -4700731364514016799,
+        "name": "Fire"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 169496126,
+                "2020": 187482819
+              }
+            },
+            "id": 8951845516067639298,
+            "name": "Debt Service"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 125536378,
+                "2020": 102222498
+              }
+            },
+            "id": 518013268246106722,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 295032504,
+            "2020": 289705317
+          }
+        },
+        "id": -2682880617902927450,
+        "name": "Sinking Fund Commission (Debt Service)"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 145430918,
+                "2020": 141575330
+              }
+            },
+            "id": 5908448225859780165,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 98365387,
+                "2020": 106466354
+              }
+            },
+            "id": -7038070369404926085,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4373744,
+                "2020": 4373744
+              }
+            },
+            "id": 3687144550832845327,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1201757,
+                "2020": 1201757
+              }
+            },
+            "id": 7062878205937702266,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 249371806,
+            "2020": 253617185
+          }
+        },
+        "id": -8466720138923753139,
+        "name": "Prisons"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 180870541,
+                "2020": 222456410
+              }
+            },
+            "id": -1123840632376761100,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 180870541,
+            "2020": 222456410
+          }
+        },
+        "id": 7912965620381955182,
+        "name": "Finance-School District Contribution"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 25421862,
+                "2020": 59119663
+              }
+            },
+            "id": -7378495050452322218,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 20339262,
+                "2020": 50147542
+              }
+            },
+            "id": -7638677762249603413,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 872013,
+                "2020": 41339979
+              }
+            },
+            "id": -6557803215095883585,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 10000000
+              }
+            },
+            "id": -1778084048158908213,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 46633137,
+            "2020": 160607184
+          }
+        },
+        "id": -8175828375939031038,
+        "name": "Managing Director"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 92882896,
+                "2020": 83524827
+              }
+            },
+            "id": -6942632464970427777,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 54853461,
+                "2020": 58855060
+              }
+            },
+            "id": 1589833049368361028,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 8397518,
+                "2020": 7787348
+              }
+            },
+            "id": 7837371106053903451,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 500000,
+                "2020": 4500000
+              }
+            },
+            "id": 4915362057056811635,
+            "name": "Payments to Other Funds"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": -4534981766191139551,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 156633875,
+            "2020": 154667235
+          }
+        },
+        "id": 6850387845755064721,
+        "name": "Public Health"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 82756805,
+                "2020": 89248594
+              }
+            },
+            "id": 2816857233449875195,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 27246823,
+                "2020": 28714875
+              }
+            },
+            "id": -3128831196847603247,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2069970,
+                "2020": 2069970
+              }
+            },
+            "id": -2665140405808551331,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 7224236427472547666,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 112073598,
+            "2020": 120033439
+          }
+        },
+        "id": -228552201038991640,
+        "name": "Human Services"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 98844666,
+                "2020": 105610726
+              }
+            },
+            "id": 7716521659745035668,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 8480039,
+                "2020": 8480039
+              }
+            },
+            "id": -8944052357099451116,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2231868,
+                "2020": 2231868
+              }
+            },
+            "id": -2358570790695947615,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": -1778323619732575854,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 109556573,
+            "2020": 116322633
+          }
+        },
+        "id": 1212985568420974207,
+        "name": "First Judicial District"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 84297081,
+                "2020": 92207341
+              }
+            },
+            "id": -670567255976236332,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 8442104,
+                "2020": 8078596
+              }
+            },
+            "id": 4923861698236136997,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 9698129,
+                "2020": 6442850
+              }
+            },
+            "id": -4526690272865955321,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 53171,
+                "2020": 53171
+              }
+            },
+            "id": -4983944916841795282,
+            "name": "Contrib., Indemnities & Taxes"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": -7167772244049339326,
+            "name": "Payments to Other Funds"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 102490485,
+            "2020": 106781958
+          }
+        },
+        "id": -1239737316062516164,
+        "name": "Streets"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 84608000,
+                "2020": 86356000
+              }
+            },
+            "id": -5877036305246544548,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 84608000,
+            "2020": 86356000
+          }
+        },
+        "id": -6487750959959322745,
+        "name": "Public Property-SEPTA Subsidy"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 39750610,
+                "2020": 47217345
+              }
+            },
+            "id": 4056744807421531704,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 19856817,
+                "2020": 22886435
+              }
+            },
+            "id": 3149068540306775742,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 5884500,
+                "2020": 5931046
+              }
+            },
+            "id": 8870102151172373677,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 1905522022366262675,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 65491927,
+            "2020": 76034826
+          }
+        },
+        "id": 5146875417664878521,
+        "name": "Office of Innovation and Technology"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 30107724,
+                "2020": 36914408
+              }
+            },
+            "id": 5769716005481200879,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 27678994,
+                "2020": 26643000
+              }
+            },
+            "id": 4044547658249217212,
+            "name": "Payments to Other Funds"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 8659293,
+                "2020": 9487678
+              }
+            },
+            "id": -8394238298090174425,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1435535,
+                "2020": 1338535
+              }
+            },
+            "id": -4135562981629917817,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 3666170996570877085,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 67881546,
+            "2020": 74383621
+          }
+        },
+        "id": -6825458439893920922,
+        "name": "Public Property"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 8366704,
+                "2020": 33285000
+              }
+            },
+            "id": -6252386281833096043,
+            "name": "Payments to Other Funds"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 54573000,
+                "2020": 18403000
+              }
+            },
+            "id": -7462720334050416676,
+            "name": "Advances and Other Misc. Payments"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 7765535,
+                "2020": 9266821
+              }
+            },
+            "id": 8354653269517813438,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4525000,
+                "2020": 4975000
+              }
+            },
+            "id": 4234647523570931012,
+            "name": "Contrib., Indemnities & Taxes"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3029912,
+                "2020": 3284912
+              }
+            },
+            "id": -2668529300793830432,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 103109,
+                "2020": 103109
+              }
+            },
+            "id": -7116270070325328199,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 78363260,
+            "2020": 69317842
+          }
+        },
+        "id": 1715635566669125106,
+        "name": "Finance"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 49347561,
+                "2020": 52932553
+              }
+            },
+            "id": -719429988543806139,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 9516490,
+                "2020": 7224224
+              }
+            },
+            "id": -3172490290737022632,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2750630,
+                "2020": 2970630
+              }
+            },
+            "id": -4053922179182740976,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2897500,
+                "2020": 2711000
+              }
+            },
+            "id": 7011023479860438303,
+            "name": "Contrib., Indemnities & Taxes"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1550000,
+                "2020": 0
+              }
+            },
+            "id": 7799519628775169418,
+            "name": "Payments to Other Funds"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 66062181,
+            "2020": 65838407
+          }
+        },
+        "id": 2698575104419371493,
+        "name": "Parks and Recreation"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 43554815,
+                "2020": 50879286
+              }
+            },
+            "id": 2984872683906187283,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 8830135,
+                "2020": 9657675
+              }
+            },
+            "id": -9033726632967968047,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 344127,
+                "2020": 344127
+              }
+            },
+            "id": 4015632143129945391,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 32421,
+                "2020": 32421
+              }
+            },
+            "id": -3310935224096336032,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 52761498,
+            "2020": 60913509
+          }
+        },
+        "id": -6443316718102758735,
+        "name": "Office of Homeless Services"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 50375841,
+                "2020": 50938541
+              }
+            },
+            "id": -3387332136580872047,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 50375841,
+            "2020": 50938541
+          }
+        },
+        "id": 1089192020485434131,
+        "name": "Managing Director-Legal Services"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 25418211,
+                "2020": 25391767
+              }
+            },
+            "id": 209276710786198631,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 18539450,
+                "2020": 19599366
+              }
+            },
+            "id": 6232266450202881868,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 5104396,
+                "2020": 5305396
+              }
+            },
+            "id": -8273262181840361380,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 6679817068845902622,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 49062057,
+            "2020": 50296529
+          }
+        },
+        "id": 3736959171011395508,
+        "name": "Fleet Management"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 48780000,
+                "2020": 49246000
+              }
+            },
+            "id": 6475145206539956081,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 48780000,
+            "2020": 49246000
+          }
+        },
+        "id": -6016594450310045841,
+        "name": "Finance-Indemnities"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 39490785,
+                "2020": 48340013
+              }
+            },
+            "id": 6222183927725940826,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 39490785,
+            "2020": 48340013
+          }
+        },
+        "id": -6993038544347293930,
+        "name": "Streets-Disposal"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 36659781,
+                "2020": 41140877
+              }
+            },
+            "id": -3625843362380792553,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2324077,
+                "2020": 2824077
+              }
+            },
+            "id": 3869883113746499511,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2302659,
+                "2020": 2302659
+              }
+            },
+            "id": 7740306875320009304,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": -5695126551360073461,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 41286517,
+            "2020": 46267613
+          }
+        },
+        "id": 3148735787136891591,
+        "name": "Free Library"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 39115834
+              }
+            },
+            "id": 5339318388682599492,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 3292180
+              }
+            },
+            "id": -6734962993681863199,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 1500000
+              }
+            },
+            "id": 5722655655675116355,
+            "name": "Contrib., Indemnities & Taxes"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 42000
+              }
+            },
+            "id": 2492157490939136019,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 43950014
+          }
+        },
+        "id": 4770810702292056268,
+        "name": "Office of Children and Families"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 37168476,
+                "2020": 37620523
+              }
+            },
+            "id": -7136701720455020350,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4094296,
+                "2020": 3867172
+              }
+            },
+            "id": 1164437468964305062,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 529521,
+                "2020": 675021
+              }
+            },
+            "id": -2990681927749059272,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 4729155474402844310,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 41792293,
+            "2020": 42162716
+          }
+        },
+        "id": -4874424344135735488,
+        "name": "District Attorney"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 26354703,
+                "2020": 26280561
+              }
+            },
+            "id": -7698237606125875214,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 8064399,
+                "2020": 13537978
+              }
+            },
+            "id": 6247988663368101618,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 960906,
+                "2020": 1416547
+              }
+            },
+            "id": 7406817347164180273,
+            "name": "Personal Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 35380008,
+            "2020": 41235086
+          }
+        },
+        "id": 4167761915372714768,
+        "name": "Office of Innovation and Technology-911"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 23144341,
+                "2020": 26811159
+              }
+            },
+            "id": 6374355867204651162,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 13579060,
+                "2020": 12403945
+              }
+            },
+            "id": -8986293292726657611,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 784475,
+                "2020": 1165241
+              }
+            },
+            "id": -1401514579558826622,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 6226006685827520565,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 37507876,
+            "2020": 40380345
+          }
+        },
+        "id": -2607938999382760048,
+        "name": "Licenses & Inspection"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 32409207,
+                "2020": 36059207
+              }
+            },
+            "id": -5368814480341849418,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 32409207,
+            "2020": 36059207
+          }
+        },
+        "id": -638886898446867392,
+        "name": "Finance-Community College Subsidy"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 34276000
+              }
+            },
+            "id": 4012757854198903931,
+            "name": "Payments to Other Funds"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2020": 34276000
+          }
+        },
+        "id": 7936884628004098738,
+        "name": "Finance-Budget Stabilization"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 22156816,
+                "2020": 24217852
+              }
+            },
+            "id": -369339250238657784,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 7630749,
+                "2020": 7755749
+              }
+            },
+            "id": -5519710929857166870,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 919976,
+                "2020": 1188976
+              }
+            },
+            "id": 2060549157416979339,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": -751834215316353992,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 30707541,
+            "2020": 33162577
+          }
+        },
+        "id": -7539588088779045463,
+        "name": "Revenue"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 25008269,
+                "2020": 27393339
+              }
+            },
+            "id": 3029788922654285546,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 25008269,
+            "2020": 27393339
+          }
+        },
+        "id": 6445166591163540874,
+        "name": "Public Property-Utilities"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 24570248,
+                "2020": 25662295
+              }
+            },
+            "id": -8593338214661878,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1105267,
+                "2020": 894517
+              }
+            },
+            "id": 1960333128034554238,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 474907,
+                "2020": 708907
+              }
+            },
+            "id": 301857913455096800,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": -9186880372973986048,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 26150422,
+            "2020": 27265719
+          }
+        },
+        "id": 2472991041837936533,
+        "name": "Sheriff"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 22457948,
+                "2020": 26278677
+              }
+            },
+            "id": 1095545707068763505,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 22457948,
+            "2020": 26278677
+          }
+        },
+        "id": 2817805471986437063,
+        "name": "Public Property-Space Rentals"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 14824858,
+                "2020": 15627138
+              }
+            },
+            "id": -8425081883245514899,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1921885,
+                "2020": 2446885
+              }
+            },
+            "id": -3566797492248465448,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 478650,
+                "2020": 603650
+              }
+            },
+            "id": -5699299039834098992,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 100,
+                "2020": 100
+              }
+            },
+            "id": 406556057406466969,
+            "name": "Contrib., Indemnities & Taxes"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 100,
+                "2020": 100
+              }
+            },
+            "id": 1154055204930383097,
+            "name": "Payments to Other Funds"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 100,
+                "2020": 100
+              }
+            },
+            "id": 8188418407618365803,
+            "name": "Advances and Other Misc. Payments"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 17225693,
+            "2020": 18677973
+          }
+        },
+        "id": 6858605777480189543,
+        "name": "City Council"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 11890699,
+                "2020": 14271114
+              }
+            },
+            "id": -4873365419889078847,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1703126,
+                "2020": 2403126
+              }
+            },
+            "id": 6546431445913219776,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 622600,
+                "2020": 787600
+              }
+            },
+            "id": -7365811561100658355,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 14216425,
+            "2020": 17461840
+          }
+        },
+        "id": 9218096409045434812,
+        "name": "Office of Property Assessment"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 14797739,
+                "2020": 17286549
+              }
+            },
+            "id": -66942359033628583,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 3001164294396345142,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 14797739,
+            "2020": 17286549
+          }
+        },
+        "id": -1512806934280089040,
+        "name": "Fleet Management -Vehicle Lease/Purch."
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4168000,
+                "2020": 6350000
+              }
+            },
+            "id": -7265477797087304135,
+            "name": "Contrib., Indemnities & Taxes"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4651095,
+                "2020": 5206876
+              }
+            },
+            "id": 8590909567199337593,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3900596,
+                "2020": 5192113
+              }
+            },
+            "id": 5079372272505680217,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 91978,
+                "2020": 101461
+              }
+            },
+            "id": -2145714768166550190,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 12811669,
+            "2020": 16850450
+          }
+        },
+        "id": -5993946937232486402,
+        "name": "Planning and Development"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 9163318,
+                "2020": 9715678
+              }
+            },
+            "id": -8626516831913382980,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 6423170,
+                "2020": 6409034
+              }
+            },
+            "id": -8706707933160188055,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 248676,
+                "2020": 248676
+              }
+            },
+            "id": 7329474618724054203,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": -5766570545716184419,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 15835164,
+            "2020": 16373388
+          }
+        },
+        "id": -4880744442232285827,
+        "name": "Law"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 13125510,
+                "2020": 14360976
+              }
+            },
+            "id": -74659239371671033,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1076779,
+                "2020": 1556209
+              }
+            },
+            "id": 3669713715281974621,
+            "name": "Personal Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 14202289,
+            "2020": 15917185
+          }
+        },
+        "id": 1728966223813441620,
+        "name": "Office of Behavioral Health and Intellectual disAbility"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 15000000,
+                "2020": 15000000
+              }
+            },
+            "id": 6357743671331206514,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 15000000,
+            "2020": 15000000
+          }
+        },
+        "id": -5507263921924850664,
+        "name": "Commerce-Convention Center Subsidy"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 5926203,
+                "2020": 6690419
+              }
+            },
+            "id": -7551062578193555094,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3884061,
+                "2020": 5011061
+              }
+            },
+            "id": 2280945823022267185,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 541617,
+                "2020": 572617
+              }
+            },
+            "id": 709061964583543529,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 0
+              }
+            },
+            "id": 9007040609682773095,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 10351881,
+            "2020": 12274097
+          }
+        },
+        "id": -5978657959327122843,
+        "name": "City Commissioners"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3366925,
+                "2020": 6254826
+              }
+            },
+            "id": -4827102851558992925,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2120079,
+                "2020": 3506080
+              }
+            },
+            "id": -5173291305745479703,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 500000,
+                "2020": 500000
+              }
+            },
+            "id": -932508517000495790,
+            "name": "Contrib., Indemnities & Taxes"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 26654,
+                "2020": 26654
+              }
+            },
+            "id": -8329478255844072305,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 6013658,
+            "2020": 10287560
+          }
+        },
+        "id": 3233366200493713856,
+        "name": "Commerce"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 8370558,
+                "2020": 9522372
+              }
+            },
+            "id": 1639945804270776755,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 497450,
+                "2020": 497450
+              }
+            },
+            "id": 6456997474209424940,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 25000,
+                "2020": 25000
+              }
+            },
+            "id": 3765909474081010561,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": -1049437262928285433,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 8893008,
+            "2020": 10044822
+          }
+        },
+        "id": 2704810077085776970,
+        "name": "Auditing (City Controller)"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2397004,
+                "2020": 7671624
+              }
+            },
+            "id": -5673579653993885020,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 2397004,
+            "2020": 7671624
+          }
+        },
+        "id": 6194194417750482676,
+        "name": "Commerce-Economic Stimulus"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4137615,
+                "2020": 4866328
+              }
+            },
+            "id": -420656152831484466,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2465049,
+                "2020": 2627049
+              }
+            },
+            "id": 8318529972392926612,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 16665,
+                "2020": 26665
+              }
+            },
+            "id": -6551382484741711472,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 6619329,
+            "2020": 7520042
+          }
+        },
+        "id": -8709507877940449201,
+        "name": "Office of the Chief Administrative Officer"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 5035367,
+                "2020": 5608379
+              }
+            },
+            "id": 5514106760049461602,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1239070,
+                "2020": 1229070
+              }
+            },
+            "id": -1337605933594954005,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 69432,
+                "2020": 89432
+              }
+            },
+            "id": 2194466628985708386,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 6343869,
+            "2020": 6926881
+          }
+        },
+        "id": -7651194734990251229,
+        "name": "Office of Human Resources"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4605862,
+                "2020": 5578480
+              }
+            },
+            "id": 6597302426769138439,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 682465,
+                "2020": 684965
+              }
+            },
+            "id": 8429831183234657177,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 27841,
+                "2020": 34841
+              }
+            },
+            "id": -5761535191917105384,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": -4172335396780889705,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 5316168,
+            "2020": 6298286
+          }
+        },
+        "id": -3542375118062796561,
+        "name": "Mayor's Office"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2316267,
+                "2020": 2916267
+              }
+            },
+            "id": 7657611959978915529,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2573121,
+                "2020": 2765020
+              }
+            },
+            "id": 2866849075998053512,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 49054,
+                "2020": 49054
+              }
+            },
+            "id": -8354377851174775459,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 6834516175060595590,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 4938442,
+            "2020": 5730341
+          }
+        },
+        "id": 911826519377460617,
+        "name": "Procurement"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3084514,
+                "2020": 3295922
+              }
+            },
+            "id": -2040872879012017391,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1538779,
+                "2020": 1373779
+              }
+            },
+            "id": -8654437271499811479,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 143758,
+                "2020": 308758
+              }
+            },
+            "id": 1123009110360033907,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1456,
+                "2020": 1456
+              }
+            },
+            "id": -8228654896390813582,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 4768507,
+            "2020": 4979915
+          }
+        },
+        "id": 498436055274019027,
+        "name": "Records"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4173645,
+                "2020": 4299820
+              }
+            },
+            "id": 659627806996996047,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 200486,
+                "2020": 238700
+              }
+            },
+            "id": -3378118842399543049,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 64750,
+                "2020": 140236
+              }
+            },
+            "id": -1454834768767970704,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 4438881,
+            "2020": 4678756
+          }
+        },
+        "id": -3847799098971490464,
+        "name": "Register of Wills"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3370688,
+                "2020": 3620688
+              }
+            },
+            "id": 1593360848501077864,
+            "name": "Contrib., Indemnities & Taxes"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 312767,
+                "2020": 579428
+              }
+            },
+            "id": -3034962414207439303,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 482400,
+                "2020": 212014
+              }
+            },
+            "id": 7454421704812204521,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 7000,
+                "2020": 7000
+              }
+            },
+            "id": -334804170016778815,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 4172855,
+            "2020": 4419130
+          }
+        },
+        "id": -1150476670235436097,
+        "name": "Office of Arts & Culture & the Creative Economy"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2650000,
+                "2020": 2650000
+              }
+            },
+            "id": 7130665974817839885,
+            "name": "Personal Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 2650000,
+            "2020": 2650000
+          }
+        },
+        "id": 4691296517252104183,
+        "name": "Finance-Reg #32"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2550000,
+                "2020": 2550000
+              }
+            },
+            "id": 2768004783322902174,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 2550000,
+            "2020": 2550000
+          }
+        },
+        "id": -3823054959222534031,
+        "name": "Art Museum"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1450615,
+                "2020": 1895615
+              }
+            },
+            "id": -5876832111775606555,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 583401,
+                "2020": 649569
+              }
+            },
+            "id": -6722740555962018542,
+            "name": "Personal Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 2034016,
+            "2020": 2545184
+          }
+        },
+        "id": 28069869375032753,
+        "name": "Mural Arts Program"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1562009,
+                "2020": 2121104
+              }
+            },
+            "id": -891627238203456147,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 173277,
+                "2020": 330317
+              }
+            },
+            "id": 3345924478360984610,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 11660,
+                "2020": 59420
+              }
+            },
+            "id": -6270731117228148395,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 1746946,
+            "2020": 2510841
+          }
+        },
+        "id": -8106833690823112347,
+        "name": "Labor"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2139648,
+                "2020": 2360050
+              }
+            },
+            "id": -691329216353556962,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 34657,
+                "2020": 34657
+              }
+            },
+            "id": 254582386140241373,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 28031,
+                "2020": 28031
+              }
+            },
+            "id": -7675009461958905235,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 2202336,
+            "2020": 2422738
+          }
+        },
+        "id": 5090809438897606135,
+        "name": "Human Relations Commission"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1533111,
+                "2020": 1639223
+              }
+            },
+            "id": -2002702875595134461,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 97975,
+                "2020": 97975
+              }
+            },
+            "id": 8547228333102363566,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 5225,
+                "2020": 5225
+              }
+            },
+            "id": 6221802804238429747,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 1636311,
+            "2020": 1742423
+          }
+        },
+        "id": -8704162757973444682,
+        "name": "Office of the Inspector General"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1046647,
+                "2020": 1295117
+              }
+            },
+            "id": -4699265850812831244,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 623444,
+                "2020": 198444
+              }
+            },
+            "id": 3068417187316239958,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 22224,
+                "2020": 22224
+              }
+            },
+            "id": 7677752117592070003,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 1692315,
+            "2020": 1515785
+          }
+        },
+        "id": 8347581303822201323,
+        "name": "City Treasurer"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 393508,
+                "2020": 643508
+              }
+            },
+            "id": -112017203655389369,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 537979,
+                "2020": 556456
+              }
+            },
+            "id": 8288918375650852954,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2020": 250000
+              }
+            },
+            "id": -8104378494152375398,
+            "name": "Payments to Other Funds"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 17840,
+                "2020": 17840
+              }
+            },
+            "id": 7749202441319464582,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 949327,
+            "2020": 1467804
+          }
+        },
+        "id": -7846698772202323471,
+        "name": "Office of Sustainability"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 704470,
+                "2020": 830942
+              }
+            },
+            "id": 5235245130715183168,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 399779,
+                "2020": 399779
+              }
+            },
+            "id": 2002516350825487085,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 54000,
+                "2020": 54000
+              }
+            },
+            "id": -6717450684250595204,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 1158249,
+            "2020": 1284721
+          }
+        },
+        "id": 5469453589922873026,
+        "name": "City Representative"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 964792,
+                "2020": 1044071
+              }
+            },
+            "id": 7756992403086442149,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 96000,
+                "2020": 52500
+              }
+            },
+            "id": 1375103706207286067,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 14000,
+                "2020": 7500
+              }
+            },
+            "id": -7994108950492305127,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 1074792,
+            "2020": 1104071
+          }
+        },
+        "id": 3119971939968808871,
+        "name": "Board of Ethics"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 945976,
+                "2020": 997459
+              }
+            },
+            "id": -7811450902707394571,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 85200,
+                "2020": 42900
+              }
+            },
+            "id": 4298674187157374025,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 15727,
+                "2020": 22727
+              }
+            },
+            "id": -7359852097674701590,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": -2216355740992484210,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 1046903,
+            "2020": 1063086
+          }
+        },
+        "id": -6731490735321777050,
+        "name": "Board of Revision of Taxes"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 250000,
+                "2020": 250000
+              }
+            },
+            "id": 2893491420496782450,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 250000,
+            "2020": 250000
+          }
+        },
+        "id": -7067836104827722016,
+        "name": "Finance-Refunds"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 167462,
+                "2020": 174742
+              }
+            },
+            "id": 5642537447764818964,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 29500,
+                "2020": 29500
+              }
+            },
+            "id": -3761152430489302011,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1094,
+                "2020": 1094
+              }
+            },
+            "id": 8620262044582234680,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 16447372,
+                "2020": 0
+              }
+            },
+            "id": -9209856489463411140,
+            "name": "Advances and Other Misc. Payments"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 16645428,
+            "2020": 205336
+          }
+        },
+        "id": -691573710002969438,
+        "name": "Civil Service Commission"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 200000,
+                "2020": 200000
+              }
+            },
+            "id": -980497497412067804,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 200000,
+            "2020": 200000
+          }
+        },
+        "id": -2675883948463807556,
+        "name": "Mayor's Office - Scholarships"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 162284,
+                "2020": 165175
+              }
+            },
+            "id": -4155743538902063356,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 10436,
+                "2020": 10436
+              }
+            },
+            "id": 5237381551442067412,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 172720,
+            "2020": 175611
+          }
+        },
+        "id": -1399762347659112693,
+        "name": "L&I-Board of L&I Review"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 171518,
+                "2020": 171518
+              }
+            },
+            "id": -7770998934971160085,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 171518,
+            "2020": 171518
+          }
+        },
+        "id": -441639416359037281,
+        "name": "Finance-Witness Fees"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 90000,
+                "2020": 90000
+              }
+            },
+            "id": 3105271637882731907,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 7229943459353303575,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 1010403323487094669,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 90000,
+            "2020": 90000
+          }
+        },
+        "id": 1310877562097065827,
+        "name": "Office of Community Empowerment and Opportunity"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 75419,
+                "2020": 80602
+              }
+            },
+            "id": -3564976127278216109,
+            "name": "Personal Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 75419,
+            "2020": 80602
+          }
+        },
+        "id": 6848373590002417701,
+        "name": "L&I-Board of Building Standards"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 25000,
+                "2020": 25000
+              }
+            },
+            "id": 3353771836269261696,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 25000,
+            "2020": 25000
+          }
+        },
+        "id": -992703048448874660,
+        "name": "Finance-Hero Scholarship Awards"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 5115312625730069588,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 250000,
+                "2020": 0
+              }
+            },
+            "id": 160364989766518465,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 250000,
+            "2020": 0
+          }
+        },
+        "id": -3846055694883539129,
+        "name": "Atwater Kent Museum"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": -7680387174939663074,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": -1351816655575403904,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 4242313749856891263,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 0,
+            "2020": 0
+          }
+        },
+        "id": -3102548245537881084,
+        "name": "City Planning Commission"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": -9050425900880059983,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 4351999116094871962,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": -770688584816877818,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 0,
+            "2020": 0
+          }
+        },
+        "id": -5276392626777325911,
+        "name": "Historical Commission"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": -4684404910279651174,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 7224498086098006651,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 0,
+            "2020": 0
+          }
+        },
+        "id": -4989322563211533533,
+        "name": "L&I-Zoning Board of Adjustments"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2592084,
+                "2020": 0
+              }
+            },
+            "id": -9134770842651530853,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 22211818,
+                "2020": 0
+              }
+            },
+            "id": -2733788550405806570,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 45550,
+                "2020": 0
+              }
+            },
+            "id": -7127587307000610850,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 100000,
+                "2020": 0
+              }
+            },
+            "id": -3697607722844230496,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 24949452,
+            "2020": 0
+          }
+        },
+        "id": -2300280726833119480,
+        "name": "Office of Education"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 3392496730700041220,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 7086478982121077259,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 0,
+            "2020": 0
+          }
+        },
+        "id": 3031858767892575264,
+        "name": "Office of Housing and Community Development"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 710895948302902226,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 1145697129555645165,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 2776713722634346288,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 0,
+                "2020": 0
+              }
+            },
+            "id": 2457760835499531797,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 0,
+            "2020": 0
+          }
+        },
+        "id": -8944195731377838665,
+        "name": "Office of Planning and Development"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2019": 4725497339,
+        "2020": 5087224752
+      }
+    },
+    "id": -5051746039842215062,
+    "name": "General Fund"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 8003747,
+                "2020": 0
+              }
+            },
+            "id": -7896306829019484238,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 20930724,
+                "2020": 0
+              }
+            },
+            "id": 7571199692424387975,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3032350,
+                "2020": 0
+              }
+            },
+            "id": 3145650264922069781,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 31966821,
+            "2020": 0
+          }
+        },
+        "id": 8263150315988496347,
+        "name": "Office of Innovation and Technology"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 138550,
+                "2020": 0
+              }
+            },
+            "id": -1740966505009525826,
+            "name": "Personal Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 138550,
+            "2020": 0
+          }
+        },
+        "id": -6800999220638424651,
+        "name": "Managing Director City of Philadelphia - 13 - City of Philadelphia"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3062196,
+                "2020": 0
+              }
+            },
+            "id": 7664374773703896907,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1489000,
+                "2020": 0
+              }
+            },
+            "id": 9019707438764019500,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4274640,
+                "2020": 0
+              }
+            },
+            "id": 2549593548419448809,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 8825836,
+            "2020": 0
+          }
+        },
+        "id": -2370019109328129053,
+        "name": "Managing Director - Office of Fleet Management"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4265847,
+                "2020": 0
+              }
+            },
+            "id": 6437816109104550069,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 4265847,
+            "2020": 0
+          }
+        },
+        "id": -878869149802373325,
+        "name": "Public Property"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 119863412,
+                "2020": 0
+              }
+            },
+            "id": 5812253443979666723,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 174143500,
+                "2020": 0
+              }
+            },
+            "id": -7836747451233838301,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 54108000,
+                "2020": 0
+              }
+            },
+            "id": -9151548911773757158,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 671000,
+                "2020": 0
+              }
+            },
+            "id": -5505380838708523085,
+            "name": "Contrib., Indemnities & Taxes"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 71000000,
+                "2020": 0
+              }
+            },
+            "id": 8808801777490659317,
+            "name": "Payments to Other Funds"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 419785912,
+            "2020": 0
+          }
+        },
+        "id": 41196464401419696,
+        "name": "Water"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 138140401,
+                "2020": 0
+              }
+            },
+            "id": -1976907933480896845,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 138140401,
+            "2020": 0
+          }
+        },
+        "id": -3290827756461081512,
+        "name": "Finance-Employee Benefits"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 8500000,
+                "2020": 0
+              }
+            },
+            "id": 6208492262723912933,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 8500000,
+            "2020": 0
+          }
+        },
+        "id": -4138557948077667413,
+        "name": "Finance-Indemnities"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 10171000,
+                "2020": 0
+              }
+            },
+            "id": -6296583982574968661,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 5059000,
+                "2020": 0
+              }
+            },
+            "id": -3074701763570857045,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1429500,
+                "2020": 0
+              }
+            },
+            "id": 2645518533171815430,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 5000,
+                "2020": 0
+              }
+            },
+            "id": 6954074505546097774,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 16664500,
+            "2020": 0
+          }
+        },
+        "id": 5909598653001921266,
+        "name": "Department of Revenue City of Philadelphia - 14 - City of Philadelphia"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 212992336,
+                "2020": 0
+              }
+            },
+            "id": -8753774704644828928,
+            "name": "Debt Service"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 212992336,
+            "2020": 0
+          }
+        },
+        "id": -6731283470276655597,
+        "name": "Sinking Fund Commission (Debt Service)"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 93093,
+                "2020": 0
+              }
+            },
+            "id": -4369570001183053217,
+            "name": "Personal Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 93093,
+            "2020": 0
+          }
+        },
+        "id": -2445215127156591146,
+        "name": "Procurement"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2506206,
+                "2020": 0
+              }
+            },
+            "id": 4808289138242074840,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 691614,
+                "2020": 0
+              }
+            },
+            "id": 6467469487080023102,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 43010,
+                "2020": 0
+              }
+            },
+            "id": -2991286683194422016,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 3240830,
+            "2020": 0
+          }
+        },
+        "id": -3899650109662752528,
+        "name": "Law"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 63874,
+                "2020": 0
+              }
+            },
+            "id": 3918717342803072262,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 30000,
+                "2020": 0
+              }
+            },
+            "id": 8419660763032741060,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 93874,
+            "2020": 0
+          }
+        },
+        "id": 6062179130086456553,
+        "name": "Office of Sustainability"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2019": 844708000,
+        "2020": 0
+      }
+    },
+    "id": 2716053035270877164,
+    "name": "Water Fund"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 37000000,
+                "2020": 0
+              }
+            },
+            "id": -7827923571241586409,
+            "name": "Payments to Other Funds"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 37000000,
+            "2020": 0
+          }
+        },
+        "id": 6013305859857802146,
+        "name": "Water"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2019": 37000000,
+        "2020": 0
+      }
+    },
+    "id": 5264654269035799608,
+    "name": "Water Residual Fund"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3734000,
+                "2020": 0
+              }
+            },
+            "id": 3941833003350826096,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3320330,
+                "2020": 0
+              }
+            },
+            "id": 311147405751788742,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 200000,
+                "2020": 0
+              }
+            },
+            "id": 6134135516745219622,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 18670,
+                "2020": 0
+              }
+            },
+            "id": -6244973823464669647,
+            "name": "Payments to Other Funds"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 7273000,
+            "2020": 0
+          }
+        },
+        "id": -5786602080523265227,
+        "name": "Streets"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2019": 7273000,
+        "2020": 0
+      }
+    },
+    "id": 1534418661027403857,
+    "name": "County Liquid Fuels Tax Fund"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 6794388,
+                "2020": 0
+              }
+            },
+            "id": -8325557944325761764,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 16729343,
+                "2020": 0
+              }
+            },
+            "id": 8604307077618595509,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 12386269,
+                "2020": 0
+              }
+            },
+            "id": -2019298739107861094,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 30000,
+                "2020": 0
+              }
+            },
+            "id": -6283222315147284188,
+            "name": "Payments to Other Funds"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 35940000,
+            "2020": 0
+          }
+        },
+        "id": 7635586570517895303,
+        "name": "Streets"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1000000,
+                "2020": 0
+              }
+            },
+            "id": 9152087124626840493,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 1000000,
+            "2020": 0
+          }
+        },
+        "id": 8734719263234373773,
+        "name": "Finance-Employee Benefits"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2019": 36940000,
+        "2020": 0
+      }
+    },
+    "id": -537286480794205104,
+    "name": "Special Gasoline Tax Fund"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 800000,
+                "2020": 0
+              }
+            },
+            "id": -8149741079661175053,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1299100000,
+                "2020": 0
+              }
+            },
+            "id": -5200217625667889482,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 100000,
+                "2020": 0
+              }
+            },
+            "id": 1349530208446832879,
+            "name": "Payments to Other Funds"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 1300000000,
+            "2020": 0
+          }
+        },
+        "id": 4963464256203475078,
+        "name": "Office of Behavioral Health and Intellectual disAbility"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2019": 1300000000,
+        "2020": 0
+      }
+    },
+    "id": -6370825174641609958,
+    "name": "Healthchoices Behavioral Health Revenue Fund"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 73868000,
+                "2020": 0
+              }
+            },
+            "id": -3560124457166464376,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 73868000,
+            "2020": 0
+          }
+        },
+        "id": 172790058410507735,
+        "name": "Commerce"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2019": 73868000,
+        "2020": 0
+      }
+    },
+    "id": -435678773509699237,
+    "name": "Hotel Room Rental Tax Fund"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 100000,
+                "2020": 0
+              }
+            },
+            "id": 7087107431231972403,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 75000,
+                "2020": 0
+              }
+            },
+            "id": 4137300936149424140,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 30000,
+                "2020": 0
+              }
+            },
+            "id": 5453542574413999516,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 100,
+                "2020": 0
+              }
+            },
+            "id": 9196192412195574239,
+            "name": "Contrib., Indemnities & Taxes"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 100,
+                "2020": 0
+              }
+            },
+            "id": 2702031617860985944,
+            "name": "Payments to Other Funds"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 100,
+                "2020": 0
+              }
+            },
+            "id": 5780797436596202225,
+            "name": "Advances and Other Misc. Payments"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 205300,
+            "2020": 0
+          }
+        },
+        "id": 3478439765516464021,
+        "name": "City Council"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 231290,
+                "2020": 0
+              }
+            },
+            "id": -1835172465423974411,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 958019,
+                "2020": 0
+              }
+            },
+            "id": 3839152822302452447,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 55038238,
+                "2020": 0
+              }
+            },
+            "id": 4828503560378705938,
+            "name": "Payments to Other Funds"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 56227547,
+            "2020": 0
+          }
+        },
+        "id": -6816303164121771144,
+        "name": "Office of Innovation and Technology"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 837663,
+                "2020": 0
+              }
+            },
+            "id": -5178834994054927032,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 64080,
+                "2020": 0
+              }
+            },
+            "id": 1861799929348427085,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 11473,
+                "2020": 0
+              }
+            },
+            "id": 9071759078512196529,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1969,
+                "2020": 0
+              }
+            },
+            "id": -6898846812686201938,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 915185,
+            "2020": 0
+          }
+        },
+        "id": 3244501507838640627,
+        "name": "Mayor City of Philadelphia - 17 - City of Philadelphia"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2399073,
+                "2020": 0
+              }
+            },
+            "id": -8628531082256257141,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 429391,
+                "2020": 0
+              }
+            },
+            "id": -3556075341058691940,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 15646220,
+                "2020": 0
+              }
+            },
+            "id": -1920546128299848696,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 70540,
+                "2020": 0
+              }
+            },
+            "id": 6287177013672168298,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 18545224,
+            "2020": 0
+          }
+        },
+        "id": 5869929254190166394,
+        "name": "Office of Community Empowerment and Opportunity"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 102307,
+                "2020": 0
+              }
+            },
+            "id": -3099617574607941056,
+            "name": "Personal Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 102307,
+            "2020": 0
+          }
+        },
+        "id": -3215782995112511298,
+        "name": "Mayor - Office of the Chief Administrative Officer"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 76667,
+                "2020": 0
+              }
+            },
+            "id": 1013251398682243588,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 34063,
+                "2020": 0
+              }
+            },
+            "id": -3437319358870504833,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 189630,
+                "2020": 0
+              }
+            },
+            "id": 3335722710466112143,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1500,
+                "2020": 0
+              }
+            },
+            "id": -2929696354708551123,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 301860,
+            "2020": 0
+          }
+        },
+        "id": 753329531836957737,
+        "name": "Office of Education"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3293207,
+                "2020": 0
+              }
+            },
+            "id": 9100429463637665942,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 5847251,
+                "2020": 0
+              }
+            },
+            "id": 4447039719396496533,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 410089,
+                "2020": 0
+              }
+            },
+            "id": -3181235700828528501,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 9550547,
+            "2020": 0
+          }
+        },
+        "id": 2866913951818624480,
+        "name": "Managing Director"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3861903,
+                "2020": 0
+              }
+            },
+            "id": 2363105791706489453,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 384114,
+                "2020": 0
+              }
+            },
+            "id": -7549507151570954840,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4356842,
+                "2020": 0
+              }
+            },
+            "id": 5745733519735334623,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 7143170,
+                "2020": 0
+              }
+            },
+            "id": 1150526593050971362,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 15746029,
+            "2020": 0
+          }
+        },
+        "id": -7203899677340281531,
+        "name": "Police Department City of Philadelphia - 18 - City of Philadelphia"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1355000,
+                "2020": 0
+              }
+            },
+            "id": 6461131242857220609,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 16540000,
+                "2020": 0
+              }
+            },
+            "id": 3515304194768395224,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 5884000,
+                "2020": 0
+              }
+            },
+            "id": -4898664366568271802,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 23779000,
+            "2020": 0
+          }
+        },
+        "id": -4513556741701823543,
+        "name": "Streets"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 11241685,
+                "2020": 0
+              }
+            },
+            "id": -100179406824788589,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1145012,
+                "2020": 0
+              }
+            },
+            "id": 8641992637048798430,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 5445189,
+                "2020": 0
+              }
+            },
+            "id": -5471475604092943606,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2313262,
+                "2020": 0
+              }
+            },
+            "id": 42923578227596324,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 20145148,
+            "2020": 0
+          }
+        },
+        "id": -4428499764867971456,
+        "name": "Fire"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 19043038,
+                "2020": 0
+              }
+            },
+            "id": 1267951526103274914,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4297637,
+                "2020": 0
+              }
+            },
+            "id": -3387626304565265644,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 107060965,
+                "2020": 0
+              }
+            },
+            "id": 5969297934902022980,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 22930926,
+                "2020": 0
+              }
+            },
+            "id": 7081111899943764290,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 879732,
+                "2020": 0
+              }
+            },
+            "id": 7631718957437752308,
+            "name": "Payments to Other Funds"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 154212298,
+            "2020": 0
+          }
+        },
+        "id": -197632766161435771,
+        "name": "Public Health"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 17132274,
+                "2020": 0
+              }
+            },
+            "id": 9005957635832738732,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 8070519,
+                "2020": 0
+              }
+            },
+            "id": 3354179636969166245,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 246507560,
+                "2020": 0
+              }
+            },
+            "id": 3059894285288503146,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 250000,
+                "2020": 0
+              }
+            },
+            "id": -4509337180253254929,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 84707,
+                "2020": 0
+              }
+            },
+            "id": -1848946428370542097,
+            "name": "Payments to Other Funds"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 272045060,
+            "2020": 0
+          }
+        },
+        "id": -46705396308609131,
+        "name": "Office of Behavioral Health and Intellectual disAbility"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3337979,
+                "2020": 0
+              }
+            },
+            "id": 5782451151902372673,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 592471,
+                "2020": 0
+              }
+            },
+            "id": 3852286673147857756,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1937709,
+                "2020": 0
+              }
+            },
+            "id": 6139721887065500963,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 7346383,
+                "2020": 0
+              }
+            },
+            "id": 8826335094932872892,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 13214542,
+            "2020": 0
+          }
+        },
+        "id": -5661646345425829471,
+        "name": "Parks and Recreation"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 81613995,
+                "2020": 0
+              }
+            },
+            "id": -3459549371519922907,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 38485241,
+                "2020": 0
+              }
+            },
+            "id": -2033897567119823839,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 484484329,
+                "2020": 0
+              }
+            },
+            "id": -5632975828511523635,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3929155,
+                "2020": 0
+              }
+            },
+            "id": 4932960387777044080,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 608512720,
+            "2020": 0
+          }
+        },
+        "id": -1300608285874113341,
+        "name": "Human Services"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1805966,
+                "2020": 0
+              }
+            },
+            "id": 5394120200279105856,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 41873415,
+                "2020": 0
+              }
+            },
+            "id": -8573151645608178898,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1021376,
+                "2020": 0
+              }
+            },
+            "id": 7647420456220767955,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 44700757,
+            "2020": 0
+          }
+        },
+        "id": -5485189935646153285,
+        "name": "Office of Homeless Services"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 250000678,
+                "2020": 0
+              }
+            },
+            "id": -5360737807753311804,
+            "name": "Advances and Other Misc. Payments"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 250000678,
+            "2020": 0
+          }
+        },
+        "id": 6477446628958283061,
+        "name": "Finance"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 26425000,
+                "2020": 0
+              }
+            },
+            "id": -8698188152706640511,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 26425000,
+            "2020": 0
+          }
+        },
+        "id": -6891899873797712327,
+        "name": "Revenue"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3000,
+                "2020": 0
+              }
+            },
+            "id": -9012384000937060239,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 3000,
+            "2020": 0
+          }
+        },
+        "id": -6441999044086378844,
+        "name": "Procurement Department City of Philadelphia - 20 - City of Philadelphia"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 10000000,
+                "2020": 0
+              }
+            },
+            "id": 3438761380961008675,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 10000000,
+            "2020": 0
+          }
+        },
+        "id": 1207066617705138655,
+        "name": "Commerce"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 200000,
+                "2020": 0
+              }
+            },
+            "id": 8845959068487467527,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 200000,
+            "2020": 0
+          }
+        },
+        "id": -1275328081948629892,
+        "name": "Law"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 50000,
+                "2020": 0
+              }
+            },
+            "id": -139096155510688990,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 168673,
+                "2020": 0
+              }
+            },
+            "id": 6452301367597169819,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 218673,
+            "2020": 0
+          }
+        },
+        "id": 276887361098419776,
+        "name": "Office of Sustainability"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1144106,
+                "2020": 0
+              }
+            },
+            "id": -7030002309343825335,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 128255,
+                "2020": 0
+              }
+            },
+            "id": 5307966689779913015,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4040285,
+                "2020": 0
+              }
+            },
+            "id": 3676367515999016112,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3301157,
+                "2020": 0
+              }
+            },
+            "id": -8806321318713892,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 8613803,
+            "2020": 0
+          }
+        },
+        "id": 1847018066826725405,
+        "name": "Free Library"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 200000,
+                "2020": 0
+              }
+            },
+            "id": -1307714367089616638,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 200000,
+            "2020": 0
+          }
+        },
+        "id": -360358565979229991,
+        "name": "Auditing (City Controller)"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 200000,
+                "2020": 0
+              }
+            },
+            "id": 6877419173004871293,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 200000,
+            "2020": 0
+          }
+        },
+        "id": -1552122141358572883,
+        "name": "Register of Wills"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 9504069,
+                "2020": 0
+              }
+            },
+            "id": -4890129903971222705,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 645000,
+                "2020": 0
+              }
+            },
+            "id": 3121138082584036213,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4421800,
+                "2020": 0
+              }
+            },
+            "id": 6301259323634550858,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2281160,
+                "2020": 0
+              }
+            },
+            "id": -4979251952016084545,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 16852029,
+            "2020": 0
+          }
+        },
+        "id": 850531786727088540,
+        "name": "District Attorney"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 90000,
+                "2020": 0
+              }
+            },
+            "id": -6518273752184337240,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 56168222,
+                "2020": 0
+              }
+            },
+            "id": 8713743641914016706,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 56258222,
+            "2020": 0
+          }
+        },
+        "id": -2289774066573363502,
+        "name": "Planning and Development"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 125000,
+                "2020": 0
+              }
+            },
+            "id": 8775089640984297863,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 600000,
+                "2020": 0
+              }
+            },
+            "id": -8607691676463425468,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 200000,
+                "2020": 0
+              }
+            },
+            "id": -1254331653835119463,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 925000,
+            "2020": 0
+          }
+        },
+        "id": 1602202014919110280,
+        "name": "City Commissioners"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 28700216,
+                "2020": 0
+              }
+            },
+            "id": -4275981499836931202,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 14703283,
+                "2020": 0
+              }
+            },
+            "id": -7312673871266017380,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 6334462,
+                "2020": 0
+              }
+            },
+            "id": 4051961347454530236,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2388110,
+                "2020": 0
+              }
+            },
+            "id": -4392452767414229653,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 52126071,
+            "2020": 0
+          }
+        },
+        "id": 8127996308920162562,
+        "name": "First Judicial District"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2019": 1660226000,
+        "2020": 0
+      }
+    },
+    "id": 4807832462959831503,
+    "name": "Grants Revenue Fund"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 940000,
+                "2020": 0
+              }
+            },
+            "id": -8630708366910605754,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1223089,
+                "2020": 0
+              }
+            },
+            "id": -2422263363892218617,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 2163089,
+            "2020": 0
+          }
+        },
+        "id": -8497234684299894193,
+        "name": "Office of Innovation and Technology"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1514839,
+                "2020": 0
+              }
+            },
+            "id": 1316577872359038129,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 588000,
+                "2020": 0
+              }
+            },
+            "id": 9178389152332571401,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1493000,
+                "2020": 0
+              }
+            },
+            "id": -1225730677005447672,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 3595839,
+            "2020": 0
+          }
+        },
+        "id": 280344972363524951,
+        "name": "Managing Director - Office of Fleet Management"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4800000,
+                "2020": 0
+              }
+            },
+            "id": -754751781472001595,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 4800000,
+            "2020": 0
+          }
+        },
+        "id": 5896826310353880979,
+        "name": "Managing Director - Office of Fleet Management - Vehicle Purchase"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 16961237,
+                "2020": 0
+              }
+            },
+            "id": 1702764780556167448,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 77500,
+                "2020": 0
+              }
+            },
+            "id": -7027838903130426700,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 93000,
+                "2020": 0
+              }
+            },
+            "id": 4910027907495088419,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 17131737,
+            "2020": 0
+          }
+        },
+        "id": 4581004032737599471,
+        "name": "Police"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 8161574,
+                "2020": 0
+              }
+            },
+            "id": 8774800255283775399,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 15000,
+                "2020": 0
+              }
+            },
+            "id": 5328167113237308251,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 155900,
+                "2020": 0
+              }
+            },
+            "id": 4825890732902560705,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 23000,
+                "2020": 0
+              }
+            },
+            "id": 5033388189983090150,
+            "name": "Payments to Other Funds"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 8355474,
+            "2020": 0
+          }
+        },
+        "id": 4934041723564573498,
+        "name": "Fire"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 26900000,
+                "2020": 0
+              }
+            },
+            "id": -1720441079543996987,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 26900000,
+            "2020": 0
+          }
+        },
+        "id": 6394536412581499890,
+        "name": "Public Property-Utilities"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4146000,
+                "2020": 0
+              }
+            },
+            "id": 2617600670326576378,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 4146000,
+            "2020": 0
+          }
+        },
+        "id": -2355614429141626438,
+        "name": "Finance"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 63950249,
+                "2020": 0
+              }
+            },
+            "id": -1514700105132549304,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 63950249,
+            "2020": 0
+          }
+        },
+        "id": 5107374118564530959,
+        "name": "Finance-Employee Benefits"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2512000,
+                "2020": 0
+              }
+            },
+            "id": -3917094619286182163,
+            "name": "Contrib., Indemnities & Taxes"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 2512000,
+            "2020": 0
+          }
+        },
+        "id": 841922450569213253,
+        "name": "Finance-Indemnities"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 163801936,
+                "2020": 0
+              }
+            },
+            "id": 8858666422013375310,
+            "name": "Debt Service"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 163801936,
+            "2020": 0
+          }
+        },
+        "id": 4180756995238567263,
+        "name": "Sinking Fund Commission (Debt Service)"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 51000000,
+                "2020": 0
+              }
+            },
+            "id": 2695794773381347708,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 107000000,
+                "2020": 0
+              }
+            },
+            "id": 5664940238585267477,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 11500000,
+                "2020": 0
+              }
+            },
+            "id": -7942490036737823905,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 6300000,
+                "2020": 0
+              }
+            },
+            "id": -8304013559263081870,
+            "name": "Contrib., Indemnities & Taxes"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 24000000,
+                "2020": 0
+              }
+            },
+            "id": -1860258986732954984,
+            "name": "Payments to Other Funds"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 199800000,
+            "2020": 0
+          }
+        },
+        "id": -2921644960983751496,
+        "name": "Commerce"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1563803,
+                "2020": 0
+              }
+            },
+            "id": 5937429393481594947,
+            "name": "Personal Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 1563803,
+            "2020": 0
+          }
+        },
+        "id": -1906517587651605178,
+        "name": "Law"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 63873,
+                "2020": 0
+              }
+            },
+            "id": 7511553768315024232,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 30000,
+                "2020": 0
+              }
+            },
+            "id": -9146527573489491270,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 93873,
+            "2020": 0
+          }
+        },
+        "id": 7859550290379522330,
+        "name": "Office of Sustainability"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2019": 498814000,
+        "2020": 0
+      }
+    },
+    "id": -9167686370606308514,
+    "name": "Aviation Fund"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4708736,
+                "2020": 0
+              }
+            },
+            "id": 5327340015035754112,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 56675441,
+                "2020": 0
+              }
+            },
+            "id": 311716335882048608,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 256000,
+                "2020": 0
+              }
+            },
+            "id": -8350672533619347102,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 25000,
+                "2020": 0
+              }
+            },
+            "id": 4820513502491689558,
+            "name": "Payments to Other Funds"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 61665177,
+            "2020": 0
+          }
+        },
+        "id": -4989253063928687557,
+        "name": "Planning and Development"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 514818,
+                "2020": 0
+              }
+            },
+            "id": 7854703251581633471,
+            "name": "Personal Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 514818,
+            "2020": 0
+          }
+        },
+        "id": 6038016250478240222,
+        "name": "Licenses & Inspection"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4152814,
+                "2020": 0
+              }
+            },
+            "id": -6194586318810318511,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 4152814,
+            "2020": 0
+          }
+        },
+        "id": -2492286412516893965,
+        "name": "Finance-Employee Benefits"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 20000000,
+                "2020": 0
+              }
+            },
+            "id": -5645855950145998464,
+            "name": "Advances and Other Misc. Payments"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 20000000,
+            "2020": 0
+          }
+        },
+        "id": 3239302072068275731,
+        "name": "Finance"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1140312,
+                "2020": 0
+              }
+            },
+            "id": -176660517514791449,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 8309306,
+                "2020": 0
+              }
+            },
+            "id": 5570441160553541051,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3000,
+                "2020": 0
+              }
+            },
+            "id": -6178193738308862058,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 9452618,
+            "2020": 0
+          }
+        },
+        "id": -8491146848552547659,
+        "name": "Commerce"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 195573,
+                "2020": 0
+              }
+            },
+            "id": 6711698527103624655,
+            "name": "Personal Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 195573,
+            "2020": 0
+          }
+        },
+        "id": -8715519729403432861,
+        "name": "Law"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2019": 95981000,
+        "2020": 0
+      }
+    },
+    "id": 8775903583612803056,
+    "name": "Community Development Fund"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 7000000,
+                "2020": 0
+              }
+            },
+            "id": -265594659937374774,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 7000000,
+            "2020": 0
+          }
+        },
+        "id": 7428782740515235595,
+        "name": "Sinking Fund Commission (Debt Service)"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2019": 7000000,
+        "2020": 0
+      }
+    },
+    "id": 2245389238058219968,
+    "name": "Car Rental Tax Fund"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 4195000,
+                "2020": 0
+              }
+            },
+            "id": 7831556101251713114,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 3918000,
+                "2020": 0
+              }
+            },
+            "id": 5004362275065650276,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 2194000,
+                "2020": 0
+              }
+            },
+            "id": 241657365038148586,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 165000,
+                "2020": 0
+              }
+            },
+            "id": 7068324150041233488,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 90000,
+                "2020": 0
+              }
+            },
+            "id": 7034596930602377062,
+            "name": "Payments to Other Funds"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 10562000,
+            "2020": 0
+          }
+        },
+        "id": 6693929200261758889,
+        "name": "Sinking Fund Commission (Debt Service)"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2019": 10562000,
+        "2020": 0
+      }
+    },
+    "id": 2330806302848582849,
+    "name": "Municipal Pension Fund"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1250000,
+                "2020": 0
+              }
+            },
+            "id": -2741739728115775112,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 38750000,
+                "2020": 0
+              }
+            },
+            "id": -7011611086077464476,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 40000000,
+            "2020": 0
+          }
+        },
+        "id": 6949673128572661490,
+        "name": "Planning and Development"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2019": 40000000,
+        "2020": 0
+      }
+    },
+    "id": -1539576204839519940,
+    "name": "Housing Trust Fund"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 5393408,
+                "2020": 0
+              }
+            },
+            "id": 4639501526112702083,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 5980000,
+                "2020": 0
+              }
+            },
+            "id": 4188196489483312176,
+            "name": "Purchase of Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 1339000,
+                "2020": 0
+              }
+            },
+            "id": 4289148609570402178,
+            "name": "Materials, Supplies & Equip."
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 500000,
+                "2020": 0
+              }
+            },
+            "id": 1107969965455678654,
+            "name": "Payments to Other Funds"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 13212408,
+            "2020": 0
+          }
+        },
+        "id": -9048207505625252019,
+        "name": "Department of Public Health City of Philadelphia - 26 - City of Philadelphia"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 149000000,
+                "2020": 0
+              }
+            },
+            "id": 3622293549762119156,
+            "name": "Purchase of Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 149000000,
+            "2020": 0
+          }
+        },
+        "id": 8583187795853730871,
+        "name": "Public Health"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 75000,
+                "2020": 0
+              }
+            },
+            "id": 2608617072268702171,
+            "name": "Personal Services"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 75000,
+            "2020": 0
+          }
+        },
+        "id": 158588735588608085,
+        "name": "Finance"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 267592,
+                "2020": 0
+              }
+            },
+            "id": 1641824005793581017,
+            "name": "Pers. Svcs.-Emp.Benefits"
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 267592,
+            "2020": 0
+          }
+        },
+        "id": -8834000541904497740,
+        "name": "Finance-Employee Benefits"
+      },
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 30000,
+                "2020": 0
+              }
+            },
+            "id": 3595145179593762728,
+            "name": "Personal Services"
+          },
+          {
+            "gross_cost": {
+              "accounts": {
+                "2019": 15000,
+                "2020": 0
+              }
+            },
+            "id": -3765937775582886372,
+            "name": "Materials, Supplies & Equip."
+          }
+        ],
+        "gross_cost": {
+          "accounts": {
+            "2019": 45000,
+            "2020": 0
+          }
+        },
+        "id": 7051198791845927771,
+        "name": "Revenue"
+      }
+    ],
+    "gross_cost": {
+      "accounts": {
+        "2019": 162600000,
+        "2020": 0
+      }
+    },
+    "id": 1968628522558446326,
+    "name": "Acute Care Hospital Fund"
+  }
+]
