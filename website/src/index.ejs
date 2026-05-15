@@ -1,73 +1,153 @@
 <html>
-<head>
-  <title>Philly Budget Data</title>
-  <%- include('_meta', { basePath: '' }) %>
-</head>
-<body>
-
-<%- include('_menu') %>
-<main>
-   <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pt-20 pb-16 text-center lg:pt-32">
-      <h1 class="mx-auto italic max-w-4xl font-display text-5xl font-medium tracking-tight text-slate-900 sm:text-7xl">
-      Philly <span class="text-blue-800">Budget</span> Data
-      </h1>
-      <p class="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-      This website provides both visualizations of the Philadelphia city budget as well as raw budget data from 2016 - 2026.</p>
-   </div>
-   <section class="bg-slate-50 py-12 lg:py-20">
-     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-      <div class="mx-auto max-w-2xl md:text-center">
-        <h2 class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">Open Budget bubble charts</h2>
-        <p class="mt-4 text-lg tracking-tight text-slate-700">The following visualisations are built off the the City of Philadelphia's <a class="text-blue-800" href="https://github.com/CityOfPhiladelphia/open-budget">open budget</a> implementation, based on a project by <a class="text-blue-800" href="https://github.com/tpreusse/open-budget">OpenData.ch</a>, the Swiss division of the <a class="text-blue-800" href="http://okfn.org/" rel="nofollow">Open Knowledge Foundation</a>.</p></div>
-        <div class="lg:mt-20 mt-8 lg:block">
-          <div class="grid grid-row md:grid-cols-2 lg:grid-cols-3 gap-x-8 grid-cols-1 justify-items-center" role="tablist" aria-orientation="horizontal">
-              <div class="relative py-6">
-                <a href="charts/bubble/2027.ejs">
-                  <img class="h-85" src="assets/images/2027-proposed.jpg" />
-                  <h3 class="font-display mt-2 text-slate-900 text-xl">2027 Proposed Budget</h3>
-                </a>
-              </div>
-              <div class="relative opacity-75 hover:opacity-100 py-6">
-                <a href="charts/bubble/2027-by-fund.ejs">
-                  <img class="h-85" src="assets/images/2027-proposed-by-fund.jpg" />
-                  <h3 class="font-display mt-2 text-slate-900 text-xl">2027 Proposed Budget by Funding Source</h3>
-                </a>
-              </div>
-              <div class="relative opacity-75 hover:opacity-100 py-6">
-                <a href="charts/bubble/2019.ejs">
-                  <img class="h-85" src="assets/images/2018-proposed-by-fund.jpg" />
-                  <h3 class="font-display mt-2 text-slate-900 text-xl">2018 Proposed Budget by Funding Source</h3>
-                </a>
-              </div>              
-          </div>
-        </div>
-   </section>
-   <section class=" py-12 lg:py-20">
-    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-      <div class="mx-auto max-w-2xl md:text-center">
-        <h2 id="about" class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">About this website</h2>
-        <p>coming soon!</p>
-        <p><a href="https://thenounproject.com/icon/budget-7824210/">Budget icon from the noun project.</a></p>
-      </div>
-    </div>
-   </section>
-   <section class="bg-slate-50 py-12 lg:py-20">
-    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-      <div class="mx-auto max-w-2xl md:text-center">
-        <h2 id="budget" class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">About Philly's Budget</h2>
-        <p>coming soon!</p>
-      </div>
-    </div>
-   </section>
-   <section class="py-20 py-12 lg:py-20">
-    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-      <div class="mx-auto max-w-2xl md:text-center">
-        <h2 id="resources" class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">Resources</h2>
-        <p>coming soon!</p>
-        <p><a style="display: block; background-color: hsl(243.4, 52.2%, 13.1%); padding: 20px;" href="https://www.peoplesbudgetoffice.org/"><img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/67c20a8b415097680ba6a095/dda629c2-96fc-462b-a8cf-7ae4cdfacf98/PBO_Logo_White_Red.png?format=1500w" alt="People&amp;#39;s Budget Office " style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw"></a></p>
-      </div>
-    </div>
-   </section>
-</main>
-</body>
+   <head>
+      <title>Philly Budget Data</title>
+      <%- include('_meta', { basePath: '' }) %>
+   </head>
+   <body>
+      <%- include('_menu') %>
+      <main>
+         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pt-20 pb-16 text-center lg:pt-32">
+            <h1 class="mx-auto italic max-w-4xl font-display text-5xl font-medium tracking-tight text-slate-900 sm:text-7xl">
+               Philly <span class="text-blue-800">Budget</span> Data
+            </h1>
+            <p class="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
+               This website provides both visualizations of the Philadelphia city budget as well as raw budget data from 2016 - 2026.
+            </p>
+         </div>
+         <section class="bg-slate-50 py-12 lg:py-20">
+            <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <div class="mx-auto max-w-2xl md:text-center">
+               <h2 class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">Open Budget bubble charts</h2>
+               <p class="mt-4 text-lg tracking-tight text-slate-700">The following visualisations are built off the the City of Philadelphia's <a class="text-blue-800" href="https://github.com/CityOfPhiladelphia/open-budget">open budget</a> implementation, based on a project by <a class="text-blue-800" href="https://github.com/tpreusse/open-budget">OpenData.ch</a>, the Swiss division of the <a class="text-blue-800" href="http://okfn.org/" rel="nofollow">Open Knowledge Foundation</a>.</p>
+            </div>
+            <div class="lg:mt-20 mt-8 lg:block">
+               <div class="grid grid-row md:grid-cols-2 lg:grid-cols-3 gap-x-8 grid-cols-1 justify-items-center" role="tablist" aria-orientation="horizontal">
+                  <div class="relative py-6">
+                     <a href="charts/bubble/2027.ejs">
+                        <img class="h-85" src="assets/images/2027-proposed.jpg" />
+                        <h3 class="font-display mt-2 text-slate-900 text-xl">2027 Proposed Budget</h3>
+                     </a>
+                  </div>
+                  <div class="relative opacity-75 hover:opacity-100 py-6">
+                     <a href="charts/bubble/2027-by-fund.ejs">
+                        <img class="h-85" src="assets/images/2027-proposed-by-fund.jpg" />
+                        <h3 class="font-display mt-2 text-slate-900 text-xl">2027 Proposed Budget by Funding Source</h3>
+                     </a>
+                  </div>
+                  <div class="relative opacity-75 hover:opacity-100 py-6">
+                     <a href="charts/bubble/2019.ejs">
+                        <img class="h-85" src="assets/images/2018-proposed-by-fund.jpg" />
+                        <h3 class="font-display mt-2 text-slate-900 text-xl">2018 Proposed Budget by Funding Source</h3>
+                     </a>
+                  </div>
+               </div>
+            </div>
+         </section>
+         <section class=" py-12 lg:py-20">
+            <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+               <div class="mx-auto max-w-2xl md:text-center">
+                  <h2 id="about" class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">About this website</h2>
+                  <p class="py-4">The goal of this website is to provide data and visual artifacts to better understand the city budget. It is created by <a class="text-blue-800 underline" href="https://github.com/acouch">acouch</a>, is <a class="text-blue-800 underline" href="https://github.com/acouch/phila-budget-site">open source</a>, and builds off of previous open source budget tools.</p>
+                  <p class="py-4"><a class="text-blue-800 underline" href="https://thenounproject.com/icon/budget-7824210/">Budget icon from the noun project.</a></p>
+               </div>
+            </div>
+         </section>
+         <section class="bg-slate-50 py-12 lg:py-20">
+            <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+               <div class="mx-auto max-w-2xl md:text-center">
+                  <h2 id="budget" class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">About Philly's Budget</h2>
+                  </div>
+                <div class="py-12">
+                  <img src="./assets/images/budget-timeline.jpg" alt="a visual of the city budget cycle"/>
+                  <p class="py-8">The city budget is a year-round process with very limited opportunities for public input. See the <a class="text-blue-800 underline" href="https://www.peoplesbudgetoffice.org/">People's Budget Office</a> for more information.</p>
+               </div>
+            </div>
+         </section>
+         <section class="py-20 py-12 lg:py-20">
+            <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+               <div class="mx-auto max-w-2xl md:text-center">
+                  <h2 id="resources" class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">Resources</h2>
+               </div>
+               <div class="max-w-screen-xl mx-auto p-5 sm:p-10 md:p-16">
+                  <div class="grid grid-cols-1 md:grid-cols-3 sm:grid-cols-2 gap-10">
+                    <!-- begin resource cards-->
+                     <div class="rounded overflow-hidden shadow-lg">
+                        <a href="#"></a>
+                        <div class="relative">
+                           <a style="display: block; background-color: hsl(243.4, 52.2%, 13.1%); padding: 20px;" href="https://www.peoplesbudgetoffice.org/">
+                              <img elementtiming="nbf-header-logo-desktop" src="./assets/images/peoplesbudgetoffice.jpg" alt="People&amp;#39;s Budget Office " style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+                              <div
+                                 class="hover:bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0 bg-gray-900 opacity-25">
+                              </div>
+                           </a>
+                        </div>
+                        <div class="px-6 py-4">
+                           <a href="#"
+                              class="font-semibold text-lg inline-block hover:text-indigo-600 transition duration-500 ease-in-out">People's Budget Office</a>
+                           <p class="text-gray-500 text-sm">
+                              A wealth of resources and events about the city budget.
+                           </p>
+                        </div>
+                     </div>
+                     <div class="rounded overflow-hidden shadow-lg">
+                        <a href="#"></a>
+                        <div class="relative">
+                           <a style="display: block; padding: 20px;" href="https://data.phila.gov/visualizations/payments-aggregate/">
+                              <img elementtiming="nbf-header-logo-desktop" src="./assets/images/citypaymentsdashboard.jpg" alt="City payments dashboard" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+                              <div
+                                 class="hover:bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0 bg-gray-900 opacity-25">
+                              </div>
+                           </a>
+                        </div>
+                        <div class="px-6 py-4">
+                           <a href="#"
+                              class="font-semibold text-lg inline-block hover:text-indigo-600 transition duration-500 ease-in-out">City's Payment Dashboard</a>
+                           <p class="text-gray-500 text-sm">
+                              An up-to-date dashboard of the city's payments.
+                           </p>
+                        </div>
+                     </div>
+                     <div class="rounded overflow-hidden shadow-lg">
+                        <a href="#"></a>
+                        <div class="relative">
+                           <a style="display: block; padding: 20px;" href="https://www.economyleague.org/resources/philadelphias-fy2027-budget-new-commitments-household-tradeoffs-and-thinner-fiscal">
+                              <img elementtiming="nbf-header-logo-desktop" src="./assets/images/elbudgetdash.jpg" alt="economy league dashboard" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+                              <div
+                                 class="hover:bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0 bg-gray-900 opacity-25">
+                              </div>
+                           </a>
+                        </div>
+                        <div class="px-6 py-4">
+                           <a href="#"
+                              class="font-semibold text-lg inline-block hover:text-indigo-600 transition duration-500 ease-in-out">Economy League Budget Dashboard</a>
+                           <p class="text-gray-500 text-sm">
+                              A budget analysis by the Economy League of Philadelphia.
+                           </p>
+                        </div>
+                     </div>
+                     <div class="rounded overflow-hidden shadow-lg">
+                        <a href="#"></a>
+                        <div class="relative">
+                           <a style="display: block; padding: 20px;" href="https://drive.google.com/file/d/1Ki7M2JnG7TStbD3OwS72oE0flvkwCDOn/view">
+                              <img elementtiming="nbf-header-logo-desktop" src="./assets/images/pboreport.jpg" alt="Cover of PBO report on equitable budgeting" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+                              <div
+                                 class="hover:bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0 bg-gray-900 opacity-25">
+                              </div>
+                           </a>
+                        </div>
+                        <div class="px-6 py-4">
+                           <a href="#"
+                              class="font-semibold text-lg inline-block hover:text-indigo-600 transition duration-500 ease-in-out">Building an equitable budgeting process for Philadelphia Report</a>
+                           <p class="text-gray-500 text-sm">
+                             A review of contemporary practices and recommendations created by the People's Budget Working Group.
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <p></p>
+               </div>
+            </div>
+         </section>
+      </main>
+   </body>
 </html>
