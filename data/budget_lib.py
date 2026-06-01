@@ -113,7 +113,7 @@ DEPT_ALIASES = {
     "Procurement Department": "Procurement",
     "Water Department": "Water",
     "Water Department - Philadelphia Water, Sewer, and Stormwater Rate Board": "Water",
-    "Council - Veterans Advisory Commission": "City Council",
+    "Council - Veterans Advisory Commission": "City Council - Veterans Advisory Committee",
 }
 
 _JOINER_WORDS = {"of", "and", "the", "to", "for"}
@@ -222,6 +222,8 @@ def parse_general_fund(pdf_path, fiscal_years, start_page, end_page):
                         name = " ".join(dept_buffer)
                         current_dept = re.sub(r"\s*\(\d+\)\s*$", "", name).strip()
                         dept_buffer = []
+                    
+                    dept = normalize_dept(current_dept)
 
                     numbers = _gf_extract_numbers(stripped[len(matched_class):])
                     if len(numbers) >= min_numbers:
@@ -230,8 +232,8 @@ def parse_general_fund(pdf_path, fiscal_years, start_page, end_page):
                                 "label": label,
                                 "fiscal_year": year,
                                 "fund": fund,
-                                "department": current_dept,
-                                "tag_peoples_budget": tag_for(current_dept),
+                                "department": dept,
+                                "tag_peoples_budget": tag_for(dept),
                                 "class": matched_class,
                                 "total": numbers[idx],
                             })
