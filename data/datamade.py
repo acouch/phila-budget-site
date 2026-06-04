@@ -4,22 +4,22 @@ Reads every per-fiscal-year file in ``data/output`` that represents an adopted
 (or, for the latest year, proposed) budget and pivots the rows into the wide
 "budget_finished" shape the datamade visualization expects:
 
-    Function, Agency, Fund Type, FP Category, Fund, <year columns...>
+    Function, Department, Fund Type, FP Category, Fund, <year columns...>
 
 Column mapping (per source schema fiscal_year,fund,department,tag_peoples_budget,class,total):
     Function    <- tag_peoples_budget
-    Agency      <- department
+    Department      <- department
     Fund Type   <- fund
     Fund        <- fund
     FP Category <- class
 
-Each year column holds the summed ``total`` for that (Function, Agency,
+Each year column holds the summed ``total`` for that (Function, Department,
 Fund Type, FP Category, Fund) group in the corresponding fiscal year.
 
 Four trailing description columns are appended to match the datamade schema.
 Their text is looked up from ``input/datamade/descriptions.csv`` (keyed by
 Breakdown Type + Name):
-    Agency Description      <- (Agency,      Agency)
+    Department Description      <- (Department,      Department)
     Fund Description        <- (Fund,        Fund)
     FP Category Description <- (FP Category, FP Category)
     Fund Type Description   <- (Fund,        Fund Type)  # Fund Type == Fund here
@@ -53,9 +53,9 @@ YEAR_COLUMNS = [
     ("2018-19  Actuals", "FY2019-adopted.csv"),
 ]
 
-KEY_COLUMNS = ["Function", "Agency", "Fund Type", "FP Category", "Fund"]
+KEY_COLUMNS = ["Function", "Department", "Fund Type", "FP Category", "Fund"]
 DESCRIPTION_COLUMNS = [
-    "Agency Description",
+    "Department Description",
     "Fund Description",
     "FP Category Description",
     "Fund Type Description",
@@ -80,10 +80,10 @@ def load_descriptions(path):
 
 
 def group_key(row):
-    """(Function, Agency, Fund Type, FP Category, Fund) for one source row."""
+    """(Function, Department, Fund Type, FP Category, Fund) for one source row."""
     return (
         row["tag_peoples_budget"],  # Function
-        row["department"],          # Agency
+        row["department"],          # Department
         row["fund"],                # Fund Type
         row["class"],               # FP Category
         row["fund"],                # Fund
@@ -113,13 +113,13 @@ def main():
         writer.writerow(HEADER)
         # Sort for stable, readable output: by the key columns.
         for key in sorted(rows):
-            function, agency, fund_type, fp_category, fund = key
-            out = [function, agency, fund_type, fp_category, fund]
+            function, department, fund_type, fp_category, fund = key
+            out = [function, department, fund_type, fp_category, fund]
             for label, _ in YEAR_COLUMNS:
                 value = rows[key].get(label)
                 out.append("" if value is None else value)
             out.extend([
-                descriptions.get(("Agency", agency), ""),
+                descriptions.get(("Department", department), ""),
                 descriptions.get(("Fund", fund), ""),
                 descriptions.get(("FP Category", fp_category), ""),
                 descriptions.get(("Fund", fund_type), ""),
