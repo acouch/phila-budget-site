@@ -82,7 +82,7 @@ var BudgetHelpers = {
       }
 
       if ( ! BudgetHelpers.template_cache.tmpl_cache[tmpl_name] ) {
-          var tmpl_dir = '/js/templates';
+          var tmpl_dir = '/datamade/js/templates';
           var tmpl_url = tmpl_dir + '/' + tmpl_name + '.html?4';
 
           var tmpl_string;
