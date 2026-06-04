@@ -1,0 +1,17 @@
+<td>
+    <a href="javascript://" class="details">
+        <i class="fa fa-caret-right fa-lg fa-fw"></i>
+    </a>
+    &nbsp;
+    <a href="javascript://" class="details rowName"><%= model.get('rowName') %></a>
+</td>
+<td class='num estimates' name="estimates"><%= model.get('estimates') %></td>
+<td class='num estimates' name="est_perc"><%= model.get('est_perc') %></td>
+<td class='num actuals' name="actuals"><%= model.get('actuals') %></td>
+<td class='num actuals' name="actual_perc"><%= model.get('actual_perc') %></td>
+<td>
+    <div class="bars">
+        <span class="estimates outer" name="est_perc_bar" style="width: <%= model.get('est_perc_bar') %>;"></span>
+        <span class="actuals inner" name="actual_perc_bar" style="width: <%= model.get('actual_perc_bar') %>;"></span>
+    </div>
+</td>
