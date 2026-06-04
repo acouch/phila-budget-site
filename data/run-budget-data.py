@@ -4,6 +4,7 @@ import subprocess
 import sys
 from pathlib import Path
 
+import datamade
 from budget_lib import DEFAULT_TAG, TAGGING_YML, load_peoples_budget_tags
 
 HERE = Path(__file__).resolve().parent
@@ -147,6 +148,9 @@ def main():
     print(f"\nLoaded {len(dept_tags)} department tags from {TAGGING_YML.name}")
     for input_csv, output_csv in PIVOTS:
         create_pivot(input_csv, output_csv, dept_tags)
+
+    print("\n=== Building datamade budget_finished.csv ===")
+    datamade.main()
 
 
 if __name__ == "__main__":
