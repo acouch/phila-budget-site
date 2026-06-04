@@ -30,8 +30,8 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2024,General Fund,Commerce,Commercial Corridors & Small Businesses,Purchase of Services,10079353
 2024,General Fund,Commerce,Commercial Corridors & Small Businesses,"Materials, Supplies & Equip.",26654
 2024,General Fund,Commerce,Commercial Corridors & Small Businesses,"Contrib., Indemnities & Taxes",805000
-2024,General Fund,Commerce-Convention Center Subsidy,Commercial Corridors & Small Businesses,Purchase of Services,15000000
-2024,General Fund,Commerce-Economic Stimulus,Commercial Corridors & Small Businesses,Purchase of Services,23114490
+2024,General Fund,Commerce - Convention Center Subsidy,Government Operations,Purchase of Services,15000000
+2024,General Fund,Commerce - Economic Stimulus,Government Operations,Purchase of Services,23114490
 2024,General Fund,District Attorney,Courts & the Justice System,Personal Services,49912929
 2024,General Fund,District Attorney,Courts & the Justice System,Purchase of Services,3373866
 2024,General Fund,District Attorney,Courts & the Justice System,"Materials, Supplies & Equip.",832275
@@ -42,15 +42,15 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2024,General Fund,Finance,Government Operations,"Contrib., Indemnities & Taxes",40467000
 2024,General Fund,Finance,Government Operations,Payments to Other Funds,94172698
 2024,General Fund,Finance,Government Operations,Advances and Other Misc. Payments,0
-2024,General Fund,Finance-Budget Stabilization,Government Operations,Payments to Other Funds,42261000
-2024,General Fund,Finance-Community College Subsidy,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",61003181
-2024,General Fund,Finance-Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,1625487164
-2024,General Fund,Finance-Hero Scholarship Awards,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",50000
-2024,General Fund,Finance-Indemnities,Government Operations,"Contrib., Indemnities & Taxes",74246000
-2024,General Fund,Finance-Reg #32,Government Operations,Personal Services,5200000
-2024,General Fund,Finance-Refunds,Government Operations,"Contrib., Indemnities & Taxes",750000
-2024,General Fund,Finance-School District Contribution,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",282052590
-2024,General Fund,Finance-Witness Fees,Government Operations,Purchase of Services,330094
+2024,General Fund,Finance - Budget Stabilization,Government Operations,Payments to Other Funds,42261000
+2024,General Fund,Finance - Community College Subsidy,Government Operations,"Contrib., Indemnities & Taxes",61003181
+2024,General Fund,Finance - Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,1625487164
+2024,General Fund,Finance - Hero Scholarship Awards,Government Operations,"Contrib., Indemnities & Taxes",50000
+2024,General Fund,Finance - Indemnities,Government Operations,"Contrib., Indemnities & Taxes",74246000
+2024,General Fund,Finance - Reg #32,Government Operations,Personal Services,5200000
+2024,General Fund,Finance - Refunds,Government Operations,"Contrib., Indemnities & Taxes",750000
+2024,General Fund,Finance - School District Contribution,Government Operations,"Contrib., Indemnities & Taxes",282052590
+2024,General Fund,Finance - Witness Fees,Government Operations,Purchase of Services,330094
 2024,General Fund,Fire,Emergency Services,Personal Services,365611225
 2024,General Fund,Fire,Emergency Services,Purchase of Services,15300729
 2024,General Fund,Fire,Emergency Services,"Materials, Supplies & Equip.",13992530
@@ -63,8 +63,8 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2024,General Fund,Fleet Services,Government Operations,Purchase of Services,7430287
 2024,General Fund,Fleet Services,Government Operations,"Materials, Supplies & Equip.",29176744
 2024,General Fund,Fleet Services,Government Operations,"Contrib., Indemnities & Taxes",0
-2024,General Fund,Fleet Services -Vehicle Lease/Purch.,Government Operations,"Materials, Supplies & Equip.",30359245
-2024,General Fund,Fleet Services -Vehicle Lease/Purch.,Government Operations,Payments to Other Funds,10000000
+2024,General Fund,Fleet Services - Vehicle Lease/Purch.,Government Operations,"Materials, Supplies & Equip.",30359245
+2024,General Fund,Fleet Services - Vehicle Lease/Purch.,Government Operations,Payments to Other Funds,10000000
 2024,General Fund,Free Library,Libraries,Personal Services,59121703
 2024,General Fund,Free Library,Libraries,Purchase of Services,4299722
 2024,General Fund,Free Library,Libraries,"Materials, Supplies & Equip.",7513098
@@ -85,21 +85,21 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2024,General Fund,Licenses & Inspection,Government Operations,Personal Services,28420282
 2024,General Fund,Licenses & Inspection,Government Operations,Purchase of Services,16442394
 2024,General Fund,Licenses & Inspection,Government Operations,"Materials, Supplies & Equip.",809475
-2024,General Fund,L&I-Board of Building Standards,Government Operations,Personal Services,86609
-2024,General Fund,L&I-Board of L&I Review,Government Operations,Personal Services,172107
-2024,General Fund,L&I-Board of L&I Review,Government Operations,Purchase of Services,10436
+2024,General Fund,L&I - Board of Building Standards,Government Operations,Personal Services,86609
+2024,General Fund,L&I - Board of L&I Review,Government Operations,Personal Services,172107
+2024,General Fund,L&I - Board of L&I Review,Government Operations,Purchase of Services,10436
 2024,General Fund,Managing Director,Government Operations,Personal Services,35121256
 2024,General Fund,Managing Director,Government Operations,Purchase of Services,130193729
 2024,General Fund,Managing Director,Government Operations,"Materials, Supplies & Equip.",3299618
 2024,General Fund,Managing Director,Government Operations,"Contrib., Indemnities & Taxes",4300000
 2024,General Fund,Managing Director,Government Operations,Payments to Other Funds,617362
-2024,General Fund,Managing Director-Defenders Association,Courts & the Justice System,Purchase of Services,63997780
-2024,General Fund,Managing Director-Citizens Police Oversight Commission,Police,Personal Services,2203640
-2024,General Fund,Managing Director-Citizens Police Oversight Commission,Police,Purchase of Services,808002
-2024,General Fund,Managing Director-Citizens Police Oversight Commission,Police,"Materials, Supplies & Equip.",12000
-2024,General Fund,Managing Director-Clean & Green,Parks & Recreation,Personal Services,0
-2024,General Fund,Managing Director-Public Safety,Courts & the Justice System,Personal Services,0
-2024,General Fund,Managing Director-Public Safety,Courts & the Justice System,Purchase of Services,0
+2024,General Fund,Managing Director - Defenders Association,Government Operations,Purchase of Services,63997780
+2024,General Fund,Managing Director - Citizens Police Oversight Commission,Government Operations,Personal Services,2203640
+2024,General Fund,Managing Director - Citizens Police Oversight Commission,Government Operations,Purchase of Services,808002
+2024,General Fund,Managing Director - Citizens Police Oversight Commission,Government Operations,"Materials, Supplies & Equip.",12000
+2024,General Fund,Managing Director - Clean & Green,Government Operations,Personal Services,0
+2024,General Fund,Managing Director - Public Safety,Government Operations,Personal Services,0
+2024,General Fund,Managing Director - Public Safety,Government Operations,Purchase of Services,0
 2024,General Fund,Mayor's Office,Government Operations,Personal Services,7288872
 2024,General Fund,Mayor's Office,Government Operations,Purchase of Services,827680
 2024,General Fund,Mayor's Office,Government Operations,"Materials, Supplies & Equip.",51192
@@ -131,9 +131,9 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2024,General Fund,Office of Innovation and Technology,Government Operations,Purchase of Services,57580243
 2024,General Fund,Office of Innovation and Technology,Government Operations,"Materials, Supplies & Equip.",5569423
 2024,General Fund,Office of Innovation and Technology,Government Operations,"Contrib., Indemnities & Taxes",0
-2024,General Fund,Office of Innovation and Technology-911,Emergency Services,Personal Services,1608732
-2024,General Fund,Office of Innovation and Technology-911,Emergency Services,Purchase of Services,22182390
-2024,General Fund,Office of Innovation and Technology-911,Emergency Services,"Materials, Supplies & Equip.",8064399
+2024,General Fund,Office of Innovation and Technology - 911,Government Operations,Personal Services,1608732
+2024,General Fund,Office of Innovation and Technology - 911,Government Operations,Purchase of Services,22182390
+2024,General Fund,Office of Innovation and Technology - 911,Government Operations,"Materials, Supplies & Equip.",8064399
 2024,General Fund,Office of the Inspector General,Government Operations,Personal Services,2213188
 2024,General Fund,Office of the Inspector General,Government Operations,Purchase of Services,124695
 2024,General Fund,Office of the Inspector General,Government Operations,"Materials, Supplies & Equip.",8665
@@ -175,9 +175,9 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2024,General Fund,Public Property,Government Operations,"Materials, Supplies & Equip.",1905461
 2024,General Fund,Public Property,Government Operations,"Contrib., Indemnities & Taxes",0
 2024,General Fund,Public Property,Government Operations,Payments to Other Funds,31367327
-2024,General Fund,Public Property-SEPTA Subsidy,Public Transit,Purchase of Services,109567000
-2024,General Fund,Public Property-Space Rentals,Government Operations,Purchase of Services,37923243
-2024,General Fund,Public Property-Utilities,Government Operations,Purchase of Services,31162103
+2024,General Fund,Public Property - SEPTA Subsidy,Government Operations,Purchase of Services,109567000
+2024,General Fund,Public Property - Space Rentals,Government Operations,Purchase of Services,37923243
+2024,General Fund,Public Property - Utilities,Government Operations,Purchase of Services,31162103
 2024,General Fund,Records,Government Operations,Personal Services,3616541
 2024,General Fund,Records,Government Operations,Purchase of Services,804122
 2024,General Fund,Records,Government Operations,"Materials, Supplies & Equip.",297488
@@ -195,7 +195,7 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2024,General Fund,Sheriff,Courts & the Justice System,"Contrib., Indemnities & Taxes",0
 2024,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Purchase of Services,122585099
 2024,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Debt Service,201632422
-2024,General Fund,Streets-Disposal,Government Operations,Purchase of Services,55178274
+2024,General Fund,Streets - Disposal,Government Operations,Purchase of Services,55178274
 2024,General Fund,Streets,Streets,Personal Services,89659505
 2024,General Fund,Streets,Streets,Purchase of Services,2219616
 2024,General Fund,Streets,Streets,"Materials, Supplies & Equip.",50591954

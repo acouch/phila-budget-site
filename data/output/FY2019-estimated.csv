@@ -35,8 +35,8 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2019,General Fund,Commerce,Commercial Corridors & Small Businesses,Purchase of Services,3844185
 2019,General Fund,Commerce,Commercial Corridors & Small Businesses,"Materials, Supplies & Equip.",26654
 2019,General Fund,Commerce,Commercial Corridors & Small Businesses,"Contrib., Indemnities & Taxes",500000
-2019,General Fund,Commerce-Convention Center Subsidy,Commercial Corridors & Small Businesses,Purchase of Services,15000000
-2019,General Fund,Commerce-Economic Stimulus,Commercial Corridors & Small Businesses,Purchase of Services,1242883
+2019,General Fund,Commerce - Convention Center Subsidy,Government Operations,Purchase of Services,15000000
+2019,General Fund,Commerce - Economic Stimulus,Government Operations,Purchase of Services,1242883
 2019,General Fund,District Attorney,Courts & the Justice System,Personal Services,36608378
 2019,General Fund,District Attorney,Courts & the Justice System,Purchase of Services,3494296
 2019,General Fund,District Attorney,Courts & the Justice System,"Materials, Supplies & Equip.",1729521
@@ -47,15 +47,15 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2019,General Fund,Finance,Government Operations,"Contrib., Indemnities & Taxes",4525000
 2019,General Fund,Finance,Government Operations,Payments to Other Funds,56189704
 2019,General Fund,Finance,Government Operations,Advances and Other Misc. Payments,53573000
-2019,General Fund,Finance-Budget Stabilization,Government Operations,Payments to Other Funds,0
-2019,General Fund,Finance-Community College Subsidy,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",32409207
-2019,General Fund,Finance-Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,1377964739
-2019,General Fund,Finance-Hero Scholarship Awards,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",25000
-2019,General Fund,Finance-Indemnities,Government Operations,"Contrib., Indemnities & Taxes",48780000
-2019,General Fund,Finance-Reg #32,Government Operations,Personal Services,2650000
-2019,General Fund,Finance-Refunds,Government Operations,"Contrib., Indemnities & Taxes",250000
-2019,General Fund,Finance-School District Contribution,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",185770541
-2019,General Fund,Finance-Witness Fees,Government Operations,Purchase of Services,171518
+2019,General Fund,Finance - Budget Stabilization,Government Operations,Payments to Other Funds,0
+2019,General Fund,Finance - Community College Subsidy,Government Operations,"Contrib., Indemnities & Taxes",32409207
+2019,General Fund,Finance - Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,1377964739
+2019,General Fund,Finance - Hero Scholarship Awards,Government Operations,"Contrib., Indemnities & Taxes",25000
+2019,General Fund,Finance - Indemnities,Government Operations,"Contrib., Indemnities & Taxes",48780000
+2019,General Fund,Finance - Reg #32,Government Operations,Personal Services,2650000
+2019,General Fund,Finance - Refunds,Government Operations,"Contrib., Indemnities & Taxes",250000
+2019,General Fund,Finance - School District Contribution,Government Operations,"Contrib., Indemnities & Taxes",185770541
+2019,General Fund,Finance - Witness Fees,Government Operations,Purchase of Services,171518
 2019,General Fund,Fire,Emergency Services,Personal Services,280369652
 2019,General Fund,Fire,Emergency Services,Purchase of Services,6892121
 2019,General Fund,Fire,Emergency Services,"Materials, Supplies & Equip.",10664314
@@ -69,8 +69,8 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2019,General Fund,Fleet Management,Government Operations,Purchase of Services,5705896
 2019,General Fund,Fleet Management,Government Operations,"Materials, Supplies & Equip.",25418211
 2019,General Fund,Fleet Management,Government Operations,"Contrib., Indemnities & Taxes",0
-2019,General Fund,Fleet Management -Vehicle Lease/Purch.,Government Operations,Purchase of Services,0
-2019,General Fund,Fleet Management -Vehicle Lease/Purch.,Government Operations,"Materials, Supplies & Equip.",14797739
+2019,General Fund,Fleet Management - Vehicle Lease/Purch.,Government Operations,Purchase of Services,0
+2019,General Fund,Fleet Management - Vehicle Lease/Purch.,Government Operations,"Materials, Supplies & Equip.",14797739
 2019,General Fund,Free Library,Libraries,Personal Services,37639135
 2019,General Fund,Free Library,Libraries,Purchase of Services,2324077
 2019,General Fund,Free Library,Libraries,"Materials, Supplies & Equip.",2302659
@@ -92,14 +92,14 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2019,General Fund,Licenses & Inspection,Government Operations,Purchase of Services,13929060
 2019,General Fund,Licenses & Inspection,Government Operations,"Materials, Supplies & Equip.",934475
 2019,General Fund,Licenses & Inspection,Government Operations,"Contrib., Indemnities & Taxes",0
-2019,General Fund,L&I-Board of Building Standards,Government Operations,Personal Services,78574
-2019,General Fund,L&I-Board of L&I Review,Government Operations,Personal Services,162284
-2019,General Fund,L&I-Board of L&I Review,Government Operations,Purchase of Services,10436
+2019,General Fund,L&I - Board of Building Standards,Government Operations,Personal Services,78574
+2019,General Fund,L&I - Board of L&I Review,Government Operations,Personal Services,162284
+2019,General Fund,L&I - Board of L&I Review,Government Operations,Purchase of Services,10436
 2019,General Fund,Managing Director,Government Operations,Personal Services,21610475
 2019,General Fund,Managing Director,Government Operations,Purchase of Services,28143378
 2019,General Fund,Managing Director,Government Operations,"Materials, Supplies & Equip.",1086392
 2019,General Fund,Managing Director,Government Operations,"Contrib., Indemnities & Taxes",0
-2019,General Fund,Managing Director-Legal Services,Government Operations,Purchase of Services,51574391
+2019,General Fund,Managing Director - Legal Services,Government Operations,Purchase of Services,51574391
 2019,General Fund,Mayor's Office,Government Operations,Personal Services,4817851
 2019,General Fund,Mayor's Office,Government Operations,Purchase of Services,682465
 2019,General Fund,Mayor's Office,Government Operations,"Materials, Supplies & Equip.",27841
@@ -133,9 +133,9 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2019,General Fund,Office of Innovation and Technology,Government Operations,Purchase of Services,40150610
 2019,General Fund,Office of Innovation and Technology,Government Operations,"Materials, Supplies & Equip.",5884500
 2019,General Fund,Office of Innovation and Technology,Government Operations,"Contrib., Indemnities & Taxes",0
-2019,General Fund,Office of Innovation and Technology-911,Emergency Services,Personal Services,1059768
-2019,General Fund,Office of Innovation and Technology-911,Emergency Services,Purchase of Services,26354703
-2019,General Fund,Office of Innovation and Technology-911,Emergency Services,"Materials, Supplies & Equip.",8064399
+2019,General Fund,Office of Innovation and Technology - 911,Government Operations,Personal Services,1059768
+2019,General Fund,Office of Innovation and Technology - 911,Government Operations,Purchase of Services,26354703
+2019,General Fund,Office of Innovation and Technology - 911,Government Operations,"Materials, Supplies & Equip.",8064399
 2019,General Fund,Office of the Inspector General,Government Operations,Personal Services,1577241
 2019,General Fund,Office of the Inspector General,Government Operations,Purchase of Services,97975
 2019,General Fund,Office of the Inspector General,Government Operations,"Materials, Supplies & Equip.",5225
@@ -176,9 +176,9 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2019,General Fund,Public Property,Government Operations,"Materials, Supplies & Equip.",1435535
 2019,General Fund,Public Property,Government Operations,"Contrib., Indemnities & Taxes",0
 2019,General Fund,Public Property,Government Operations,Payments to Other Funds,27678994
-2019,General Fund,Public Property-SEPTA Subsidy,Public Transit,Purchase of Services,84608000
-2019,General Fund,Public Property-Space Rentals,Government Operations,Purchase of Services,22457948
-2019,General Fund,Public Property-Utilities,Government Operations,Purchase of Services,25008269
+2019,General Fund,Public Property - SEPTA Subsidy,Government Operations,Purchase of Services,84608000
+2019,General Fund,Public Property - Space Rentals,Government Operations,Purchase of Services,22457948
+2019,General Fund,Public Property - Utilities,Government Operations,Purchase of Services,25008269
 2019,General Fund,Records,Government Operations,Personal Services,3142762
 2019,General Fund,Records,Government Operations,Purchase of Services,1448779
 2019,General Fund,Records,Government Operations,"Materials, Supplies & Equip.",233758
@@ -196,7 +196,7 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2019,General Fund,Sheriff,Courts & the Justice System,"Contrib., Indemnities & Taxes",0
 2019,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Purchase of Services,125536378
 2019,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Debt Service,169496126
-2019,General Fund,Streets-Disposal,Government Operations,Purchase of Services,42440785
+2019,General Fund,Streets - Disposal,Government Operations,Purchase of Services,42440785
 2019,General Fund,Streets,Streets,Personal Services,85085552
 2019,General Fund,Streets,Streets,Purchase of Services,11502129
 2019,General Fund,Streets,Streets,"Materials, Supplies & Equip.",7638104

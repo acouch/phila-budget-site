@@ -39,8 +39,8 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2019,General Fund,Commerce,Commercial Corridors & Small Businesses,Purchase of Services,3366925
 2019,General Fund,Commerce,Commercial Corridors & Small Businesses,"Materials, Supplies & Equip.",26654
 2019,General Fund,Commerce,Commercial Corridors & Small Businesses,"Contrib., Indemnities & Taxes",500000
-2019,General Fund,Commerce-Convention Center Subsidy,Commercial Corridors & Small Businesses,Purchase of Services,15000000
-2019,General Fund,Commerce-Economic Stimulus,Commercial Corridors & Small Businesses,Purchase of Services,2397004
+2019,General Fund,Commerce - Convention Center Subsidy,Government Operations,Purchase of Services,15000000
+2019,General Fund,Commerce - Economic Stimulus,Government Operations,Purchase of Services,2397004
 2019,General Fund,District Attorney,Courts & the Justice System,Personal Services,37168476
 2019,General Fund,District Attorney,Courts & the Justice System,Purchase of Services,4094296
 2019,General Fund,District Attorney,Courts & the Justice System,"Materials, Supplies & Equip.",529521
@@ -51,14 +51,14 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2019,General Fund,Finance,Government Operations,"Contrib., Indemnities & Taxes",4525000
 2019,General Fund,Finance,Government Operations,Payments to Other Funds,8366704
 2019,General Fund,Finance,Government Operations,Advances and Other Misc. Payments,54573000
-2019,General Fund,Finance-Community College Subsidy,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",32409207
-2019,General Fund,Finance-Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,1360238207
-2019,General Fund,Finance-Hero Scholarship Awards,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",25000
-2019,General Fund,Finance-Indemnities,Government Operations,"Contrib., Indemnities & Taxes",48780000
-2019,General Fund,Finance-Reg #32,Government Operations,Personal Services,2650000
-2019,General Fund,Finance-Refunds,Government Operations,"Contrib., Indemnities & Taxes",250000
-2019,General Fund,Finance-School District Contribution,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",180870541
-2019,General Fund,Finance-Witness Fees,Government Operations,Purchase of Services,171518
+2019,General Fund,Finance - Community College Subsidy,Government Operations,"Contrib., Indemnities & Taxes",32409207
+2019,General Fund,Finance - Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,1360238207
+2019,General Fund,Finance - Hero Scholarship Awards,Government Operations,"Contrib., Indemnities & Taxes",25000
+2019,General Fund,Finance - Indemnities,Government Operations,"Contrib., Indemnities & Taxes",48780000
+2019,General Fund,Finance - Reg #32,Government Operations,Personal Services,2650000
+2019,General Fund,Finance - Refunds,Government Operations,"Contrib., Indemnities & Taxes",250000
+2019,General Fund,Finance - School District Contribution,Government Operations,"Contrib., Indemnities & Taxes",180870541
+2019,General Fund,Finance - Witness Fees,Government Operations,Purchase of Services,171518
 2019,General Fund,Fire,Emergency Services,Personal Services,263307745
 2019,General Fund,Fire,Emergency Services,Purchase of Services,6046121
 2019,General Fund,Fire,Emergency Services,"Materials, Supplies & Equip.",8259314
@@ -72,8 +72,8 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2019,General Fund,Fleet Management,Government Operations,Purchase of Services,5104396
 2019,General Fund,Fleet Management,Government Operations,"Materials, Supplies & Equip.",25418211
 2019,General Fund,Fleet Management,Government Operations,"Contrib., Indemnities & Taxes",0
-2019,General Fund,Fleet Management -Vehicle Lease/Purch.,Government Operations,Purchase of Services,0
-2019,General Fund,Fleet Management -Vehicle Lease/Purch.,Government Operations,"Materials, Supplies & Equip.",14797739
+2019,General Fund,Fleet Management - Vehicle Lease/Purch.,Government Operations,Purchase of Services,0
+2019,General Fund,Fleet Management - Vehicle Lease/Purch.,Government Operations,"Materials, Supplies & Equip.",14797739
 2019,General Fund,Free Library,Libraries,Personal Services,36659781
 2019,General Fund,Free Library,Libraries,Purchase of Services,2324077
 2019,General Fund,Free Library,Libraries,"Materials, Supplies & Equip.",2302659
@@ -99,16 +99,16 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2019,General Fund,Licenses & Inspection,Government Operations,Purchase of Services,13579060
 2019,General Fund,Licenses & Inspection,Government Operations,"Materials, Supplies & Equip.",784475
 2019,General Fund,Licenses & Inspection,Government Operations,"Contrib., Indemnities & Taxes",0
-2019,General Fund,L&I-Board of Building Standards,Government Operations,Personal Services,75419
-2019,General Fund,L&I-Board of L&I Review,Government Operations,Personal Services,162284
-2019,General Fund,L&I-Board of L&I Review,Government Operations,Purchase of Services,10436
-2019,General Fund,L&I-Zoning Board of Adjustments,Government Operations,Personal Services,0
-2019,General Fund,L&I-Zoning Board of Adjustments,Government Operations,Purchase of Services,0
+2019,General Fund,L&I - Board of Building Standards,Government Operations,Personal Services,75419
+2019,General Fund,L&I - Board of L&I Review,Government Operations,Personal Services,162284
+2019,General Fund,L&I - Board of L&I Review,Government Operations,Purchase of Services,10436
+2019,General Fund,L&I - Zoning Board of Adjustments,Government Operations,Personal Services,0
+2019,General Fund,L&I - Zoning Board of Adjustments,Government Operations,Purchase of Services,0
 2019,General Fund,Managing Director,Government Operations,Personal Services,20339262
 2019,General Fund,Managing Director,Government Operations,Purchase of Services,25421862
 2019,General Fund,Managing Director,Government Operations,"Materials, Supplies & Equip.",872013
 2019,General Fund,Managing Director,Government Operations,"Contrib., Indemnities & Taxes",0
-2019,General Fund,Managing Director-Legal Services,Government Operations,Purchase of Services,50375841
+2019,General Fund,Managing Director - Legal Services,Government Operations,Purchase of Services,50375841
 2019,General Fund,Mayor's Office,Government Operations,Personal Services,4605862
 2019,General Fund,Mayor's Office,Government Operations,Purchase of Services,682465
 2019,General Fund,Mayor's Office,Government Operations,"Materials, Supplies & Equip.",27841
@@ -145,9 +145,9 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2019,General Fund,Office of Innovation and Technology,Government Operations,Purchase of Services,39750610
 2019,General Fund,Office of Innovation and Technology,Government Operations,"Materials, Supplies & Equip.",5884500
 2019,General Fund,Office of Innovation and Technology,Government Operations,"Contrib., Indemnities & Taxes",0
-2019,General Fund,Office of Innovation and Technology-911,Emergency Services,Personal Services,960906
-2019,General Fund,Office of Innovation and Technology-911,Emergency Services,Purchase of Services,26354703
-2019,General Fund,Office of Innovation and Technology-911,Emergency Services,"Materials, Supplies & Equip.",8064399
+2019,General Fund,Office of Innovation and Technology - 911,Government Operations,Personal Services,960906
+2019,General Fund,Office of Innovation and Technology - 911,Government Operations,Purchase of Services,26354703
+2019,General Fund,Office of Innovation and Technology - 911,Government Operations,"Materials, Supplies & Equip.",8064399
 2019,General Fund,Office of the Inspector General,Government Operations,Personal Services,1533111
 2019,General Fund,Office of the Inspector General,Government Operations,Purchase of Services,97975
 2019,General Fund,Office of the Inspector General,Government Operations,"Materials, Supplies & Equip.",5225
@@ -192,9 +192,9 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2019,General Fund,Public Property,Government Operations,"Materials, Supplies & Equip.",1435535
 2019,General Fund,Public Property,Government Operations,"Contrib., Indemnities & Taxes",0
 2019,General Fund,Public Property,Government Operations,Payments to Other Funds,27678994
-2019,General Fund,Public Property-SEPTA Subsidy,Public Transit,Purchase of Services,84608000
-2019,General Fund,Public Property-Space Rentals,Government Operations,Purchase of Services,22457948
-2019,General Fund,Public Property-Utilities,Government Operations,Purchase of Services,25008269
+2019,General Fund,Public Property - SEPTA Subsidy,Government Operations,Purchase of Services,84608000
+2019,General Fund,Public Property - Space Rentals,Government Operations,Purchase of Services,22457948
+2019,General Fund,Public Property - Utilities,Government Operations,Purchase of Services,25008269
 2019,General Fund,Records,Government Operations,Personal Services,3084514
 2019,General Fund,Records,Government Operations,Purchase of Services,1538779
 2019,General Fund,Records,Government Operations,"Materials, Supplies & Equip.",143758
@@ -212,189 +212,9 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2019,General Fund,Sheriff,Courts & the Justice System,"Contrib., Indemnities & Taxes",0
 2019,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Purchase of Services,125536378
 2019,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Debt Service,169496126
-2019,General Fund,Streets-Disposal,Government Operations,Purchase of Services,39490785
+2019,General Fund,Streets - Disposal,Government Operations,Purchase of Services,39490785
 2019,General Fund,Streets,Streets,Personal Services,84297081
 2019,General Fund,Streets,Streets,Purchase of Services,9698129
 2019,General Fund,Streets,Streets,"Materials, Supplies & Equip.",8442104
 2019,General Fund,Streets,Streets,"Contrib., Indemnities & Taxes",53171
 2019,General Fund,Streets,Streets,Payments to Other Funds,0
-2019,Water Fund,Office of Innovation and Technology,Government Operations,Personal Services,8003747
-2019,Water Fund,Office of Innovation and Technology,Government Operations,Purchase of Services,20930724
-2019,Water Fund,Office of Innovation and Technology,Government Operations,"Materials, Supplies & Equip.",3032350
-2019,Water Fund,Managing Director City of Philadelphia - 13 - City of Philadelphia,Government Operations,Personal Services,138550
-2019,Water Fund,Managing Director - Office of Fleet Management,Government Operations,Personal Services,3062196
-2019,Water Fund,Managing Director - Office of Fleet Management,Government Operations,Purchase of Services,1489000
-2019,Water Fund,Managing Director - Office of Fleet Management,Government Operations,"Materials, Supplies & Equip.",4274640
-2019,Water Fund,Public Property,Government Operations,Purchase of Services,4265847
-2019,Water Fund,Water,Government Operations,Personal Services,119823412
-2019,Water Fund,Water,Government Operations,Purchase of Services,173643500
-2019,Water Fund,Water,Government Operations,"Materials, Supplies & Equip.",54083000
-2019,Water Fund,Water,Government Operations,"Contrib., Indemnities & Taxes",671000
-2019,Water Fund,Water,Government Operations,Payments to Other Funds,71000000
-2019,Water Fund,Finance-Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,138140401
-2019,Water Fund,Finance-Indemnities,Government Operations,"Contrib., Indemnities & Taxes",8500000
-2019,Water Fund,Department of Revenue City of Philadelphia - 14 - City of Philadelphia,Government Operations,Personal Services,10171000
-2019,Water Fund,Department of Revenue City of Philadelphia - 14 - City of Philadelphia,Government Operations,Purchase of Services,5059000
-2019,Water Fund,Department of Revenue City of Philadelphia - 14 - City of Philadelphia,Government Operations,"Materials, Supplies & Equip.",1429500
-2019,Water Fund,Department of Revenue City of Philadelphia - 14 - City of Philadelphia,Government Operations,"Contrib., Indemnities & Taxes",5000
-2019,Water Fund,Sinking Fund Commission (Debt Service),Government Operations,Debt Service,212992336
-2019,Water Fund,Procurement,Government Operations,Personal Services,93093
-2019,Water Fund,Law,Government Operations,Personal Services,2506206
-2019,Water Fund,Law,Government Operations,Purchase of Services,691614
-2019,Water Fund,Law,Government Operations,"Materials, Supplies & Equip.",43010
-2019,Water Fund,Office of Sustainability,Government Operations,Personal Services,63874
-2019,Water Fund,Office of Sustainability,Government Operations,Purchase of Services,30000
-2019,Water Fund,Water,Government Operations,Personal Services,40000
-2019,Water Fund,Water,Government Operations,Purchase of Services,500000
-2019,Water Fund,Water,Government Operations,"Materials, Supplies & Equip.",25000
-2019,Water Residual Fund,Water,Government Operations,Payments to Other Funds,37000000
-2019,County Liquid Fuels Tax Fund,Streets,Streets,Personal Services,3734000
-2019,County Liquid Fuels Tax Fund,Streets,Streets,Purchase of Services,3320330
-2019,County Liquid Fuels Tax Fund,Streets,Streets,"Materials, Supplies & Equip.",200000
-2019,County Liquid Fuels Tax Fund,Streets,Streets,Payments to Other Funds,18670
-2019,Special Gasoline Tax Fund,Streets,Streets,Personal Services,6794388
-2019,Special Gasoline Tax Fund,Streets,Streets,Purchase of Services,16729343
-2019,Special Gasoline Tax Fund,Streets,Streets,"Materials, Supplies & Equip.",12386269
-2019,Special Gasoline Tax Fund,Streets,Streets,Payments to Other Funds,30000
-2019,Special Gasoline Tax Fund,Finance-Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,1000000
-2019,Healthchoices Behavioral Health Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,Personal Services,800000
-2019,Healthchoices Behavioral Health Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,Purchase of Services,1299100000
-2019,Healthchoices Behavioral Health Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,Payments to Other Funds,100000
-2019,Hotel Room Rental Tax Fund,Commerce,Commercial Corridors & Small Businesses,"Contrib., Indemnities & Taxes",73868000
-2019,Grants Revenue Fund,City Council,Government Operations,Personal Services,100000
-2019,Grants Revenue Fund,City Council,Government Operations,Purchase of Services,75000
-2019,Grants Revenue Fund,City Council,Government Operations,"Materials, Supplies & Equip.",30000
-2019,Grants Revenue Fund,City Council,Government Operations,"Contrib., Indemnities & Taxes",100
-2019,Grants Revenue Fund,City Council,Government Operations,Payments to Other Funds,100
-2019,Grants Revenue Fund,City Council,Government Operations,Advances and Other Misc. Payments,100
-2019,Grants Revenue Fund,Office of Innovation and Technology,Government Operations,Personal Services,231290
-2019,Grants Revenue Fund,Office of Innovation and Technology,Government Operations,Purchase of Services,958019
-2019,Grants Revenue Fund,Office of Innovation and Technology,Government Operations,Payments to Other Funds,55038238
-2019,Grants Revenue Fund,Mayor City of Philadelphia - 17 - City of Philadelphia,Government Operations,Personal Services,837663
-2019,Grants Revenue Fund,Mayor City of Philadelphia - 17 - City of Philadelphia,Government Operations,Pers. Svcs.-Emp.Benefits,64080
-2019,Grants Revenue Fund,Mayor City of Philadelphia - 17 - City of Philadelphia,Government Operations,Purchase of Services,11473
-2019,Grants Revenue Fund,Mayor City of Philadelphia - 17 - City of Philadelphia,Government Operations,"Materials, Supplies & Equip.",1969
-2019,Grants Revenue Fund,Office of Community Empowerment and Opportunity,Immigration Services,Personal Services,2399073
-2019,Grants Revenue Fund,Office of Community Empowerment and Opportunity,Immigration Services,Pers. Svcs.-Emp.Benefits,429391
-2019,Grants Revenue Fund,Office of Community Empowerment and Opportunity,Immigration Services,Purchase of Services,15646220
-2019,Grants Revenue Fund,Office of Community Empowerment and Opportunity,Immigration Services,"Materials, Supplies & Equip.",70540
-2019,Grants Revenue Fund,Mayor - Office of the Chief Administrative Officer,Government Operations,Personal Services,102307
-2019,Grants Revenue Fund,Office of Education,Schools & Early Childhood Education,Personal Services,76667
-2019,Grants Revenue Fund,Office of Education,Schools & Early Childhood Education,Pers. Svcs.-Emp.Benefits,34063
-2019,Grants Revenue Fund,Office of Education,Schools & Early Childhood Education,Purchase of Services,189630
-2019,Grants Revenue Fund,Office of Education,Schools & Early Childhood Education,"Materials, Supplies & Equip.",1500
-2019,Grants Revenue Fund,Managing Director,Government Operations,Personal Services,3293207
-2019,Grants Revenue Fund,Managing Director,Government Operations,Purchase of Services,5847251
-2019,Grants Revenue Fund,Managing Director,Government Operations,"Materials, Supplies & Equip.",410089
-2019,Grants Revenue Fund,Police Department City of Philadelphia - 18 - City of Philadelphia,Government Operations,Personal Services,3861903
-2019,Grants Revenue Fund,Police Department City of Philadelphia - 18 - City of Philadelphia,Government Operations,Pers. Svcs.-Emp.Benefits,384114
-2019,Grants Revenue Fund,Police Department City of Philadelphia - 18 - City of Philadelphia,Government Operations,Purchase of Services,4356842
-2019,Grants Revenue Fund,Police Department City of Philadelphia - 18 - City of Philadelphia,Government Operations,"Materials, Supplies & Equip.",7143170
-2019,Grants Revenue Fund,Streets,Streets,Personal Services,1355000
-2019,Grants Revenue Fund,Streets,Streets,Purchase of Services,16540000
-2019,Grants Revenue Fund,Streets,Streets,"Materials, Supplies & Equip.",5884000
-2019,Grants Revenue Fund,Fire,Emergency Services,Personal Services,11241685
-2019,Grants Revenue Fund,Fire,Emergency Services,Pers. Svcs.-Emp.Benefits,1145012
-2019,Grants Revenue Fund,Fire,Emergency Services,Purchase of Services,5445189
-2019,Grants Revenue Fund,Fire,Emergency Services,"Materials, Supplies & Equip.",2313262
-2019,Grants Revenue Fund,Public Health,Public Health Centers,Personal Services,19043038
-2019,Grants Revenue Fund,Public Health,Public Health Centers,Pers. Svcs.-Emp.Benefits,4297637
-2019,Grants Revenue Fund,Public Health,Public Health Centers,Purchase of Services,107060965
-2019,Grants Revenue Fund,Public Health,Public Health Centers,"Materials, Supplies & Equip.",22930926
-2019,Grants Revenue Fund,Public Health,Public Health Centers,Payments to Other Funds,879732
-2019,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,Personal Services,17132274
-2019,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,Pers. Svcs.-Emp.Benefits,8070519
-2019,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,Purchase of Services,246507560
-2019,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,"Materials, Supplies & Equip.",250000
-2019,Grants Revenue Fund,Office of Behavioral Health and Intellectual disAbility,Mental Health & Substance Use Services,Payments to Other Funds,84707
-2019,Grants Revenue Fund,Parks and Recreation,Parks & Recreation,Personal Services,3337979
-2019,Grants Revenue Fund,Parks and Recreation,Parks & Recreation,Pers. Svcs.-Emp.Benefits,592471
-2019,Grants Revenue Fund,Parks and Recreation,Parks & Recreation,Purchase of Services,1937709
-2019,Grants Revenue Fund,Parks and Recreation,Parks & Recreation,"Materials, Supplies & Equip.",7346383
-2019,Grants Revenue Fund,Human Services,Youth Services,Personal Services,81613995
-2019,Grants Revenue Fund,Human Services,Youth Services,Pers. Svcs.-Emp.Benefits,38485241
-2019,Grants Revenue Fund,Human Services,Youth Services,Purchase of Services,484484329
-2019,Grants Revenue Fund,Human Services,Youth Services,"Materials, Supplies & Equip.",3929155
-2019,Grants Revenue Fund,Office of Homeless Services,Housing & Homeless Services,Personal Services,1805966
-2019,Grants Revenue Fund,Office of Homeless Services,Housing & Homeless Services,Purchase of Services,41873415
-2019,Grants Revenue Fund,Office of Homeless Services,Housing & Homeless Services,"Materials, Supplies & Equip.",1021376
-2019,Grants Revenue Fund,Finance,Government Operations,Advances and Other Misc. Payments,250000678
-2019,Grants Revenue Fund,Revenue,Government Operations,Purchase of Services,26425000
-2019,Grants Revenue Fund,Procurement Department City of Philadelphia - 20 - City of Philadelphia,Government Operations,Purchase of Services,3000
-2019,Grants Revenue Fund,Commerce,Commercial Corridors & Small Businesses,Purchase of Services,10000000
-2019,Grants Revenue Fund,Law,Government Operations,Purchase of Services,200000
-2019,Grants Revenue Fund,Office of Sustainability,Government Operations,Personal Services,50000
-2019,Grants Revenue Fund,Office of Sustainability,Government Operations,Purchase of Services,168673
-2019,Grants Revenue Fund,Free Library,Libraries,Personal Services,1144106
-2019,Grants Revenue Fund,Free Library,Libraries,Pers. Svcs.-Emp.Benefits,128255
-2019,Grants Revenue Fund,Free Library,Libraries,Purchase of Services,4040285
-2019,Grants Revenue Fund,Free Library,Libraries,"Materials, Supplies & Equip.",3301157
-2019,Grants Revenue Fund,Auditing (City Controller),Government Operations,Purchase of Services,200000
-2019,Grants Revenue Fund,Register of Wills,Government Operations,"Materials, Supplies & Equip.",200000
-2019,Grants Revenue Fund,District Attorney,Courts & the Justice System,Personal Services,9504069
-2019,Grants Revenue Fund,District Attorney,Courts & the Justice System,Pers. Svcs.-Emp.Benefits,645000
-2019,Grants Revenue Fund,District Attorney,Courts & the Justice System,Purchase of Services,4421800
-2019,Grants Revenue Fund,District Attorney,Courts & the Justice System,"Materials, Supplies & Equip.",2281160
-2019,Grants Revenue Fund,Planning and Development,Housing & Homeless Services,Personal Services,90000
-2019,Grants Revenue Fund,Planning and Development,Housing & Homeless Services,Purchase of Services,56168222
-2019,Grants Revenue Fund,City Commissioners,Government Operations,Personal Services,125000
-2019,Grants Revenue Fund,City Commissioners,Government Operations,Purchase of Services,600000
-2019,Grants Revenue Fund,City Commissioners,Government Operations,"Materials, Supplies & Equip.",200000
-2019,Grants Revenue Fund,First Judicial District,Courts & the Justice System,Personal Services,28700216
-2019,Grants Revenue Fund,First Judicial District,Courts & the Justice System,Pers. Svcs.-Emp.Benefits,14703283
-2019,Grants Revenue Fund,First Judicial District,Courts & the Justice System,Purchase of Services,6334462
-2019,Grants Revenue Fund,First Judicial District,Courts & the Justice System,"Materials, Supplies & Equip.",2388110
-2019,Aviation Fund,Office of Innovation and Technology,Government Operations,Personal Services,940000
-2019,Aviation Fund,Office of Innovation and Technology,Government Operations,Purchase of Services,1223089
-2019,Aviation Fund,Managing Director - Office of Fleet Management,Government Operations,Personal Services,1514839
-2019,Aviation Fund,Managing Director - Office of Fleet Management,Government Operations,Purchase of Services,588000
-2019,Aviation Fund,Managing Director - Office of Fleet Management,Government Operations,"Materials, Supplies & Equip.",1493000
-2019,Aviation Fund,Managing Director - Office of Fleet Management - Vehicle Purchase,Government Operations,"Materials, Supplies & Equip.",4800000
-2019,Aviation Fund,Police,Police,Personal Services,16961237
-2019,Aviation Fund,Police,Police,Purchase of Services,77500
-2019,Aviation Fund,Police,Police,"Materials, Supplies & Equip.",93000
-2019,Aviation Fund,Fire,Emergency Services,Personal Services,8161574
-2019,Aviation Fund,Fire,Emergency Services,Purchase of Services,15000
-2019,Aviation Fund,Fire,Emergency Services,"Materials, Supplies & Equip.",155900
-2019,Aviation Fund,Fire,Emergency Services,Payments to Other Funds,23000
-2019,Aviation Fund,Public Property-Utilities,Government Operations,Purchase of Services,26900000
-2019,Aviation Fund,Finance,Government Operations,Purchase of Services,4146000
-2019,Aviation Fund,Finance-Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,63950249
-2019,Aviation Fund,Finance-Indemnities,Government Operations,"Contrib., Indemnities & Taxes",2512000
-2019,Aviation Fund,Sinking Fund Commission (Debt Service),Government Operations,Debt Service,163801936
-2019,Aviation Fund,Commerce,Commercial Corridors & Small Businesses,Personal Services,51000000
-2019,Aviation Fund,Commerce,Commercial Corridors & Small Businesses,Purchase of Services,107000000
-2019,Aviation Fund,Commerce,Commercial Corridors & Small Businesses,"Materials, Supplies & Equip.",11500000
-2019,Aviation Fund,Commerce,Commercial Corridors & Small Businesses,"Contrib., Indemnities & Taxes",6300000
-2019,Aviation Fund,Commerce,Commercial Corridors & Small Businesses,Payments to Other Funds,24000000
-2019,Aviation Fund,Law,Government Operations,Personal Services,1563803
-2019,Aviation Fund,Office of Sustainability,Government Operations,Personal Services,63873
-2019,Aviation Fund,Office of Sustainability,Government Operations,Purchase of Services,30000
-2019,Community Development Fund,Planning and Development,Housing & Homeless Services,Personal Services,4708736
-2019,Community Development Fund,Planning and Development,Housing & Homeless Services,Purchase of Services,56675441
-2019,Community Development Fund,Planning and Development,Housing & Homeless Services,"Materials, Supplies & Equip.",256000
-2019,Community Development Fund,Planning and Development,Housing & Homeless Services,Payments to Other Funds,25000
-2019,Community Development Fund,Licenses & Inspection,Government Operations,Personal Services,514818
-2019,Community Development Fund,Finance-Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,4152814
-2019,Community Development Fund,Finance,Government Operations,Advances and Other Misc. Payments,20000000
-2019,Community Development Fund,Commerce,Commercial Corridors & Small Businesses,Personal Services,1140312
-2019,Community Development Fund,Commerce,Commercial Corridors & Small Businesses,Purchase of Services,8309306
-2019,Community Development Fund,Commerce,Commercial Corridors & Small Businesses,"Materials, Supplies & Equip.",3000
-2019,Community Development Fund,Law,Government Operations,Personal Services,195573
-2019,Car Rental Tax Fund,Sinking Fund Commission (Debt Service),Government Operations,Purchase of Services,7000000
-2019,Municipal Pension Fund,Sinking Fund Commission (Debt Service),Government Operations,Personal Services,4195000
-2019,Municipal Pension Fund,Sinking Fund Commission (Debt Service),Government Operations,Pers. Svcs.-Emp.Benefits,3918000
-2019,Municipal Pension Fund,Sinking Fund Commission (Debt Service),Government Operations,Purchase of Services,2194000
-2019,Municipal Pension Fund,Sinking Fund Commission (Debt Service),Government Operations,"Materials, Supplies & Equip.",165000
-2019,Municipal Pension Fund,Sinking Fund Commission (Debt Service),Government Operations,Payments to Other Funds,90000
-2019,Housing Trust Fund,Planning and Development,Housing & Homeless Services,Personal Services,1250000
-2019,Housing Trust Fund,Planning and Development,Housing & Homeless Services,Purchase of Services,38750000
-2019,Acute Care Hospital Fund,Department of Public Health City of Philadelphia - 26 - City of Philadelphia,Government Operations,Personal Services,5393408
-2019,Acute Care Hospital Fund,Department of Public Health City of Philadelphia - 26 - City of Philadelphia,Government Operations,Purchase of Services,5980000
-2019,Acute Care Hospital Fund,Department of Public Health City of Philadelphia - 26 - City of Philadelphia,Government Operations,"Materials, Supplies & Equip.",1339000
-2019,Acute Care Hospital Fund,Department of Public Health City of Philadelphia - 26 - City of Philadelphia,Government Operations,Payments to Other Funds,500000
-2019,Acute Care Hospital Fund,Public Health,Public Health Centers,Purchase of Services,149000000
-2019,Acute Care Hospital Fund,Finance,Government Operations,Personal Services,75000
-2019,Acute Care Hospital Fund,Finance-Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,267592
-2019,Acute Care Hospital Fund,Revenue,Government Operations,Personal Services,30000
-2019,Acute Care Hospital Fund,Revenue,Government Operations,"Materials, Supplies & Equip.",15000

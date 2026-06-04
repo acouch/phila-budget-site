@@ -30,8 +30,8 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2022,General Fund,Commerce,Commercial Corridors & Small Businesses,Purchase of Services,10060549
 2022,General Fund,Commerce,Commercial Corridors & Small Businesses,"Materials, Supplies & Equip.",26654
 2022,General Fund,Commerce,Commercial Corridors & Small Businesses,"Contrib., Indemnities & Taxes",500000
-2022,General Fund,Commerce-Convention Center Subsidy,Commercial Corridors & Small Businesses,Purchase of Services,15000000
-2022,General Fund,Commerce-Economic Stimulus,Commercial Corridors & Small Businesses,Purchase of Services,5834550
+2022,General Fund,Commerce - Convention Center Subsidy,Government Operations,Purchase of Services,15000000
+2022,General Fund,Commerce - Economic Stimulus,Government Operations,Purchase of Services,5834550
 2022,General Fund,District Attorney,Courts & the Justice System,Personal Services,38812427
 2022,General Fund,District Attorney,Courts & the Justice System,Purchase of Services,3343738
 2022,General Fund,District Attorney,Courts & the Justice System,"Materials, Supplies & Equip.",533417
@@ -42,15 +42,15 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2022,General Fund,Finance,Government Operations,"Contrib., Indemnities & Taxes",18069700
 2022,General Fund,Finance,Government Operations,Payments to Other Funds,11360000
 2022,General Fund,Finance,Government Operations,Advances and Other Misc. Payments,0
-2022,General Fund,Finance-Budget Stabilization,Government Operations,Payments to Other Funds,0
-2022,General Fund,Finance-Community College Subsidy,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",48128075
-2022,General Fund,Finance-Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,1504836775
-2022,General Fund,Finance-Hero Scholarship Awards,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",54000
-2022,General Fund,Finance-Indemnities,Government Operations,"Contrib., Indemnities & Taxes",49246000
-2022,General Fund,Finance-Reg #32,Government Operations,Personal Services,2293165
-2022,General Fund,Finance-Refunds,Government Operations,"Contrib., Indemnities & Taxes",250000
-2022,General Fund,Finance-School District Contribution,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",255953201
-2022,General Fund,Finance-Witness Fees,Government Operations,Purchase of Services,171518
+2022,General Fund,Finance - Budget Stabilization,Government Operations,Payments to Other Funds,0
+2022,General Fund,Finance - Community College Subsidy,Government Operations,"Contrib., Indemnities & Taxes",48128075
+2022,General Fund,Finance - Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,1504836775
+2022,General Fund,Finance - Hero Scholarship Awards,Government Operations,"Contrib., Indemnities & Taxes",54000
+2022,General Fund,Finance - Indemnities,Government Operations,"Contrib., Indemnities & Taxes",49246000
+2022,General Fund,Finance - Reg #32,Government Operations,Personal Services,2293165
+2022,General Fund,Finance - Refunds,Government Operations,"Contrib., Indemnities & Taxes",250000
+2022,General Fund,Finance - School District Contribution,Government Operations,"Contrib., Indemnities & Taxes",255953201
+2022,General Fund,Finance - Witness Fees,Government Operations,Purchase of Services,171518
 2022,General Fund,Fire,Emergency Services,Personal Services,344579456
 2022,General Fund,Fire,Emergency Services,Purchase of Services,7068143
 2022,General Fund,Fire,Emergency Services,"Materials, Supplies & Equip.",14288864
@@ -64,7 +64,7 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2022,General Fund,Fleet Services,Government Operations,Purchase of Services,5401396
 2022,General Fund,Fleet Services,Government Operations,"Materials, Supplies & Equip.",24522684
 2022,General Fund,Fleet Services,Government Operations,"Contrib., Indemnities & Taxes",0
-2022,General Fund,Fleet Services -Vehicle Lease/Purch.,Government Operations,"Materials, Supplies & Equip.",9745852
+2022,General Fund,Fleet Services - Vehicle Lease/Purch.,Government Operations,"Materials, Supplies & Equip.",9745852
 2022,General Fund,Free Library,Libraries,Personal Services,41456287
 2022,General Fund,Free Library,Libraries,Purchase of Services,2028262
 2022,General Fund,Free Library,Libraries,"Materials, Supplies & Equip.",1842128
@@ -87,18 +87,18 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2022,General Fund,Licenses & Inspection,Government Operations,Purchase of Services,13447002
 2022,General Fund,Licenses & Inspection,Government Operations,"Materials, Supplies & Equip.",809475
 2022,General Fund,Licenses & Inspection,Government Operations,"Contrib., Indemnities & Taxes",0
-2022,General Fund,L&I-Board of Building Standards,Government Operations,Personal Services,82151
-2022,General Fund,L&I-Board of L&I Review,Government Operations,Personal Services,171162
-2022,General Fund,L&I-Board of L&I Review,Government Operations,Purchase of Services,10436
+2022,General Fund,L&I - Board of Building Standards,Government Operations,Personal Services,82151
+2022,General Fund,L&I - Board of L&I Review,Government Operations,Personal Services,171162
+2022,General Fund,L&I - Board of L&I Review,Government Operations,Purchase of Services,10436
 2022,General Fund,Managing Director,Government Operations,Personal Services,34056821
 2022,General Fund,Managing Director,Government Operations,Purchase of Services,57531320
 2022,General Fund,Managing Director,Government Operations,"Materials, Supplies & Equip.",10333489
 2022,General Fund,Managing Director,Government Operations,"Contrib., Indemnities & Taxes",4000000
 2022,General Fund,Managing Director,Government Operations,Payments to Other Funds,0
-2022,General Fund,Managing Director-Legal Services,Government Operations,Purchase of Services,52404449
-2022,General Fund,Managing Director-Citizens Police Oversight Commission,Police,Personal Services,1083000
-2022,General Fund,Managing Director-Citizens Police Oversight Commission,Police,Purchase of Services,1065070
-2022,General Fund,Managing Director-Citizens Police Oversight Commission,Police,"Materials, Supplies & Equip.",2000
+2022,General Fund,Managing Director - Legal Services,Government Operations,Purchase of Services,52404449
+2022,General Fund,Managing Director - Citizens Police Oversight Commission,Government Operations,Personal Services,1083000
+2022,General Fund,Managing Director - Citizens Police Oversight Commission,Government Operations,Purchase of Services,1065070
+2022,General Fund,Managing Director - Citizens Police Oversight Commission,Government Operations,"Materials, Supplies & Equip.",2000
 2022,General Fund,Mayor's Office,Government Operations,Personal Services,5920633
 2022,General Fund,Mayor's Office,Government Operations,Purchase of Services,880260
 2022,General Fund,Mayor's Office,Government Operations,"Materials, Supplies & Equip.",31341
@@ -131,9 +131,9 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2022,General Fund,Office of Innovation and Technology,Government Operations,Purchase of Services,47630489
 2022,General Fund,Office of Innovation and Technology,Government Operations,"Materials, Supplies & Equip.",13229295
 2022,General Fund,Office of Innovation and Technology,Government Operations,"Contrib., Indemnities & Taxes",0
-2022,General Fund,Office of Innovation and Technology-911,Emergency Services,Personal Services,1341547
-2022,General Fund,Office of Innovation and Technology-911,Emergency Services,Purchase of Services,21928631
-2022,General Fund,Office of Innovation and Technology-911,Emergency Services,"Materials, Supplies & Equip.",8064399
+2022,General Fund,Office of Innovation and Technology - 911,Government Operations,Personal Services,1341547
+2022,General Fund,Office of Innovation and Technology - 911,Government Operations,Purchase of Services,21928631
+2022,General Fund,Office of Innovation and Technology - 911,Government Operations,"Materials, Supplies & Equip.",8064399
 2022,General Fund,Office of the Inspector General,Government Operations,Personal Services,1478002
 2022,General Fund,Office of the Inspector General,Government Operations,Purchase of Services,97975
 2022,General Fund,Office of the Inspector General,Government Operations,"Materials, Supplies & Equip.",5225
@@ -175,9 +175,9 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2022,General Fund,Public Property,Government Operations,"Materials, Supplies & Equip.",1338535
 2022,General Fund,Public Property,Government Operations,"Contrib., Indemnities & Taxes",0
 2022,General Fund,Public Property,Government Operations,Payments to Other Funds,25262470
-2022,General Fund,Public Property-SEPTA Subsidy,Public Transit,Purchase of Services,91214000
-2022,General Fund,Public Property-Space Rentals,Government Operations,Purchase of Services,30176234
-2022,General Fund,Public Property-Utilities,Government Operations,Purchase of Services,24875748
+2022,General Fund,Public Property - SEPTA Subsidy,Government Operations,Purchase of Services,91214000
+2022,General Fund,Public Property - Space Rentals,Government Operations,Purchase of Services,30176234
+2022,General Fund,Public Property - Utilities,Government Operations,Purchase of Services,24875748
 2022,General Fund,Records,Government Operations,Personal Services,3259750
 2022,General Fund,Records,Government Operations,Purchase of Services,758985
 2022,General Fund,Records,Government Operations,"Materials, Supplies & Equip.",143758
@@ -195,7 +195,7 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2022,General Fund,Sheriff,Courts & the Justice System,"Contrib., Indemnities & Taxes",0
 2022,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Purchase of Services,100560657
 2022,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Debt Service,192666858
-2022,General Fund,Streets-Disposal,Government Operations,Purchase of Services,55762580
+2022,General Fund,Streets - Disposal,Government Operations,Purchase of Services,55762580
 2022,General Fund,Streets,Streets,Personal Services,99590918
 2022,General Fund,Streets,Streets,Purchase of Services,5817345
 2022,General Fund,Streets,Streets,"Materials, Supplies & Equip.",14346537

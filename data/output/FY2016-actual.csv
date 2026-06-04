@@ -40,8 +40,8 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2016,General Fund,Commerce,Commercial Corridors & Small Businesses,Purchase of Services,1780385
 2016,General Fund,Commerce,Commercial Corridors & Small Businesses,"Materials, Supplies & Equip.",36603
 2016,General Fund,Commerce,Commercial Corridors & Small Businesses,"Contrib., Indemnities & Taxes",500000
-2016,General Fund,Commerce-Convention Center Subsidy,Commercial Corridors & Small Businesses,Purchase of Services,15000000
-2016,General Fund,Commerce-Economic Stimulus,Commercial Corridors & Small Businesses,Purchase of Services,3294448
+2016,General Fund,Commerce - Convention Center Subsidy,Government Operations,Purchase of Services,15000000
+2016,General Fund,Commerce - Economic Stimulus,Government Operations,Purchase of Services,3294448
 2016,General Fund,District Attorney,Courts & the Justice System,Personal Services,32810833
 2016,General Fund,District Attorney,Courts & the Justice System,Purchase of Services,2391233
 2016,General Fund,District Attorney,Courts & the Justice System,"Materials, Supplies & Equip.",491150
@@ -51,13 +51,13 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2016,General Fund,Finance,Government Operations,"Materials, Supplies & Equip.",104341
 2016,General Fund,Finance,Government Operations,"Contrib., Indemnities & Taxes",7601919
 2016,General Fund,Finance,Government Operations,Advances and Other Misc. Payments,0
-2016,General Fund,Finance-Community College Subsidy,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",30309207
-2016,General Fund,Finance-Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,1181264999
-2016,General Fund,Finance-Hero Scholarship Awards,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",18000
-2016,General Fund,Finance-Indemnities,Government Operations,"Contrib., Indemnities & Taxes",0
-2016,General Fund,Finance-Refunds,Government Operations,"Contrib., Indemnities & Taxes",0
-2016,General Fund,Finance-School District Contribution,Schools & Early Childhood Education,"Contrib., Indemnities & Taxes",104184673
-2016,General Fund,Finance-Witness Fees,Government Operations,Purchase of Services,118808
+2016,General Fund,Finance - Community College Subsidy,Government Operations,"Contrib., Indemnities & Taxes",30309207
+2016,General Fund,Finance - Employee Benefits,Government Operations,Pers. Svcs.-Emp.Benefits,1181264999
+2016,General Fund,Finance - Hero Scholarship Awards,Government Operations,"Contrib., Indemnities & Taxes",18000
+2016,General Fund,Finance - Indemnities,Government Operations,"Contrib., Indemnities & Taxes",0
+2016,General Fund,Finance - Refunds,Government Operations,"Contrib., Indemnities & Taxes",0
+2016,General Fund,Finance - School District Contribution,Government Operations,"Contrib., Indemnities & Taxes",104184673
+2016,General Fund,Finance - Witness Fees,Government Operations,Purchase of Services,118808
 2016,General Fund,Fire,Emergency Services,Personal Services,219101252
 2016,General Fund,Fire,Emergency Services,Purchase of Services,6615496
 2016,General Fund,Fire,Emergency Services,"Materials, Supplies & Equip.",9690432
@@ -71,8 +71,8 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2016,General Fund,Fleet Management,Government Operations,Purchase of Services,5150508
 2016,General Fund,Fleet Management,Government Operations,"Materials, Supplies & Equip.",22000170
 2016,General Fund,Fleet Management,Government Operations,"Contrib., Indemnities & Taxes",28006
-2016,General Fund,Fleet Management -Vehicle Lease/Purch.,Government Operations,Purchase of Services,4483192
-2016,General Fund,Fleet Management -Vehicle Lease/Purch.,Government Operations,"Materials, Supplies & Equip.",12814792
+2016,General Fund,Fleet Management - Vehicle Lease/Purch.,Government Operations,Purchase of Services,4483192
+2016,General Fund,Fleet Management - Vehicle Lease/Purch.,Government Operations,"Materials, Supplies & Equip.",12814792
 2016,General Fund,Free Library,Libraries,Personal Services,34808182
 2016,General Fund,Free Library,Libraries,Purchase of Services,2315621
 2016,General Fund,Free Library,Libraries,"Materials, Supplies & Equip.",2275393
@@ -98,16 +98,16 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2016,General Fund,Licenses & Inspection,Government Operations,Purchase of Services,10401930
 2016,General Fund,Licenses & Inspection,Government Operations,"Materials, Supplies & Equip.",1437228
 2016,General Fund,Licenses & Inspection,Government Operations,"Contrib., Indemnities & Taxes",160615
-2016,General Fund,L&I-Board of Building Standards,Government Operations,Personal Services,67890
-2016,General Fund,L&I-Board of L&I Review,Government Operations,Personal Services,139762
-2016,General Fund,L&I-Board of L&I Review,Government Operations,Purchase of Services,10436
-2016,General Fund,L&I-Zoning Board of Adjustments,Government Operations,Personal Services,326821
-2016,General Fund,L&I-Zoning Board of Adjustments,Government Operations,Purchase of Services,34541
+2016,General Fund,L&I - Board of Building Standards,Government Operations,Personal Services,67890
+2016,General Fund,L&I - Board of L&I Review,Government Operations,Personal Services,139762
+2016,General Fund,L&I - Board of L&I Review,Government Operations,Purchase of Services,10436
+2016,General Fund,L&I - Zoning Board of Adjustments,Government Operations,Personal Services,326821
+2016,General Fund,L&I - Zoning Board of Adjustments,Government Operations,Purchase of Services,34541
 2016,General Fund,Managing Director,Government Operations,Personal Services,17601829
 2016,General Fund,Managing Director,Government Operations,Purchase of Services,19040574
 2016,General Fund,Managing Director,Government Operations,"Materials, Supplies & Equip.",610965
 2016,General Fund,Managing Director,Government Operations,"Contrib., Indemnities & Taxes",205
-2016,General Fund,Managing Director-Legal Services,Government Operations,Purchase of Services,44695131
+2016,General Fund,Managing Director - Legal Services,Government Operations,Purchase of Services,44695131
 2016,General Fund,Mayor's Office,Government Operations,Personal Services,3960415
 2016,General Fund,Mayor's Office,Government Operations,Purchase of Services,950822
 2016,General Fund,Mayor's Office,Government Operations,"Materials, Supplies & Equip.",33284
@@ -127,10 +127,10 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2016,General Fund,Office of Community Empowerment and Opportunity,Immigration Services,Personal Services,90000
 2016,General Fund,Office of Community Empowerment and Opportunity,Immigration Services,Purchase of Services,835000
 2016,General Fund,Office of Community Empowerment and Opportunity,Immigration Services,"Contrib., Indemnities & Taxes",13500
-2016,General Fund,Office of Community Schools & Pre-K,Government Operations,Personal Services,0
-2016,General Fund,Office of Community Schools & Pre-K,Government Operations,Purchase of Services,0
-2016,General Fund,Office of Community Schools & Pre-K,Government Operations,"Materials, Supplies & Equip.",0
-2016,General Fund,Office of Community Schools & Pre-K,Government Operations,"Contrib., Indemnities & Taxes",0
+2016,General Fund,Office of Community Schools & Pre - K,Government Operations,Personal Services,0
+2016,General Fund,Office of Community Schools & Pre - K,Government Operations,Purchase of Services,0
+2016,General Fund,Office of Community Schools & Pre - K,Government Operations,"Materials, Supplies & Equip.",0
+2016,General Fund,Office of Community Schools & Pre - K,Government Operations,"Contrib., Indemnities & Taxes",0
 2016,General Fund,Office of Homeless Services,Housing & Homeless Services,Personal Services,8241791
 2016,General Fund,Office of Homeless Services,Housing & Homeless Services,Purchase of Services,37058057
 2016,General Fund,Office of Homeless Services,Housing & Homeless Services,"Materials, Supplies & Equip.",325044
@@ -185,9 +185,9 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2016,General Fund,Public Property,Government Operations,"Materials, Supplies & Equip.",1304121
 2016,General Fund,Public Property,Government Operations,"Contrib., Indemnities & Taxes",1197256
 2016,General Fund,Public Property,Government Operations,Payments to Other Funds,24176888
-2016,General Fund,Public Property-SEPTA Subsidy,Public Transit,Purchase of Services,74215000
-2016,General Fund,Public Property-Space Rentals,Government Operations,Purchase of Services,20228737
-2016,General Fund,Public Property-Utilities,Government Operations,Purchase of Services,31611391
+2016,General Fund,Public Property - SEPTA Subsidy,Government Operations,Purchase of Services,74215000
+2016,General Fund,Public Property - Space Rentals,Government Operations,Purchase of Services,20228737
+2016,General Fund,Public Property - Utilities,Government Operations,Purchase of Services,31611391
 2016,General Fund,Records,Government Operations,Personal Services,2943408
 2016,General Fund,Records,Government Operations,Purchase of Services,1595451
 2016,General Fund,Records,Government Operations,"Materials, Supplies & Equip.",142776
