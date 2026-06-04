@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "New developers, designers and ideator are welcome to join.",
   "scripts": {
-    "build": "parcel build --public-url='/' 'src/!(_*).ejs' 'src/charts/bubble/!(_*).ejs' src/openbudget/*.html"
+    "build": "parcel build --public-url='/' 'src/!(_*).ejs' 'src/charts/bubble/!(_*).ejs' src/openbudget/*.html && cp -r src/datamade dist/."
   },
   "staticFiles": {
     "staticPath": "src/openbudget/data",
