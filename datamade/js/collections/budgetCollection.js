@@ -249,7 +249,7 @@ app.BudgetCollection = Backbone.Collection.extend({
                     }
     
                     j['Function Slug'] = BudgetHelpers.convertToSlug(j['Function']);
-                    j['Agency Slug'] = BudgetHelpers.convertToSlug(j['Agency']);
+                    j['Department Slug'] = BudgetHelpers.convertToSlug(j['Agency']);
                     j['Fund Type Slug'] = BudgetHelpers.convertToSlug(j['Fund Type']);
                     j['FP Category Slug'] = BudgetHelpers.convertToSlug(j['FP Category']);
                     j['Fund Slug'] = BudgetHelpers.convertToSlug(j['Fund']);
@@ -268,7 +268,7 @@ app.BudgetCollection = Backbone.Collection.extend({
                     console.log(loadit);
                 }
                 self.hierarchy = {
-                    "Function": ['Function', 'Agency'],
+                    "Function": ['Function', 'Department'],
                     "Fund Type": ['Fund Type', 'Fund', 'Subfund Name'],
                     "FP Category": ['FP Category']
                 }
