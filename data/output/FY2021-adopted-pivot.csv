@@ -6,43 +6,47 @@ fiscal_year,department,tag_peoples_budget,acute_care_hospital_fund,aviation_fund
 2021,Board of Revision of Taxes,Government Operations,0,0,0,0,0,0,1043214,0,0,0,0,0,0,0,0,1043214
 2021,City Commissioners,Government Operations,0,0,0,0,0,0,12297852,350000,0,0,0,0,0,0,0,12647852
 2021,City Commissioners City of Philadelphia - 20 - City of Philadelphia,Government Operations,0,0,0,0,0,0,0,2415000,0,0,0,0,0,0,0,2415000
-2021,City Council,Government Operations,0,0,0,0,0,0,42282973,205300,0,0,0,0,0,0,0,42488273
+2021,City Council,Government Operations,0,0,0,0,0,0,42282973,0,0,0,0,0,0,0,0,42282973
+2021,City Council - Veterans Advisory Committee,Government Operations,0,0,0,0,0,0,0,205300,0,0,0,0,0,0,0,205300
 2021,City Representative,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2021,City Treasurer,Government Operations,0,0,0,0,0,0,1583938,0,0,0,0,0,0,0,0,1583938
 2021,Civil Service Commission,Government Operations,0,0,0,0,0,0,207742,0,0,0,0,0,0,0,0,207742
 2021,Commerce,Commercial Corridors & Small Businesses,0,163726534,0,0,11152625,0,3637148,10175000,0,56623000,0,0,0,0,0,245314307
-2021,Commerce-Convention Center Subsidy,Commercial Corridors & Small Businesses,0,0,0,0,0,0,15000000,0,0,0,0,0,0,0,0,15000000
-2021,Commerce-Economic Stimulus,Commercial Corridors & Small Businesses,0,0,0,0,0,0,3015000,0,0,0,0,0,0,0,0,3015000
+2021,Commerce - Convention Center Subsidy,Government Operations,0,0,0,0,0,0,15000000,0,0,0,0,0,0,0,0,15000000
+2021,Commerce - Economic Stimulus,Government Operations,0,0,0,0,0,0,3015000,0,0,0,0,0,0,0,0,3015000
 2021,Department of Parks and Recreation City of Philadelphia - 18 - City of Philadelphia,Government Operations,0,0,0,0,0,0,0,7875928,0,0,0,0,0,0,0,7875928
 2021,Director of Finance - Fringe Benefits City of Philadelphia - 15 - City of Philadelphia,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,1000000,0,0,1000000
 2021,Director of Finance - Indemnities City of Philadelphia - 13 - City of Philadelphia,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,7500000,0,7500000
 2021,District Attorney,Courts & the Justice System,0,0,0,0,0,0,33376659,16829540,0,0,0,0,0,0,0,50206199
 2021,Finance,Government Operations,75000,3146000,0,0,20000000,0,63724672,1000000000,0,0,0,0,0,0,0,1086945672
+2021,Finance - Budget Stabilization,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Finance - Community College Subsidy,Government Operations,0,0,0,0,0,0,44110159,0,0,0,0,0,0,0,0,44110159
+2021,Finance - Employee Benefits,Government Operations,0,0,0,0,0,0,1287159003,0,0,0,0,0,0,0,0,1287159003
+2021,Finance - Hero Scholarship Awards,Government Operations,0,0,0,0,0,0,25000,0,0,0,0,0,0,0,0,25000
+2021,Finance - Indemnities,Government Operations,0,0,0,0,0,0,49246000,0,0,0,0,0,0,0,0,49246000
+2021,Finance - Refunds,Government Operations,0,0,0,0,0,0,250000,0,0,0,0,0,0,0,0,250000
+2021,Finance - Reg #32,Government Operations,0,0,0,0,0,0,2650000,0,0,0,0,0,0,0,0,2650000
+2021,Finance - School District Contribution,Government Operations,0,0,0,0,0,0,252578558,0,0,0,0,0,0,0,0,252578558
+2021,Finance - Witness Fees,Government Operations,0,0,0,0,0,0,171518,0,0,0,0,0,0,0,0,171518
 2021,Finance-Budget Stabilization,Government Operations,0,0,34276000,0,0,0,0,0,0,0,0,0,0,0,0,34276000
-2021,Finance-Community College Subsidy,Schools & Early Childhood Education,0,0,0,0,0,0,44110159,0,0,0,0,0,0,0,0,44110159
-2021,Finance-Employee Benefits,Government Operations,268408,63749755,0,0,4973268,0,1287159003,0,0,0,0,0,0,135546760,0,1491697194
-2021,Finance-Hero Scholarship Awards,Schools & Early Childhood Education,0,0,0,0,0,0,25000,0,0,0,0,0,0,0,0,25000
-2021,Finance-Indemnities,Government Operations,0,2512000,0,0,0,0,49246000,0,0,0,0,0,0,0,0,51758000
-2021,Finance-Refunds,Government Operations,0,0,0,0,0,0,250000,0,0,0,0,0,0,0,0,250000
-2021,Finance-Reg #32,Government Operations,0,0,0,0,0,0,2650000,0,0,0,0,0,0,0,0,2650000
-2021,Finance-School District Contribution,Schools & Early Childhood Education,0,0,0,0,0,0,252578558,0,0,0,0,0,0,0,0,252578558
-2021,Finance-Witness Fees,Government Operations,0,0,0,0,0,0,171518,0,0,0,0,0,0,0,0,171518
+2021,Finance-Employee Benefits,Government Operations,268408,63749755,0,0,4973268,0,0,0,0,0,0,0,0,135546760,0,204538191
+2021,Finance-Indemnities,Government Operations,0,2512000,0,0,0,0,0,0,0,0,0,0,0,0,0,2512000
 2021,Fire,Emergency Services,0,8356892,0,0,0,0,315056258,31051733,0,0,0,0,0,0,0,354464883
 2021,First Judicial District,Courts & the Justice System,0,0,0,0,0,0,116036029,57295102,0,0,0,0,0,0,0,173331131
 2021,Fleet Management,Government Operations,0,0,0,0,0,0,46803724,0,0,0,0,0,0,0,0,46803724
-2021,Fleet Management -Vehicle Lease/Purch.,Government Operations,0,0,0,0,0,0,9797739,0,0,0,0,0,0,0,0,9797739
+2021,Fleet Management - Vehicle Lease/Purch.,Government Operations,0,0,0,0,0,0,9797739,0,0,0,0,0,0,0,0,9797739
 2021,Free Library,Libraries,0,0,0,0,0,0,39650733,8423500,0,0,0,0,0,0,0,48074233
 2021,Human Relations Commission,Government Operations,0,0,0,0,0,0,2422973,0,0,0,0,0,0,0,0,2422973
 2021,Human Services,Youth Services,0,0,0,0,0,0,163090633,637985995,0,0,0,0,0,0,0,801076628
-2021,L&I-Board of Building Standards,Government Operations,0,0,0,0,0,0,82018,0,0,0,0,0,0,0,0,82018
-2021,L&I-Board of L&I Review,Government Operations,0,0,0,0,0,0,176071,0,0,0,0,0,0,0,0,176071
+2021,L&I - Board of Building Standards,Government Operations,0,0,0,0,0,0,82018,0,0,0,0,0,0,0,0,82018
+2021,L&I - Board of L&I Review,Government Operations,0,0,0,0,0,0,176071,0,0,0,0,0,0,0,0,176071
 2021,Labor,Government Operations,0,0,0,0,0,0,2839104,0,0,0,0,0,0,0,0,2839104
 2021,Law,Government Operations,0,1286681,0,0,195573,0,15014106,0,0,0,0,0,0,3304958,0,19801318
 2021,Licenses & Inspection,Government Operations,0,0,0,0,490303,0,38251694,0,0,0,0,0,0,0,0,38741997
 2021,Managing Director,Government Operations,0,0,0,0,0,0,70615244,192427957,0,0,0,0,0,138550,0,263181751
+2021,Managing Director - Legal Services,Government Operations,0,0,0,0,0,0,50104181,0,0,0,0,0,0,0,0,50104181
 2021,Managing Director - Office of Fleet Management,Government Operations,0,2985617,0,0,0,0,0,0,0,0,0,0,0,8899184,0,11884801
 2021,Managing Director - Office of Fleet Management - Vehicle Purchase,Government Operations,0,1800000,0,0,0,0,0,0,0,0,0,0,0,0,0,1800000
-2021,Managing Director-Legal Services,Government Operations,0,0,0,0,0,0,50104181,0,0,0,0,0,0,0,0,50104181
 2021,Mayor,Government Operations,0,0,0,0,0,0,0,175000,0,0,0,0,0,0,0,175000
 2021,Mayor - Office of Innovation and Technology City of Philadelphia - 12 - City of Philadelphia,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,31492358,0,31492358
 2021,Mayor's Office,Government Operations,0,0,0,0,0,0,6463592,0,0,0,0,0,0,0,0,6463592
@@ -55,7 +59,7 @@ fiscal_year,department,tag_peoples_budget,acute_care_hospital_fund,aviation_fund
 2021,Office of Homeless Services,Housing & Homeless Services,0,0,0,0,0,0,44038587,80622432,0,0,0,0,0,0,0,124661019
 2021,Office of Human Resources,Government Operations,0,0,0,0,0,0,6237735,0,0,0,0,0,0,0,0,6237735
 2021,Office of Innovation and Technology,Government Operations,0,2521351,0,0,0,0,75795173,78218878,0,0,0,0,0,0,0,156535402
-2021,Office of Innovation and Technology-911,Emergency Services,0,0,0,0,0,0,53564955,0,0,0,0,0,0,0,0,53564955
+2021,Office of Innovation and Technology - 911,Government Operations,0,0,0,0,0,0,53564955,0,0,0,0,0,0,0,0,53564955
 2021,Office of Property Assessment,Government Operations,0,0,0,0,0,0,16101293,0,0,0,0,0,0,0,0,16101293
 2021,Office of Sustainability,Government Operations,0,87873,0,0,0,0,1203180,225000,0,0,0,0,0,93874,0,1609927
 2021,Office of the Chief Administrative Officer,Government Operations,0,0,0,0,0,0,6333779,0,0,0,0,0,0,0,0,6333779
@@ -68,14 +72,15 @@ fiscal_year,department,tag_peoples_budget,acute_care_hospital_fund,aviation_fund
 2021,Procurement,Government Operations,0,0,0,0,0,0,4760336,0,0,0,0,0,0,110515,0,4870851
 2021,Public Health,Public Health Centers,318527592,0,0,0,0,0,159352985,190773209,0,0,0,0,0,0,0,668653786
 2021,Public Property,Government Operations,0,0,0,0,0,0,70224341,0,0,0,0,0,0,4368565,0,74592906
-2021,Public Property-SEPTA Subsidy,Public Transit,0,0,0,0,0,0,84608000,0,0,0,0,0,0,0,0,84608000
-2021,Public Property-Space Rentals,Government Operations,0,0,0,0,0,0,25567715,0,0,0,0,0,0,0,0,25567715
-2021,Public Property-Utilities,Government Operations,0,21900000,0,0,0,0,25447623,0,0,0,0,0,0,0,0,47347623
+2021,Public Property - SEPTA Subsidy,Government Operations,0,0,0,0,0,0,84608000,0,0,0,0,0,0,0,0,84608000
+2021,Public Property - Space Rentals,Government Operations,0,0,0,0,0,0,25567715,0,0,0,0,0,0,0,0,25567715
+2021,Public Property - Utilities,Government Operations,0,0,0,0,0,0,25447623,0,0,0,0,0,0,0,0,25447623
+2021,Public Property-Utilities,Government Operations,0,21900000,0,0,0,0,0,0,0,0,0,0,0,0,0,21900000
 2021,Records,Government Operations,0,0,0,0,0,0,4004335,0,0,0,0,0,0,0,0,4004335
 2021,Register of Wills,Government Operations,0,0,0,0,0,0,4221429,200000,0,0,0,0,0,0,0,4421429
 2021,Revenue,Government Operations,45000,0,0,0,0,0,29211398,23000000,0,0,0,0,0,17646532,0,69902930
 2021,Sheriff,Courts & the Justice System,0,0,0,0,0,0,26795874,0,0,0,0,0,0,0,0,26795874
 2021,Sinking Fund Commission (Debt Service),Government Operations,0,138778094,0,7000000,0,0,282632431,0,0,0,0,12986000,0,203122357,0,644518882
 2021,Streets,Streets,0,0,0,0,0,10873000,101559775,37219000,0,0,0,0,39929000,0,0,189580775
-2021,Streets-Disposal,Government Operations,0,0,0,0,0,0,51462580,0,0,0,0,0,0,0,0,51462580
+2021,Streets - Disposal,Government Operations,0,0,0,0,0,0,51462580,0,0,0,0,0,0,0,0,51462580
 2021,Water,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,439866347,37000000,476866347

@@ -5,12 +5,13 @@ fiscal_year,department,tag_peoples_budget,acute_care_hospital_fund,aviation_fund
 2025,Board of Ethics,Government Operations,0,0,0,0,0,0,1382433,0,0,0,0,0,0,0,0,0,0,1382433
 2025,Board of Revision of Taxes,Government Operations,0,0,0,0,0,0,1147431,0,0,0,0,0,0,0,0,0,0,1147431
 2025,City Commissioners,Government Operations,0,0,0,0,0,0,33404298,8605500,0,0,0,0,0,0,0,0,0,42009798
-2025,City Council,Government Operations,0,0,0,0,0,0,25001418,205300,0,0,0,0,0,0,0,0,0,25206718
+2025,City Council,Government Operations,0,0,0,0,0,0,25001418,0,0,0,0,0,0,0,0,0,0,25001418
+2025,City Council - Veterans Advisory Committee,Government Operations,0,0,0,0,0,0,0,205300,0,0,0,0,0,0,0,0,0,205300
 2025,City Treasurer,Government Operations,0,0,0,0,0,0,5289652,0,0,0,0,0,0,0,0,2650000,0,7939652
 2025,Civil Service Commission,Government Operations,0,0,0,0,0,0,43718661,0,0,0,0,0,0,0,0,0,0,43718661
 2025,Commerce,Commercial Corridors & Small Businesses,0,0,0,0,2596615,0,13922041,30000000,0,97200000,0,0,0,0,0,0,0,143718656
-2025,Commerce-Convention Center Subsidy,Commercial Corridors & Small Businesses,0,0,0,0,0,0,15000000,0,0,0,0,0,0,0,0,0,0,15000000
-2025,Commerce-Economic Stimulus,Commercial Corridors & Small Businesses,0,0,0,0,0,0,32795294,0,0,0,0,0,0,0,0,0,0,32795294
+2025,Commerce - Convention Center Subsidy,Government Operations,0,0,0,0,0,0,15000000,0,0,0,0,0,0,0,0,0,0,15000000
+2025,Commerce - Economic Stimulus,Government Operations,0,0,0,0,0,0,32795294,0,0,0,0,0,0,0,0,0,0,32795294
 2025,Department of Planning and Development City of Philadelphia - 25 - City of Philadelphia,Government Operations,0,0,0,0,0,0,0,0,0,0,150000,0,0,0,0,0,0,150000
 2025,Department of Public Health - Office of Behavioral Health and Intellectual Disability City of Philadelphia - 16 - City of Philadelphia,Government Operations,0,0,0,0,0,0,0,0,1432581800,0,0,0,0,0,0,0,0,1432581800
 2025,Department of Public Health City of Philadelphia - 18 - City of Philadelphia,Government Operations,0,0,0,0,0,0,0,29974815,0,0,0,0,0,0,0,0,0,29974815
@@ -18,32 +19,36 @@ fiscal_year,department,tag_peoples_budget,acute_care_hospital_fund,aviation_fund
 2025,Director of Commerce City of Philadelphia - 24 - City of Philadelphia,Government Operations,0,0,0,0,26146000,0,0,0,0,0,0,0,0,0,0,0,0,26146000
 2025,District Attorney,Courts & the Justice System,0,0,0,0,0,0,54286779,28101531,0,0,0,0,0,0,0,0,0,82388310
 2025,Finance,Government Operations,75000,4800000,0,0,20000000,0,58593995,1422423938,0,0,0,0,0,0,0,0,0,1505892933
-2025,Finance-Budget Stabilization,Government Operations,0,0,100,0,0,0,58291000,0,0,0,0,0,0,0,0,0,0,58291100
-2025,Finance-Community College Subsidy,Schools & Early Childhood Education,0,0,0,0,0,0,56003181,0,0,0,0,0,0,0,0,0,0,56003181
-2025,Finance-Employee Benefits,Government Operations,285939,59875392,0,0,7457316,0,1677120077,0,0,0,0,0,0,1000000,44500921,151425922,0,1941665567
-2025,Finance-Hero Scholarship Awards,Schools & Early Childhood Education,0,0,0,0,0,0,50000,0,0,0,0,0,0,0,0,0,0,50000
-2025,Finance-Indemnities,Government Operations,0,2512000,0,0,0,0,61246000,0,0,0,0,0,0,0,0,6500000,0,70258000
-2025,Finance-Refunds,Government Operations,0,0,0,0,0,0,250000,0,0,0,0,0,0,0,0,0,0,250000
-2025,Finance-Reg #32,Government Operations,0,0,0,0,0,0,7200000,0,0,0,0,0,0,0,0,0,0,7200000
-2025,Finance-School District Contribution,Schools & Early Childhood Education,0,0,0,0,0,0,284052590,0,0,0,0,0,0,0,0,0,0,284052590
-2025,Finance-Witness Fees,Government Operations,0,0,0,0,0,0,180094,0,0,0,0,0,0,0,0,0,0,180094
+2025,Finance - Budget Stabilization,Government Operations,0,0,0,0,0,0,58291000,0,0,0,0,0,0,0,0,0,0,58291000
+2025,Finance - Community College Subsidy,Government Operations,0,0,0,0,0,0,56003181,0,0,0,0,0,0,0,0,0,0,56003181
+2025,Finance - Employee Benefits,Government Operations,0,0,0,0,0,0,1677120077,0,0,0,0,0,0,0,0,0,0,1677120077
+2025,Finance - Hero Scholarship Awards,Government Operations,0,0,0,0,0,0,50000,0,0,0,0,0,0,0,0,0,0,50000
+2025,Finance - Indemnities,Government Operations,0,0,0,0,0,0,61246000,0,0,0,0,0,0,0,0,0,0,61246000
+2025,Finance - Refunds,Government Operations,0,0,0,0,0,0,250000,0,0,0,0,0,0,0,0,0,0,250000
+2025,Finance - Reg #32,Government Operations,0,0,0,0,0,0,7200000,0,0,0,0,0,0,0,0,0,0,7200000
+2025,Finance - School District Contribution,Government Operations,0,0,0,0,0,0,284052590,0,0,0,0,0,0,0,0,0,0,284052590
+2025,Finance - Witness Fees,Government Operations,0,0,0,0,0,0,180094,0,0,0,0,0,0,0,0,0,0,180094
+2025,Finance-Budget Stabilization,Government Operations,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100
+2025,Finance-Employee Benefits,Government Operations,285939,59875392,0,0,7457316,0,0,0,0,0,0,0,0,1000000,44500921,151425922,0,264545490
+2025,Finance-Indemnities,Government Operations,0,2512000,0,0,0,0,0,0,0,0,0,0,0,0,0,6500000,0,9012000
 2025,Fire,Emergency Services,0,10873856,0,0,0,0,432093306,22970659,0,0,0,0,0,0,0,0,0,465937821
 2025,First Judicial District,Courts & the Justice System,0,0,0,0,0,0,129901368,52874819,0,0,0,0,0,0,0,0,0,182776187
 2025,Fleet Services,Government Operations,0,3555604,0,0,0,0,52312815,0,0,0,0,0,0,0,0,9237357,0,65105776
-2025,Fleet Services -Vehicle Lease/Purch.,Government Operations,0,3000000,0,0,0,0,6047245,0,0,0,0,0,0,0,0,0,0,9047245
+2025,Fleet Services - Vehicle Lease/Purch.,Government Operations,0,0,0,0,0,0,6047245,0,0,0,0,0,0,0,0,0,0,6047245
+2025,Fleet Services -Vehicle Lease/Purch.,Government Operations,0,3000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3000000
 2025,Free Library,Libraries,0,0,0,0,0,0,71703640,13370094,0,0,0,0,0,0,0,0,0,85073734
 2025,Human Relations Commission,Government Operations,0,0,0,0,0,0,2758676,0,0,0,0,0,0,0,0,0,0,2758676
 2025,Human Services,Youth Services,0,0,0,0,0,0,222404818,707322622,0,0,0,0,0,0,0,0,0,929727440
-2025,L&I-Board of Building Standards,Government Operations,0,0,0,0,0,0,86609,0,0,0,0,0,0,0,0,0,0,86609
-2025,L&I-Board of L&I Review,Government Operations,0,0,0,0,0,0,182543,0,0,0,0,0,0,0,0,0,0,182543
+2025,L&I - Board of Building Standards,Government Operations,0,0,0,0,0,0,86609,0,0,0,0,0,0,0,0,0,0,86609
+2025,L&I - Board of L&I Review,Government Operations,0,0,0,0,0,0,182543,0,0,0,0,0,0,0,0,0,0,182543
 2025,Labor,Government Operations,0,0,0,0,0,0,4653592,0,0,0,0,0,0,0,0,0,0,4653592
 2025,Law,Government Operations,0,1652749,0,0,195573,0,29701870,0,0,0,0,0,0,0,0,4215719,0,35765911
 2025,Licenses & Inspection,Government Operations,0,0,0,0,490303,0,43226201,0,0,0,0,0,1000000,0,0,0,0,44716504
 2025,Managing Director,Government Operations,0,0,0,0,0,0,177556197,35770024,0,0,0,0,0,0,0,138550,0,213464771
-2025,Managing Director-Citizens Police Oversight Commission,Police,0,0,0,0,0,0,3023642,0,0,0,0,0,0,0,0,0,0,3023642
-2025,Managing Director-Clean & Green,Parks & Recreation,0,0,0,0,0,0,1055000,0,0,0,0,0,0,0,0,0,0,1055000
-2025,Managing Director-Defenders Association,Courts & the Justice System,0,0,0,0,0,0,65997780,0,0,0,0,0,0,0,0,0,0,65997780
-2025,Managing Director-Public Safety,Courts & the Justice System,0,0,0,0,0,0,13384101,0,0,0,0,0,0,0,0,0,0,13384101
+2025,Managing Director - Citizens Police Oversight Commission,Government Operations,0,0,0,0,0,0,3023642,0,0,0,0,0,0,0,0,0,0,3023642
+2025,Managing Director - Clean & Green,Government Operations,0,0,0,0,0,0,1055000,0,0,0,0,0,0,0,0,0,0,1055000
+2025,Managing Director - Defenders Association,Government Operations,0,0,0,0,0,0,65997780,0,0,0,0,0,0,0,0,0,0,65997780
+2025,Managing Director - Public Safety,Government Operations,0,0,0,0,0,0,13384101,0,0,0,0,0,0,0,0,0,0,13384101
 2025,Mayor - Office of Community Empowerment and Opportunity City of Philadelphia - 17 - City of Philadelphia,Government Operations,0,0,0,0,0,0,0,85409,0,0,0,0,0,0,0,0,0,85409
 2025,Mayor's Office,Government Operations,0,0,0,0,0,0,15275533,0,0,0,0,0,0,0,0,0,0,15275533
 2025,Mayor's Office - Scholarships,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -55,7 +60,7 @@ fiscal_year,department,tag_peoples_budget,acute_care_hospital_fund,aviation_fund
 2025,Office of Homeless Services,Housing & Homeless Services,0,0,0,0,0,0,88714379,49513698,0,0,0,0,0,0,0,0,0,138228077
 2025,Office of Human Resources,Government Operations,0,0,0,0,0,0,10376056,0,0,0,0,0,0,0,0,0,0,10376056
 2025,Office of Innovation and Technology,Government Operations,0,3960098,0,0,0,0,107622232,48251544,0,0,0,0,0,0,0,43448986,0,203282860
-2025,Office of Innovation and Technology-911,Emergency Services,0,0,0,0,0,0,27840014,0,0,0,0,0,0,0,0,0,0,27840014
+2025,Office of Innovation and Technology - 911,Government Operations,0,0,0,0,0,0,27840014,0,0,0,0,0,0,0,0,0,0,27840014
 2025,Office of Property Assessment,Government Operations,0,0,0,0,0,0,18310182,0,0,0,0,0,0,0,0,0,0,18310182
 2025,Office of Sustainability,Government Operations,0,110873,0,0,0,0,2450013,5256197,0,0,0,0,0,0,0,182874,0,7999957
 2025,Office of the Chief Administrative Officer,Government Operations,0,0,0,0,0,0,20225522,0,0,0,0,0,0,0,0,0,0,20225522
@@ -67,15 +72,16 @@ fiscal_year,department,tag_peoples_budget,acute_care_hospital_fund,aviation_fund
 2025,Procurement,Government Operations,0,0,0,0,0,0,6769498,0,0,0,0,0,0,0,0,112870,0,6882368
 2025,Public Health,Public Health Centers,255436061,0,0,0,0,0,151826661,480999883,0,0,0,0,0,0,0,0,0,888262605
 2025,Public Property,Government Operations,0,0,0,0,0,0,88063779,0,0,0,0,0,0,0,0,5494744,0,93558523
-2025,Public Property-SEPTA Subsidy,Public Transit,0,0,0,0,0,0,133291440,0,0,0,0,0,0,0,0,0,0,133291440
-2025,Public Property-Space Rentals,Government Operations,0,0,0,0,0,0,40038929,0,0,0,0,0,0,0,0,0,0,40038929
-2025,Public Property-Utilities,Government Operations,0,17500000,0,0,0,0,26276250,0,0,0,0,0,0,0,0,0,0,43776250
+2025,Public Property - SEPTA Subsidy,Government Operations,0,0,0,0,0,0,133291440,0,0,0,0,0,0,0,0,0,0,133291440
+2025,Public Property - Space Rentals,Government Operations,0,0,0,0,0,0,40038929,0,0,0,0,0,0,0,0,0,0,40038929
+2025,Public Property - Utilities,Government Operations,0,0,0,0,0,0,26276250,0,0,0,0,0,0,0,0,0,0,26276250
+2025,Public Property-Utilities,Government Operations,0,17500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17500000
 2025,Records,Government Operations,0,0,0,0,0,0,4595951,0,0,0,0,0,0,0,0,0,0,4595951
 2025,Register of Wills,Government Operations,0,0,0,0,0,0,5774798,200000,0,0,0,0,0,0,0,0,0,5974798
 2025,Revenue,Government Operations,30000,0,0,0,0,0,31997395,19650000,0,0,0,0,0,0,0,18391000,0,70068395
 2025,Sheriff,Courts & the Justice System,0,0,0,0,0,0,35666954,0,0,0,0,0,0,0,0,0,0,35666954
 2025,Sinking Fund Commission (Debt Service),Government Operations,0,151145020,0,7000000,0,0,355527473,0,0,0,8259348,15507000,0,0,0,244803424,0,782242265
 2025,Streets,Streets,0,0,0,0,0,11998000,107541318,125916782,0,0,0,0,0,39681000,76562079,0,0,361699179
-2025,Streets-Disposal,Government Operations,0,0,0,0,0,0,59589127,0,0,0,0,0,0,0,0,0,0,59589127
+2025,Streets - Disposal,Government Operations,0,0,0,0,0,0,59589127,0,0,0,0,0,0,0,0,0,0,59589127
 2025,Water,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,554074554,16000000,570074554
 2025,Water Department City of Philadelphia - 15 - City of Philadelphia,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16994000,16994000

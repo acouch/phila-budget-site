@@ -14,7 +14,10 @@ Column mapping (per source schema fiscal_year,fund,department,tag_peoples_budget
     FP Category <- class
 
 Each year column holds the summed ``total`` for that (Function, Department,
-Fund Type, FP Category, Fund) group in the corresponding fiscal year.
+Fund Type, FP Category, Fund) group in the corresponding fiscal year. Each
+amount column is followed by a "% Change" column giving that year's percentage
+change relative to the next-older year (the oldest year has no prior year, so
+its % Change is blank).
 
 Four trailing description columns are appended to match the datamade schema.
 Their text is looked up from ``input/datamade/descriptions.csv`` (keyed by
@@ -60,11 +63,31 @@ DESCRIPTION_COLUMNS = [
     "FP Category Description",
     "Fund Type Description",
 ]
+def year_value_columns():
+    """Interleaved amount + '% Change' column labels, newest year first."""
+    cols = []
+    for label, _ in YEAR_COLUMNS:
+        cols.append(label)
+        cols.append(f"{label} % Change")
+    return cols
+
+
 HEADER = (
     KEY_COLUMNS
-    + [label for label, _ in YEAR_COLUMNS]
+    + year_value_columns()
     + DESCRIPTION_COLUMNS
 )
+
+
+def pct_change(current, previous):
+    """Percent change of current vs previous; blank if not computable.
+
+    Previous year is the next-older year. Returns "" when either value is
+    missing or the previous year is zero (no meaningful base for a percentage).
+    """
+    if current is None or previous is None or previous == 0:
+        return ""
+    return round((current - previous) / previous * 100, 2)
 
 
 def load_descriptions(path):
@@ -115,9 +138,13 @@ def main():
         for key in sorted(rows):
             function, department, fund_type, fp_category, fund = key
             out = [function, department, fund_type, fp_category, fund]
-            for label, _ in YEAR_COLUMNS:
+            for i, (label, _) in enumerate(YEAR_COLUMNS):
                 value = rows[key].get(label)
                 out.append("" if value is None else value)
+                # Previous (next-older) year is the next entry in YEAR_COLUMNS.
+                prev_label = YEAR_COLUMNS[i + 1][0] if i + 1 < len(YEAR_COLUMNS) else None
+                prev_value = rows[key].get(prev_label) if prev_label else None
+                out.append(pct_change(value, prev_value))
             out.extend([
                 descriptions.get(("Department", department), ""),
                 descriptions.get(("Fund", fund), ""),

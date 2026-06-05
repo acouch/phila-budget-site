@@ -6,42 +6,47 @@ fiscal_year,department,tag_peoples_budget,acute_care_hospital_fund,aviation_fund
 2026,Board of Revision of Taxes,Government Operations,0,0,0,0,0,0,1252626,0,0,0,0,0,0,0,0,0,1252626
 2026,Citizens Police Oversight Commission,Police,0,0,0,0,0,0,3106032,0,0,0,0,0,0,0,0,0,3106032
 2026,City Commissioners,Government Operations,0,0,0,0,0,0,29114078,8715000,0,0,0,0,0,0,0,0,37829078
-2026,City Council,Government Operations,0,0,0,0,0,0,26459353,205300,0,0,0,0,0,0,0,0,26664653
+2026,City Council,Government Operations,0,0,0,0,0,0,26459353,0,0,0,0,0,0,0,0,0,26459353
+2026,City Council - Veterans Advisory Committee,Government Operations,0,0,0,0,0,0,0,205300,0,0,0,0,0,0,0,0,205300
 2026,City Representative,Government Operations,0,0,0,0,0,0,3242182,0,0,0,0,0,0,0,0,0,3242182
 2026,City Treasurer,Government Operations,0,0,0,0,0,0,5361799,0,0,0,0,0,0,0,2650000,0,8011799
 2026,Civil Service Commission,Government Operations,0,0,0,0,0,0,101796019,0,0,0,0,0,0,0,0,0,101796019
 2026,Commerce,Commercial Corridors & Small Businesses,0,0,0,0,20404729,0,16513421,12500000,0,97200000,0,0,0,0,0,0,146618150
-2026,Commerce-Convention Center Subsidy,Commercial Corridors & Small Businesses,0,0,0,0,0,0,15000000,0,0,0,0,0,0,0,0,0,15000000
-2026,Commerce-Economic Stimulus,Commercial Corridors & Small Businesses,0,0,0,0,0,0,101365294,0,0,0,0,0,0,0,0,0,101365294
+2026,Commerce - Convention Center Subsidy,Government Operations,0,0,0,0,0,0,15000000,0,0,0,0,0,0,0,0,0,15000000
+2026,Commerce - Economic Stimulus,Government Operations,0,0,0,0,0,0,101365294,0,0,0,0,0,0,0,0,0,101365294
 2026,District Attorney,Courts & the Justice System,0,0,0,0,0,0,59312464,20667362,0,0,0,0,0,0,0,0,79979826
 2026,Finance,Government Operations,75000,5000000,0,0,20000000,0,81829341,1030000292,0,0,0,0,0,0,0,0,1136904633
-2026,Finance-Budget Stabilization,Government Operations,0,0,100,0,0,0,58860000,0,0,0,0,0,0,0,0,0,58860100
-2026,Finance-Community College Subsidy,Schools & Early Childhood Education,0,0,0,0,0,0,54003181,0,0,0,0,0,0,0,0,0,54003181
-2026,Finance-Employee Benefits,Government Operations,285994,61843730,0,0,7096680,0,1745587635,0,0,0,0,0,0,1000000,158554641,0,1974368680
-2026,Finance-Hero Scholarship Awards,Schools & Early Childhood Education,0,0,0,0,0,0,150000,0,0,0,0,0,0,0,0,0,150000
-2026,Finance-Indemnities,Government Operations,0,2512000,0,0,0,0,61246000,0,0,0,0,0,0,0,6500000,0,70258000
-2026,Finance-Payment to Housing Trust Fund,Housing & Homeless Services,0,0,0,0,0,0,34044031,0,0,0,0,0,0,0,0,0,34044031
-2026,Finance-Refunds,Government Operations,0,0,0,0,0,0,250000,0,0,0,0,0,0,0,0,0,250000
-2026,Finance-Reg #32,Government Operations,0,0,0,0,0,0,12200000,0,0,0,0,0,0,0,0,0,12200000
-2026,Finance-School District Contribution,Schools & Early Childhood Education,0,0,0,0,0,0,284052590,0,0,0,0,0,0,0,0,0,284052590
-2026,Finance-Witness Fees,Government Operations,0,0,0,0,0,0,260094,0,0,0,0,0,0,0,0,0,260094
+2026,Finance - Budget Stabilization,Government Operations,0,0,0,0,0,0,58860000,0,0,0,0,0,0,0,0,0,58860000
+2026,Finance - Community College Subsidy,Government Operations,0,0,0,0,0,0,54003181,0,0,0,0,0,0,0,0,0,54003181
+2026,Finance - Employee Benefits,Government Operations,0,0,0,0,0,0,1745587635,0,0,0,0,0,0,0,0,0,1745587635
+2026,Finance - Hero Scholarship Awards,Government Operations,0,0,0,0,0,0,150000,0,0,0,0,0,0,0,0,0,150000
+2026,Finance - Indemnities,Government Operations,0,0,0,0,0,0,61246000,0,0,0,0,0,0,0,0,0,61246000
+2026,Finance - Payment to Housing Trust Fund,Government Operations,0,0,0,0,0,0,34044031,0,0,0,0,0,0,0,0,0,34044031
+2026,Finance - Refunds,Government Operations,0,0,0,0,0,0,250000,0,0,0,0,0,0,0,0,0,250000
+2026,Finance - Reg #32,Government Operations,0,0,0,0,0,0,12200000,0,0,0,0,0,0,0,0,0,12200000
+2026,Finance - School District Contribution,Government Operations,0,0,0,0,0,0,284052590,0,0,0,0,0,0,0,0,0,284052590
+2026,Finance - Witness Fees,Government Operations,0,0,0,0,0,0,260094,0,0,0,0,0,0,0,0,0,260094
+2026,Finance-Budget Stabilization,Government Operations,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,100
+2026,Finance-Employee Benefits,Government Operations,285994,61843730,0,0,7096680,0,0,0,0,0,0,0,0,1000000,158554641,0,228781045
+2026,Finance-Indemnities,Government Operations,0,2512000,0,0,0,0,0,0,0,0,0,0,0,0,6500000,0,9012000
 2026,Fire,Emergency Services,0,11680696,0,0,0,0,444221835,29276179,0,0,0,0,0,0,0,0,485178710
 2026,First Judicial District,Courts & the Justice System,0,0,0,0,0,0,132912092,54223332,0,0,0,0,0,0,0,0,187135424
 2026,Fleet Services,Government Operations,0,4062385,0,0,0,0,61499959,0,0,0,0,0,0,0,10270469,0,75832813
-2026,Fleet Services -Vehicle Lease/Purch.,Government Operations,0,3000000,0,0,0,0,16359245,0,0,0,0,0,0,0,0,0,19359245
+2026,Fleet Services - Vehicle Lease/Purch.,Government Operations,0,0,0,0,0,0,16359245,0,0,0,0,0,0,0,0,0,16359245
+2026,Fleet Services -Vehicle Lease/Purch.,Government Operations,0,3000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3000000
 2026,Free Library,Libraries,0,0,0,0,0,0,74664588,12229191,0,0,0,0,0,0,0,0,86893779
 2026,Human Relations Commission,Government Operations,0,0,0,0,0,0,2920858,0,0,0,0,0,0,0,0,0,2920858
 2026,Human Services,Youth Services,0,0,0,0,0,0,229471901,745444808,0,0,0,0,0,0,0,0,974916709
-2026,L&I-Board of Building Standards,Government Operations,0,0,0,0,0,0,90074,0,0,0,0,0,0,0,0,0,90074
-2026,L&I-Board of L&I Review,Government Operations,0,0,0,0,0,0,187369,0,0,0,0,0,0,0,0,0,187369
+2026,L&I - Board of Building Standards,Government Operations,0,0,0,0,0,0,90074,0,0,0,0,0,0,0,0,0,90074
+2026,L&I - Board of L&I Review,Government Operations,0,0,0,0,0,0,187369,0,0,0,0,0,0,0,0,0,187369
 2026,Labor,Government Operations,0,0,0,0,0,0,5747325,0,0,0,0,0,0,0,0,0,5747325
 2026,Law,Government Operations,0,2006547,0,0,195573,0,36680253,0,0,0,0,0,0,0,4742639,0,43625012
 2026,Licenses & Inspection,Government Operations,0,0,0,0,490303,0,45991326,0,0,0,0,0,1000000,0,0,0,47481629
 2026,Managing Director,Government Operations,0,0,0,0,0,0,106699001,48918855,0,0,0,0,0,0,138550,0,155756406
-2026,Managing Director-Citizens Police Oversight Commission,Police,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2026,Managing Director-Clean & Green,Parks & Recreation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2026,Managing Director-Defenders Association,Courts & the Justice System,0,0,0,0,0,0,69047780,0,0,0,0,0,0,0,0,0,69047780
-2026,Managing Director-Public Safety,Courts & the Justice System,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2026,Managing Director - Citizens Police Oversight Commission,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2026,Managing Director - Clean & Green,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2026,Managing Director - Defenders Association,Government Operations,0,0,0,0,0,0,69047780,0,0,0,0,0,0,0,0,0,69047780
+2026,Managing Director - Public Safety,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2026,Mayor's Office,Government Operations,0,0,0,0,0,0,13816574,0,0,0,0,0,0,0,0,0,13816574
 2026,Mural Arts Program,Arts & Culture,0,0,0,0,0,0,5107386,0,0,0,0,0,0,0,0,0,5107386
 2026,Neighborhood Community Action Centers,Housing & Homeless Services,0,0,0,0,0,0,3309604,0,0,0,0,0,0,0,0,0,3309604
@@ -52,10 +57,10 @@ fiscal_year,department,tag_peoples_budget,acute_care_hospital_fund,aviation_fund
 2026,Office of Homeless Services,Housing & Homeless Services,0,0,0,0,0,0,84188038,44501162,0,0,0,0,0,0,0,0,128689200
 2026,Office of Human Resources,Government Operations,0,0,0,0,0,0,18359074,0,0,0,0,0,0,0,0,0,18359074
 2026,Office of Innovation and Technology,Government Operations,0,4686738,0,0,0,0,118442282,67625301,0,0,0,0,0,0,44271837,0,235026158
-2026,Office of Innovation and Technology-911,Emergency Services,0,0,0,0,0,0,41624234,0,0,0,0,0,0,0,0,0,41624234
+2026,Office of Innovation and Technology - 911,Government Operations,0,0,0,0,0,0,41624234,0,0,0,0,0,0,0,0,0,41624234
 2026,Office of Property Assessment,Government Operations,0,0,0,0,0,0,19967369,0,0,0,0,0,0,0,0,0,19967369
 2026,Office of Public Safety,Courts & the Justice System,0,0,0,0,0,0,67173246,12277532,0,0,0,0,0,0,0,0,79450778
-2026,Office of Public Safety- Office of Prison Oversight,Courts & the Justice System,0,0,0,0,0,0,1398107,0,0,0,0,0,0,0,0,0,1398107
+2026,Office of Public Safety - Office of Prison Oversight,Government Operations,0,0,0,0,0,0,1398107,0,0,0,0,0,0,0,0,0,1398107
 2026,Office of Sustainability,Government Operations,0,110873,0,0,0,0,3255317,2467112,0,0,0,0,0,0,182874,0,6016176
 2026,Office of the Chief Administrative Officer,Government Operations,0,0,0,0,0,0,11934400,0,0,0,0,0,0,0,0,0,11934400
 2026,Office of the Inspector General,Government Operations,0,0,0,0,0,0,3017417,0,0,0,0,0,0,0,0,0,3017417
@@ -66,14 +71,15 @@ fiscal_year,department,tag_peoples_budget,acute_care_hospital_fund,aviation_fund
 2026,Procurement,Government Operations,0,0,0,0,0,0,6904589,0,0,0,0,0,0,0,115569,0,7020158
 2026,Public Health,Public Health Centers,257666006,0,0,0,0,0,162389004,320827189,0,0,0,0,0,0,0,0,740882199
 2026,Public Property,Government Operations,0,0,0,0,0,0,102234178,0,0,0,0,0,0,0,5494744,0,107728922
-2026,Public Property-SEPTA Subsidy,Public Transit,0,0,0,0,0,0,134989000,0,0,0,0,0,0,0,0,0,134989000
-2026,Public Property-Space Rentals,Government Operations,0,0,0,0,0,0,57736320,0,0,0,0,0,0,0,0,0,57736320
-2026,Public Property-Utilities,Government Operations,0,18300000,0,0,0,0,33578003,0,0,0,0,0,0,0,0,0,51878003
+2026,Public Property - SEPTA Subsidy,Government Operations,0,0,0,0,0,0,134989000,0,0,0,0,0,0,0,0,0,134989000
+2026,Public Property - Space Rentals,Government Operations,0,0,0,0,0,0,57736320,0,0,0,0,0,0,0,0,0,57736320
+2026,Public Property - Utilities,Government Operations,0,0,0,0,0,0,33578003,0,0,0,0,0,0,0,0,0,33578003
+2026,Public Property-Utilities,Government Operations,0,18300000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18300000
 2026,Records,Government Operations,0,0,0,0,0,0,4746573,0,0,0,0,0,0,0,0,0,4746573
 2026,Register of Wills,Government Operations,0,0,0,0,0,0,6218094,850000,0,0,0,0,0,0,0,0,7068094
 2026,Revenue,Government Operations,45000,0,0,0,0,0,30813539,22650000,0,0,0,0,0,0,19944370,0,73452909
 2026,Sanitation,Trash & Sanitation,0,0,0,0,0,0,116776090,8936399,0,0,0,0,0,2972488,0,0,128684977
-2026,Sanitation-Disposal,Trash & Sanitation,0,0,0,0,0,0,63238164,0,0,0,0,0,0,0,0,0,63238164
+2026,Sanitation - Disposal,Government Operations,0,0,0,0,0,0,63238164,0,0,0,0,0,0,0,0,0,63238164
 2026,Sheriff,Courts & the Justice System,0,0,0,0,0,0,35484813,0,0,0,0,0,0,0,0,0,35484813
 2026,Sinking Fund Commission (Debt Service),Government Operations,0,145590623,0,7000000,0,0,404772470,0,0,0,8264034,15932000,0,0,271043908,0,852603035
 2026,Streets,Streets,0,0,0,0,0,12031000,0,82286600,0,0,0,0,0,36708512,0,0,131026112

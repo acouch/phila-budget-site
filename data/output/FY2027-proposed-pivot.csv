@@ -6,42 +6,47 @@ fiscal_year,department,tag_peoples_budget,acute_care_hospital_fund,aviation_fund
 2027,Board of Revision of Taxes,Government Operations,0,0,0,0,0,0,1251282,0,0,0,0,0,0,0,0,0,1251282
 2027,Citizens Police Oversight Commission,Police,0,0,0,0,0,0,3141623,0,0,0,0,0,0,0,0,0,3141623
 2027,City Commissioners,Government Operations,0,0,0,0,0,0,29738158,5850000,0,0,0,0,0,0,0,0,35588158
-2027,City Council,Government Operations,0,0,0,0,0,0,26756421,205300,0,0,0,0,0,0,0,0,26961721
+2027,City Council,Government Operations,0,0,0,0,0,0,26756421,0,0,0,0,0,0,0,0,0,26756421
+2027,City Council - Veterans Advisory Committee,Government Operations,0,0,0,0,0,0,0,205300,0,0,0,0,0,0,0,0,205300
 2027,City Representative,Government Operations,0,0,0,0,0,0,3440992,0,0,0,0,0,0,0,0,0,3440992
 2027,City Treasurer,Government Operations,0,0,0,0,0,0,5384350,0,0,0,0,0,0,0,2650000,0,8034350
 2027,Civil Service Commission,Government Operations,0,0,0,0,0,0,39535856,0,0,0,0,0,0,0,0,0,39535856
 2027,Commerce,Commercial Corridors & Small Businesses,0,0,0,0,19350979,0,16115755,8022000,0,97200000,0,0,0,0,0,0,140688734
-2027,Commerce-Convention Center Subsidy,Commercial Corridors & Small Businesses,0,0,0,0,0,0,15000000,0,0,0,0,0,0,0,0,0,15000000
-2027,Commerce-Economic Stimulus,Commercial Corridors & Small Businesses,0,0,0,0,0,0,90415294,0,0,0,0,0,0,0,0,0,90415294
+2027,Commerce - Convention Center Subsidy,Government Operations,0,0,0,0,0,0,15000000,0,0,0,0,0,0,0,0,0,15000000
+2027,Commerce - Economic Stimulus,Government Operations,0,0,0,0,0,0,90415294,0,0,0,0,0,0,0,0,0,90415294
 2027,District Attorney,Courts & the Justice System,0,0,0,0,0,0,60083072,15484900,0,0,0,0,0,0,0,0,75567972
 2027,Finance,Government Operations,75000,5000000,0,0,20000000,0,41161557,1019782740,0,0,0,0,0,0,0,0,1086019297
-2027,Finance-Budget Stabilization,Government Operations,0,0,100,0,0,0,52484000,0,0,0,0,0,0,0,0,0,52484100
-2027,Finance-Community College Subsidy,Schools & Early Childhood Education,0,0,0,0,0,0,55853181,0,0,0,0,0,0,0,0,0,55853181
-2027,Finance-Employee Benefits,Government Operations,286501,65259233,0,0,7553891,0,1821169058,0,0,0,0,0,0,1000000,159665962,0,2054934645
-2027,Finance-Hero Scholarship Awards,Schools & Early Childhood Education,0,0,0,0,0,0,150000,0,0,0,0,0,0,0,0,0,150000
-2027,Finance-Indemnities,Government Operations,0,3512000,0,0,0,0,61278421,0,0,0,0,0,0,0,7000000,0,71790421
-2027,Finance-Payment to Housing Trust Fund,Housing & Homeless Services,0,0,0,0,0,0,34668215,0,0,0,0,0,0,0,0,0,34668215
-2027,Finance-Refunds,Government Operations,0,0,0,0,0,0,250000,0,0,0,0,0,0,0,0,0,250000
-2027,Finance-Reg #32,Government Operations,0,0,0,0,0,0,8000000,0,0,0,0,0,0,0,0,0,8000000
-2027,Finance-School District Contribution,Schools & Early Childhood Education,0,0,0,0,0,0,284052590,0,0,0,0,0,0,0,0,0,284052590
-2027,Finance-Witness Fees,Government Operations,0,0,0,0,0,0,260094,0,0,0,0,0,0,0,0,0,260094
+2027,Finance - Budget Stabilization,Government Operations,0,0,0,0,0,0,52484000,0,0,0,0,0,0,0,0,0,52484000
+2027,Finance - Community College Subsidy,Government Operations,0,0,0,0,0,0,55853181,0,0,0,0,0,0,0,0,0,55853181
+2027,Finance - Employee Benefits,Government Operations,0,0,0,0,0,0,1821169058,0,0,0,0,0,0,0,0,0,1821169058
+2027,Finance - Hero Scholarship Awards,Government Operations,0,0,0,0,0,0,150000,0,0,0,0,0,0,0,0,0,150000
+2027,Finance - Indemnities,Government Operations,0,0,0,0,0,0,61278421,0,0,0,0,0,0,0,0,0,61278421
+2027,Finance - Payment to Housing Trust Fund,Government Operations,0,0,0,0,0,0,34668215,0,0,0,0,0,0,0,0,0,34668215
+2027,Finance - Refunds,Government Operations,0,0,0,0,0,0,250000,0,0,0,0,0,0,0,0,0,250000
+2027,Finance - Reg #32,Government Operations,0,0,0,0,0,0,8000000,0,0,0,0,0,0,0,0,0,8000000
+2027,Finance - School District Contribution,Government Operations,0,0,0,0,0,0,284052590,0,0,0,0,0,0,0,0,0,284052590
+2027,Finance - Witness Fees,Government Operations,0,0,0,0,0,0,260094,0,0,0,0,0,0,0,0,0,260094
+2027,Finance-Budget Stabilization,Government Operations,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,100
+2027,Finance-Employee Benefits,Government Operations,286501,65259233,0,0,7553891,0,0,0,0,0,0,0,0,1000000,159665962,0,233765587
+2027,Finance-Indemnities,Government Operations,0,3512000,0,0,0,0,0,0,0,0,0,0,0,0,7000000,0,10512000
 2027,Fire,Emergency Services,0,12102111,0,0,0,0,460875843,30951179,0,0,0,0,0,0,0,0,503929133
 2027,First Judicial District,Courts & the Justice System,0,0,0,0,0,0,138438813,56585083,0,0,0,0,0,0,0,0,195023896
 2027,Fleet Services,Government Operations,0,4208297,0,0,0,0,60800316,0,0,0,0,0,0,0,10494236,0,75502849
-2027,Fleet Services -Vehicle Lease/Purch.,Government Operations,0,3000000,0,0,0,0,15359245,0,0,0,0,0,0,0,0,0,18359245
+2027,Fleet Services - Vehicle Lease/Purch.,Government Operations,0,0,0,0,0,0,15359245,0,0,0,0,0,0,0,0,0,15359245
+2027,Fleet Services -Vehicle Lease/Purch.,Government Operations,0,3000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3000000
 2027,Free Library,Libraries,0,0,0,0,0,0,78259130,13214187,0,0,0,0,0,0,0,0,91473317
 2027,Human Relations Commission,Government Operations,0,0,0,0,0,0,3209942,0,0,0,0,0,0,0,0,0,3209942
 2027,Human Services,Youth Services,0,0,0,0,0,0,234515410,767574644,0,0,0,0,0,0,0,0,1002090054
-2027,L&I-Board of Building Standards,Government Operations,0,0,0,0,0,0,94904,0,0,0,0,0,0,0,0,0,94904
-2027,L&I-Board of L&I Review,Government Operations,0,0,0,0,0,0,194770,0,0,0,0,0,0,0,0,0,194770
+2027,L&I - Board of Building Standards,Government Operations,0,0,0,0,0,0,94904,0,0,0,0,0,0,0,0,0,94904
+2027,L&I - Board of L&I Review,Government Operations,0,0,0,0,0,0,194770,0,0,0,0,0,0,0,0,0,194770
 2027,Labor,Government Operations,0,0,0,0,0,0,5365160,0,0,0,0,0,0,0,0,0,5365160
 2027,Law,Government Operations,0,2052716,0,0,217250,0,37861489,0,0,0,0,0,0,0,4778429,0,44909884
 2027,Licenses & Inspection,Government Operations,0,0,0,0,503500,0,50448577,0,0,0,0,0,1000000,0,0,0,51952077
 2027,Managing Director,Government Operations,0,0,0,0,0,0,114013314,141740500,0,0,0,0,0,0,138550,0,255892364
-2027,Managing Director-Citizens Police Oversight Commission,Police,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2027,Managing Director-Clean & Green,Parks & Recreation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2027,Managing Director-Defenders Association,Courts & the Justice System,0,0,0,0,0,0,69047780,0,0,0,0,0,0,0,0,0,69047780
-2027,Managing Director-Public Safety,Courts & the Justice System,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2027,Managing Director - Citizens Police Oversight Commission,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2027,Managing Director - Clean & Green,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2027,Managing Director - Defenders Association,Government Operations,0,0,0,0,0,0,69047780,0,0,0,0,0,0,0,0,0,69047780
+2027,Managing Director - Public Safety,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2027,Mayor's Office,Government Operations,0,0,0,0,0,0,13720371,0,0,0,0,0,0,0,0,0,13720371
 2027,Mural Arts Program,Arts & Culture,0,0,0,0,0,0,3720189,0,0,0,0,0,0,0,0,0,3720189
 2027,Neighborhood Community Action Centers,Housing & Homeless Services,0,0,0,0,0,0,4479420,0,0,0,0,0,0,0,0,0,4479420
@@ -52,10 +57,10 @@ fiscal_year,department,tag_peoples_budget,acute_care_hospital_fund,aviation_fund
 2027,Office of Homeless Services,Housing & Homeless Services,0,0,0,0,0,0,85343840,51028448,0,20029000,0,0,0,0,0,0,156401288
 2027,Office of Human Resources,Government Operations,0,0,0,0,0,0,22966434,0,0,0,0,0,0,0,0,0,22966434
 2027,Office of Innovation and Technology,Government Operations,0,6318223,0,0,0,0,131257651,49809281,0,0,0,0,0,0,46534776,0,233919931
-2027,Office of Innovation and Technology-911,Emergency Services,0,0,0,0,0,0,27414227,0,0,0,0,0,0,0,0,0,27414227
+2027,Office of Innovation and Technology - 911,Government Operations,0,0,0,0,0,0,27414227,0,0,0,0,0,0,0,0,0,27414227
 2027,Office of Property Assessment,Government Operations,0,0,0,0,0,0,21925820,0,0,0,0,0,0,0,0,0,21925820
 2027,Office of Public Safety,Courts & the Justice System,0,0,0,0,0,0,64665770,10167676,0,0,0,0,0,0,0,0,74833446
-2027,Office of Public Safety- Office of Prison Oversight,Courts & the Justice System,0,0,0,0,0,0,1429597,0,0,0,0,0,0,0,0,0,1429597
+2027,Office of Public Safety - Office of Prison Oversight,Government Operations,0,0,0,0,0,0,1429597,0,0,0,0,0,0,0,0,0,1429597
 2027,Office of Sustainability,Government Operations,0,110873,0,0,0,0,3093717,3100000,0,0,0,0,0,0,182874,0,6487464
 2027,Office of the Chief Administrative Officer,Government Operations,0,0,0,0,0,0,13599931,0,0,0,0,0,0,0,0,0,13599931
 2027,Office of the Inspector General,Government Operations,0,0,0,0,0,0,2956677,0,0,0,0,0,0,0,0,0,2956677
@@ -66,14 +71,15 @@ fiscal_year,department,tag_peoples_budget,acute_care_hospital_fund,aviation_fund
 2027,Procurement,Government Operations,0,0,0,0,0,0,7912947,0,0,0,0,0,0,0,104004,0,8016951
 2027,Public Health,Public Health Centers,286783499,0,0,0,0,0,158498176,222831238,0,0,0,0,0,0,0,0,668112913
 2027,Public Property,Government Operations,0,0,0,0,0,0,107439997,0,0,0,0,0,0,0,5494744,0,112934741
-2027,Public Property-SEPTA Subsidy,Public Transit,0,0,0,0,0,0,134989000,0,0,0,0,0,0,0,0,0,134989000
-2027,Public Property-Space Rentals,Government Operations,0,0,0,0,0,0,63130838,0,0,0,0,0,0,0,0,0,63130838
-2027,Public Property-Utilities,Government Operations,0,20000000,0,0,0,0,35959093,0,0,0,0,0,0,0,0,0,55959093
+2027,Public Property - SEPTA Subsidy,Government Operations,0,0,0,0,0,0,134989000,0,0,0,0,0,0,0,0,0,134989000
+2027,Public Property - Space Rentals,Government Operations,0,0,0,0,0,0,63130838,0,0,0,0,0,0,0,0,0,63130838
+2027,Public Property - Utilities,Government Operations,0,0,0,0,0,0,35959093,0,0,0,0,0,0,0,0,0,35959093
+2027,Public Property-Utilities,Government Operations,0,20000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20000000
 2027,Records,Government Operations,0,0,0,0,0,0,4883640,0,0,0,0,0,0,0,0,0,4883640
 2027,Register of Wills,Government Operations,0,0,0,0,0,0,6029471,850000,0,0,0,0,0,0,0,0,6879471
 2027,Revenue,Government Operations,45000,0,0,0,0,0,33001889,22650000,0,0,0,0,0,0,21402515,0,77099404
 2027,Sanitation,Trash & Sanitation,0,0,0,0,0,0,124765259,9205509,0,0,0,0,0,2972488,0,0,136943256
-2027,Sanitation-Disposal,Trash & Sanitation,0,0,0,0,0,0,65275823,0,0,0,0,0,0,0,0,0,65275823
+2027,Sanitation - Disposal,Government Operations,0,0,0,0,0,0,65275823,0,0,0,0,0,0,0,0,0,65275823
 2027,Sheriff,Courts & the Justice System,0,0,0,0,0,0,35657690,0,0,0,0,0,0,0,0,0,35657690
 2027,Sinking Fund Commission (Debt Service),Government Operations,0,161255892,0,8000000,0,0,430863877,0,0,0,8262986,16522000,0,0,290221887,0,915126642
 2027,Streets,Streets,0,0,0,0,0,12041000,0,62960200,0,0,0,0,0,36709512,0,0,111710712
