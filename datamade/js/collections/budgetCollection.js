@@ -201,7 +201,8 @@ app.BudgetCollection = Backbone.Collection.extend({
 
     },
     initDataTable: function(){
-        var sort_col = 3
+        // Columns: name | estimates | estChange | est_perc | actuals | actualChange | actual_perc | bars
+        var sort_col = 4
         if (this.mainChartData.get('selectedEst')){
             sort_col = 1
         };
@@ -210,8 +211,10 @@ app.BudgetCollection = Backbone.Collection.extend({
             "aoColumns": [
                 null,
                 {'sType': 'currency'},
+                {'sType': 'percent'},
                 {'sType': 'currency'},
                 {'sType': 'currency'},
+                {'sType': 'percent'},
                 {'sType': 'currency'},
                 null
             ],
@@ -249,7 +252,7 @@ app.BudgetCollection = Backbone.Collection.extend({
                     }
     
                     j['Function Slug'] = BudgetHelpers.convertToSlug(j['Function']);
-                    j['Department Slug'] = BudgetHelpers.convertToSlug(j['Agency']);
+                    j['Department Slug'] = BudgetHelpers.convertToSlug(j['Department']);
                     j['Fund Type Slug'] = BudgetHelpers.convertToSlug(j['Fund Type']);
                     j['FP Category Slug'] = BudgetHelpers.convertToSlug(j['FP Category']);
                     j['Fund Slug'] = BudgetHelpers.convertToSlug(j['Fund']);
@@ -269,7 +272,7 @@ app.BudgetCollection = Backbone.Collection.extend({
                 }
                 self.hierarchy = {
                     "Function": ['Function', 'Department'],
-                    "Fund Type": ['Fund Type', 'Fund', 'Subfund Name'],
+                    "Fund Type": ['Fund Type', 'Department', 'FP Category'],
                     "FP Category": ['FP Category']
                 }
 

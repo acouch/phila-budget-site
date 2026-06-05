@@ -101,7 +101,7 @@ a:focus { outline: 0;}
 #breakdown th.bars { width: 15%; }
 /*#breakdown th.controls { width: 20px; }*/
 #breakdown th span { color: #1b3364; cursor: pointer; }
-
+td.num.estimates.change, td.num.actuals.change{ font-weight: 700}
 #breakdown th.sorting_asc span {
   background: url(../images/sort-up.png) no-repeat 100% 50%;
   padding-right: 10px;

@@ -21,7 +21,15 @@ app.BreakdownSummary = Backbone.View.extend({
             } else {
                 $(self.el).show();
             }
+            // Re-apply change colors when values update (e.g. on year change).
+            self.colorChanges();
         });
+    },
+    // Color the year-over-year change cells: green for increases, red for
+    // decreases, intensity scaling with magnitude.
+    colorChanges: function(){
+        this.$el.find('[name=estChange]').css('color', BudgetHelpers.changeColor(this.model.get('estChange')));
+        this.$el.find('[name=actualChange]').css('color', BudgetHelpers.changeColor(this.model.get('actualChange')));
     },
     render: function(){
         this.$el.html(BudgetHelpers.template_cache('breakdownSummary', {model:this.model}));
@@ -30,9 +38,12 @@ app.BreakdownSummary = Backbone.View.extend({
             estimates: {selector: '[name="estimates"]', converter: this.moneyChanger},
             est_perc: {selector: '[name=est_perc]'},
             actual_perc: {selector: '[name=actual_perc]'},
+            estChange: {selector: '[name=estChange]'},
+            actualChange: {selector: '[name=actualChange]'},
             est_perc_bar: {selector: '[name=est_perc_bar]'},
             actual_perc_bar: {selector: '[name=actual_perc_bar]'}
         });
+        this.colorChanges();
         return this;
     },
     moneyChanger: function(direction, value){

@@ -17,7 +17,7 @@ app.MainChartView = Backbone.View.extend({
         this.updateCrumbs();
     },
     updateCrumbs: function(){
-        var links = ['<a href="/">'+municipalityName+'</a>'];
+        var links = ['<a href="/datamade">'+municipalityName+'</a>'];
         url_params = this.model.get('url_params')
         crumb_names = this.model.get('crumb_names')
         h = this.model.get('hierarchy_current')
@@ -25,7 +25,7 @@ app.MainChartView = Backbone.View.extend({
         if ( ('filter_1' in url_params) && ('filter_2' in url_params)){
             delete url_params.filter_2
             new_param_str = app_router.params2string(url_params)
-            link1 = '<a href="/#?'+new_param_str+'">'+crumb_names[0]+'</a>'
+            link1 = '<a href="/datamade/#?'+new_param_str+'">'+crumb_names[0]+'</a>'
             link2 = crumb_names[1]
             links.push(link1)
             links.push(link2)

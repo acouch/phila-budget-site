@@ -101,6 +101,28 @@ var BudgetHelpers = {
       return BudgetHelpers.template_cache.tmpl_cache[tmpl_name](tmpl_data);
   },
 
+  // Parses a formatted change string ("+5.7%", "-8.5%", null) into a number,
+  // or null if there's no value.
+  parseChange: function(change){
+    if (change == null || change === '') return null;
+    var n = parseFloat(String(change).replace(/[+%,]/g, ''));
+    return isNaN(n) ? null : n;
+  },
+  // Maps a percent change to a color: saturated green for high increases,
+  // saturated red for high decreases, fading toward neutral gray near 0%.
+  // Magnitude saturates at +/- CHANGE_COLOR_CAP percent.
+  changeColor: function(change){
+    var pct = BudgetHelpers.parseChange(change);
+    if (pct == null) return '';
+    var cap = 25; // % change at which the color is fully saturated
+    var t = Math.max(-1, Math.min(1, pct / cap));
+    var neutral = [136, 136, 136]; // #888
+    var target = t >= 0 ? [33, 136, 33] : [192, 32, 32]; // green / red
+    var mix = function(i){
+      return Math.round(neutral[i] + (target[i] - neutral[i]) * Math.abs(t));
+    };
+    return 'rgb(' + mix(0) + ',' + mix(1) + ',' + mix(2) + ')';
+  },
   calc_change: function(cur, prev){
       if (prev == 0){
           return null
