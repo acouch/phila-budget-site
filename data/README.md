@@ -8,4 +8,4 @@ The `datamade.py` creates a longitudal budget view from the `output` csv files a
 
 The `tagging.yml` file is used to add categories to the budget expenditures to see where budget data is spent by category instead of just by fund.
 
-To process all of the data run `ux run run-budget-data.py`.
+To process all of the data run `uv run run-budget-data.py`.
