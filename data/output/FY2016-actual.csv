@@ -205,11 +205,11 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2016,General Fund,Sheriff,Courts & the Justice System,"Contrib., Indemnities & Taxes",41275
 2016,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Purchase of Services,92641217
 2016,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Debt Service,132089447
-2016,General Fund,Streets,Streets,Personal Services,76874569
-2016,General Fund,Streets,Streets,Purchase of Services,51875823
-2016,General Fund,Streets,Streets,"Materials, Supplies & Equip.",3751732
-2016,General Fund,Streets,Streets,"Contrib., Indemnities & Taxes",12910311
-2016,General Fund,Streets,Streets,Payments to Other Funds,0
+2016,General Fund,Sanitation,Trash & Sanitation,Personal Services,76874569
+2016,General Fund,Sanitation,Trash & Sanitation,Purchase of Services,51875823
+2016,General Fund,Sanitation,Trash & Sanitation,"Materials, Supplies & Equip.",3751732
+2016,General Fund,Sanitation,Trash & Sanitation,"Contrib., Indemnities & Taxes",12910311
+2016,General Fund,Sanitation,Trash & Sanitation,Payments to Other Funds,0
 2016,General Fund,Youth Commission,Government Operations,Personal Services,92488
 2016,General Fund,Youth Commission,Government Operations,Purchase of Services,8439
 2016,General Fund,Youth Commission,Government Operations,"Materials, Supplies & Equip.",267

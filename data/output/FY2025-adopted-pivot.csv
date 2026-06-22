@@ -79,9 +79,10 @@ fiscal_year,department,tag_peoples_budget,acute_care_hospital_fund,aviation_fund
 2025,Records,Government Operations,0,0,0,0,0,0,4595951,0,0,0,0,0,0,0,0,0,0,4595951
 2025,Register of Wills,Government Operations,0,0,0,0,0,0,5774798,200000,0,0,0,0,0,0,0,0,0,5974798
 2025,Revenue,Government Operations,30000,0,0,0,0,0,31997395,19650000,0,0,0,0,0,0,0,18391000,0,70068395
+2025,Sanitation,Trash & Sanitation,0,0,0,0,0,0,107541318,0,0,0,0,0,0,0,0,0,0,107541318
+2025,Sanitation - Disposal,Government Operations,0,0,0,0,0,0,59589127,0,0,0,0,0,0,0,0,0,0,59589127
 2025,Sheriff,Courts & the Justice System,0,0,0,0,0,0,35666954,0,0,0,0,0,0,0,0,0,0,35666954
 2025,Sinking Fund Commission (Debt Service),Government Operations,0,151145020,0,7000000,0,0,355527473,0,0,0,8259348,15507000,0,0,0,244803424,0,782242265
-2025,Streets,Streets,0,0,0,0,0,11998000,107541318,125916782,0,0,0,0,0,39681000,76562079,0,0,361699179
-2025,Streets - Disposal,Government Operations,0,0,0,0,0,0,59589127,0,0,0,0,0,0,0,0,0,0,59589127
+2025,Streets,Streets,0,0,0,0,0,11998000,0,125916782,0,0,0,0,0,39681000,76562079,0,0,254157861
 2025,Water,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,554074554,16000000,570074554
 2025,Water Department City of Philadelphia - 15 - City of Philadelphia,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16994000,16994000

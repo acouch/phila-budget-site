@@ -170,6 +170,21 @@ def _gf_should_skip(line):
     return any(p.match(line) for p in _GENERAL_FUND_SKIP_PATTERNS)
 
 
+# The City renamed the General Fund "Streets" department to "Sanitation" in
+# FY26 (Managing Director - Clean & Green folded in). The FY26 budget-in-brief
+# applies that name retroactively across all years of its obligation history,
+# so to keep the General Fund trend continuous we relabel pre-FY26 "Streets" GF
+# departments to match. This is General-Fund-only: the shared funds (Special
+# Gasoline Tax, Grants Revenue, etc.) still have a distinct "Streets"
+# department, so this rename is NOT applied in normalize_dept / the other-funds
+# parser. Only the department name changes; the People's Budget tag is then
+# recomputed from the new name (Sanitation -> "Trash & Sanitation").
+_GF_DEPT_RENAMES = {
+    "Streets": "Sanitation",
+    "Streets - Disposal": "Sanitation - Disposal",
+}
+
+
 def _gf_parse_number(s):
     s = s.strip()
     negative = s.startswith("(") and s.endswith(")")
@@ -224,6 +239,7 @@ def parse_general_fund(pdf_path, fiscal_years, start_page, end_page):
                         dept_buffer = []
                     
                     dept = normalize_dept(current_dept)
+                    dept = _GF_DEPT_RENAMES.get(dept, dept)
 
                     numbers = _gf_extract_numbers(stripped[len(matched_class):])
                     if len(numbers) >= min_numbers:

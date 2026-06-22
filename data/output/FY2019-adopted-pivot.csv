@@ -82,8 +82,9 @@ fiscal_year,department,tag_peoples_budget,acute_care_hospital_fund,aviation_fund
 2019,Records,Government Operations,0,0,0,0,0,4768507,0,0,0,0,0,0,0,0,4768507
 2019,Register of Wills,Government Operations,0,0,0,0,0,4438881,200000,0,0,0,0,0,0,0,4638881
 2019,Revenue,Government Operations,45000,0,0,0,0,30707541,26425000,0,0,0,0,0,0,0,57177541
+2019,Sanitation,Trash & Sanitation,0,0,0,0,0,102490485,0,0,0,0,0,0,0,0,102490485
+2019,Sanitation - Disposal,Government Operations,0,0,0,0,0,39490785,0,0,0,0,0,0,0,0,39490785
 2019,Sheriff,Courts & the Justice System,0,0,0,0,0,26150422,0,0,0,0,0,0,0,0,26150422
 2019,Sinking Fund Commission (Debt Service),Government Operations,0,163801936,7000000,0,0,295032504,0,0,0,0,10562000,0,212992336,0,689388776
-2019,Streets,Streets,0,0,0,0,7273000,102490485,23779000,0,0,0,0,35940000,0,0,169482485
-2019,Streets - Disposal,Government Operations,0,0,0,0,0,39490785,0,0,0,0,0,0,0,0,39490785
+2019,Streets,Streets,0,0,0,0,7273000,0,23779000,0,0,0,0,35940000,0,0,66992000
 2019,Water,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,419785912,37000000,456785912

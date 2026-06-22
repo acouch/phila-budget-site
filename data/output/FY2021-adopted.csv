@@ -195,11 +195,11 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2021,General Fund,Sheriff,Courts & the Justice System,"Contrib., Indemnities & Taxes",0
 2021,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Purchase of Services,96918314
 2021,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Debt Service,185714117
-2021,General Fund,Streets - Disposal,Government Operations,Purchase of Services,51462580
-2021,General Fund,Streets,Streets,Personal Services,87283619
-2021,General Fund,Streets,Streets,Purchase of Services,8050100
-2021,General Fund,Streets,Streets,"Materials, Supplies & Equip.",6172885
-2021,General Fund,Streets,Streets,"Contrib., Indemnities & Taxes",53171
+2021,General Fund,Sanitation - Disposal,Government Operations,Purchase of Services,51462580
+2021,General Fund,Sanitation,Trash & Sanitation,Personal Services,87283619
+2021,General Fund,Sanitation,Trash & Sanitation,Purchase of Services,8050100
+2021,General Fund,Sanitation,Trash & Sanitation,"Materials, Supplies & Equip.",6172885
+2021,General Fund,Sanitation,Trash & Sanitation,"Contrib., Indemnities & Taxes",53171
 2021,Water Fund,Mayor - Office of Innovation and Technology City of Philadelphia - 12 - City of Philadelphia,Government Operations,Personal Services,8742629
 2021,Water Fund,Mayor - Office of Innovation and Technology City of Philadelphia - 12 - City of Philadelphia,Government Operations,Purchase of Services,20700879
 2021,Water Fund,Mayor - Office of Innovation and Technology City of Philadelphia - 12 - City of Philadelphia,Government Operations,"Materials, Supplies & Equip.",2048850

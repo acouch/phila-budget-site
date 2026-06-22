@@ -78,8 +78,9 @@ fiscal_year,department,tag_peoples_budget,acute_care_hospital_fund,aviation_fund
 2022,Records,Government Operations,0,0,0,0,0,0,3912713,0,0,0,0,0,0,0,0,3912713
 2022,Register of Wills,Government Operations,0,0,0,0,0,0,4281429,200000,0,0,0,0,0,0,0,4481429
 2022,Revenue,Government Operations,45000,0,0,0,0,0,26943273,19650000,0,0,0,0,0,16836098,0,63474371
+2022,Sanitation,Trash & Sanitation,0,0,0,0,0,0,113672053,0,0,0,0,0,0,0,0,113672053
+2022,Sanitation - Disposal,Government Operations,0,0,0,0,0,0,59762580,0,0,0,0,0,0,0,0,59762580
 2022,Sheriff,Courts & the Justice System,0,0,0,0,0,0,26795874,0,0,0,0,0,0,0,0,26795874
 2022,Sinking Fund Commission (Debt Service),Government Operations,0,132003960,0,7000000,0,0,297227515,0,0,0,0,13148000,0,201542300,0,650921775
-2022,Streets,Streets,0,0,0,0,0,10873000,113672053,40407000,0,0,0,0,39900000,0,0,204852053
-2022,Streets - Disposal,Government Operations,0,0,0,0,0,0,59762580,0,0,0,0,0,0,0,0,59762580
+2022,Streets,Streets,0,0,0,0,0,10873000,0,40407000,0,0,0,0,39900000,0,0,91180000
 2022,Water,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,430268150,32994000,463262150

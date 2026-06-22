@@ -195,11 +195,11 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2023,General Fund,Sheriff,Courts & the Justice System,"Contrib., Indemnities & Taxes",0
 2023,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Purchase of Services,115087498
 2023,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Debt Service,193710223
-2023,General Fund,Streets - Disposal,Government Operations,Purchase of Services,55389886
-2023,General Fund,Streets,Streets,Personal Services,122676329
-2023,General Fund,Streets,Streets,Purchase of Services,17725345
-2023,General Fund,Streets,Streets,"Materials, Supplies & Equip.",21994981
-2023,General Fund,Streets,Streets,"Contrib., Indemnities & Taxes",53171
+2023,General Fund,Sanitation - Disposal,Government Operations,Purchase of Services,55389886
+2023,General Fund,Sanitation,Trash & Sanitation,Personal Services,122676329
+2023,General Fund,Sanitation,Trash & Sanitation,Purchase of Services,17725345
+2023,General Fund,Sanitation,Trash & Sanitation,"Materials, Supplies & Equip.",21994981
+2023,General Fund,Sanitation,Trash & Sanitation,"Contrib., Indemnities & Taxes",53171
 2023,Water Fund,Office of Innovation and Technology,Government Operations,Personal Services,10644369
 2023,Water Fund,Office of Innovation and Technology,Government Operations,Purchase of Services,23049397
 2023,Water Fund,Office of Innovation and Technology,Government Operations,"Materials, Supplies & Equip.",1541613

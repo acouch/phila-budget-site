@@ -195,8 +195,8 @@ fiscal_year,fund,department,tag_peoples_budget,class,total
 2020,General Fund,Sheriff,Courts & the Justice System,"Contrib., Indemnities & Taxes",0
 2020,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Purchase of Services,102222498
 2020,General Fund,Sinking Fund Commission (Debt Service),Government Operations,Debt Service,187482819
-2020,General Fund,Streets - Disposal,Government Operations,Purchase of Services,48340013
-2020,General Fund,Streets,Streets,Personal Services,92207341
-2020,General Fund,Streets,Streets,Purchase of Services,6442850
-2020,General Fund,Streets,Streets,"Materials, Supplies & Equip.",8078596
-2020,General Fund,Streets,Streets,"Contrib., Indemnities & Taxes",53171
+2020,General Fund,Sanitation - Disposal,Government Operations,Purchase of Services,48340013
+2020,General Fund,Sanitation,Trash & Sanitation,Personal Services,92207341
+2020,General Fund,Sanitation,Trash & Sanitation,Purchase of Services,6442850
+2020,General Fund,Sanitation,Trash & Sanitation,"Materials, Supplies & Equip.",8078596
+2020,General Fund,Sanitation,Trash & Sanitation,"Contrib., Indemnities & Taxes",53171

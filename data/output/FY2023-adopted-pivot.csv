@@ -72,9 +72,10 @@ fiscal_year,department,tag_peoples_budget,acute_care_hospital_fund,aviation_fund
 2023,Records,Government Operations,0,0,0,0,0,0,4277078,0,0,0,0,0,0,0,0,0,4277078
 2023,Register of Wills,Government Operations,0,0,0,0,0,0,4856966,200000,0,0,0,0,0,0,0,0,5056966
 2023,Revenue,Government Operations,45000,0,0,0,0,0,27808577,19650000,0,0,0,0,0,0,17236680,0,64740257
+2023,Sanitation,Trash & Sanitation,0,0,0,0,0,0,162449826,0,0,0,0,0,0,0,0,0,162449826
+2023,Sanitation - Disposal,Government Operations,0,0,0,0,0,0,55389886,0,0,0,0,0,0,0,0,0,55389886
 2023,Sheriff,Courts & the Justice System,0,0,0,0,0,0,30853801,0,0,0,0,0,0,0,0,0,30853801
 2023,Sinking Fund Commission (Debt Service),Government Operations,0,119361583,0,7000000,0,0,308797721,0,0,0,2750000,13902000,0,0,200992399,0,652803703
-2023,Streets,Streets,0,0,0,0,0,10873000,162449826,57247500,0,0,0,0,0,0,0,0,230570326
-2023,Streets - Disposal,Government Operations,0,0,0,0,0,0,55389886,0,0,0,0,0,0,0,0,0,55389886
+2023,Streets,Streets,0,0,0,0,0,10873000,0,57247500,0,0,0,0,0,0,0,0,68120500
 2023,Water,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,416235047,32994000,449229047
 2023,Water Department City of Philadelphia - 13 - City of Philadelphia,Government Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51071000,0,51071000
