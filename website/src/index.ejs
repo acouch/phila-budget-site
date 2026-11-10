@@ -6,7 +6,7 @@
    <body>
       <%- include('_menu') %>
       <main>
-         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pt-20 pb-16 text-center lg:pt-32">
+         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pt-20 pb-16 text-center lg:pb-32 lg:pt-32">
             <h1 class="mx-auto italic max-w-4xl font-display text-5xl font-medium tracking-tight text-slate-900 sm:text-7xl">
                Philly <span class="text-blue-800">Budget</span> Data
             </h1>
@@ -16,16 +16,25 @@
          </div>
          <section class="bg-slate-50 py-12 lg:py-12">
             <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 md:text-center">
+               <h2 class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">Make your own budget!</h2>
+               <p class="mt-4 text-lg tracking-tight text-slate-700">
+               <p>Visit <a class="text-blue-800 " href="https://diy.phillybudget.org">DiY.PhillyBudget.org</a> to create your own budget based on the 2026 to 2027 city budget.</p>
+               <div class="py-12 flex justify-center">
+                  <a href="https://diy.phillybudget.org"><img class="max-w-3xl" src="./assets/images/diyscreenshot.png" alt="a colored tree map of the city budget"></a></div>
+               </div>
+            </div>
+         </section>         
+         <section class="py-12 lg:py-12">
+            <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 md:text-center">
                <h2 class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">Longitudinal budget view</h2>
                <p class="mt-4 text-lg tracking-tight text-slate-700">
                <p>This visualization shows Philadelphia budget data dating back to 2018. It is a copy of <a class="text-blue-800" href="https://ny-budget.datamade.us">NY Budget</a> by the brilliant folks at <a class="text-blue-800" href="https://datamade.us">Datamade</a>.</p>
                <div class="py-12 flex justify-center">
                   <a href="/datamade"><img class="max-w-3xl" src="./assets/images/datamade.jpg" alt="a Longitudinal view of the city budget"></a></div>
                </div>
-
             </div>
          </section>
-         <section class="py-12 lg:py-12">
+         <section class="bg-slate-50 py-12 lg:py-12">
             <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 md:text-center">
                <h2 class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">Treemap budget view</h2>
                <p class="mt-4 text-lg tracking-tight text-slate-700">
@@ -36,7 +45,7 @@
 
             </div>
          </section>
-         <section class="bg-slate-50 py-12 lg:py-20">
+         <section class="py-12 lg:py-20">
             <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                <div class="mx-auto max-w-2xl md:text-center">
                   <h2 class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">Open Budget bubble charts</h2>
@@ -77,7 +86,7 @@
                </div>
             </div>
          </section>
-         <section class="py-12 lg:py-20">
+         <section class="bg-slate-50 py-12 lg:py-20">
             <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                <div class="mx-auto max-w-2xl md:text-center">
                   <h2 id="about" class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">About this website</h2>
@@ -86,7 +95,7 @@
                </div>
             </div>
          </section>
-         <section class="bg-slate-50 py-12 lg:py-20">
+         <section class="py-12 lg:py-20">
             <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                <div class="mx-auto max-w-2xl md:text-center">
                   <h2 id="budget" class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">About Philly's Budget</h2>
@@ -97,7 +106,7 @@
                </div>
             </div>
          </section>
-         <section class="py-20 py-12 lg:py-20">
+         <section class="bg-slate-50 py-20 py-12 lg:py-20">
             <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                <div class="mx-auto max-w-2xl md:text-center">
                   <h2 id="resources" class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">Resources</h2>
